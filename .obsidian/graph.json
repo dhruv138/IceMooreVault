@@ -1,0 +1,72 @@
+{
+  "collapse-filter": false,
+  "search": "-path:Session -path:Resources  ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:People",
+      "color": {
+        "a": 1,
+        "rgb": 5399264
+      }
+    },
+    {
+      "query": "path:Places",
+      "color": {
+        "a": 1,
+        "rgb": 5431420
+      }
+    },
+    {
+      "query": "path:Factions",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Quests  ",
+      "color": {
+        "a": 1,
+        "rgb": 14732626
+      }
+    },
+    {
+      "query": "path:Items  ",
+      "color": {
+        "a": 1,
+        "rgb": 9130720
+      }
+    },
+    {
+      "query": "path:Lore",
+      "color": {
+        "a": 1,
+        "rgb": 13883353
+      }
+    },
+    {
+      "query": "path:\"Clues & Mysteries\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14715730
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -0.4,
+  "nodeSizeMultiplier": 1.49577747989276,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.103552278820375,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 125,
+  "scale": 0.5804224839283093,
+  "close": true
+}

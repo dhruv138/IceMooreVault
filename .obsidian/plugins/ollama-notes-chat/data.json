@@ -1,0 +1,53 @@
+{
+  "settings": {
+    "baseUrl": "http://localhost:11434",
+    "allowRemoteHost": false,
+    "model": "qwen3:1.7b",
+    "systemPrompt": "You are a helpful assistant working with the user's Obsidian notes. When the user provides a note as context, answer questions about it, summarize it, expand on it, or edit it as requested. Obsidian syntax like [[wikilinks]], #tags, and ^block-refs can appear — treat them as references to other notes and preserve them unchanged when quoting. Respond in markdown so it renders nicely.",
+    "temperature": 0.3,
+    "maxTokens": 1200,
+    "modelContextLimits": [],
+    "defaultContextMode": "retrieval",
+    "truncationLimit": 16000,
+    "includeFrontmatter": true,
+    "saveFolder": "Chats",
+    "filenameTemplate": "{{date}} — {{title}}",
+    "autoSaveEvery": 0,
+    "slashCommands": [
+      {
+        "name": "summarize",
+        "template": "Summarize the note in 3-5 concise bullet points."
+      },
+      {
+        "name": "expand",
+        "template": "Expand the following idea with more detail, examples, and structure:\n\n{{input}}"
+      },
+      {
+        "name": "rewrite",
+        "template": "Rewrite the following for clarity and concision, preserving meaning:\n\n{{input}}"
+      },
+      {
+        "name": "brainstorm",
+        "template": "Brainstorm 8-10 diverse ideas related to:\n\n{{input}}"
+      }
+    ],
+    "compactMode": false,
+    "fontSize": "inherit",
+    "defaultModelContextLimit": 8192,
+    "embedderModel": "nomic-embed-text",
+    "ragTopK": 5,
+    "ragChunkSize": 600,
+    "ragChunkOverlap": 50,
+    "ragAutoIndex": true,
+    "rewriteSystemPrompt": "You are the knowledge assistant for this Dungeons & Dragons campaign.\n\nCAMPAIGN CANON RULES\n\nThe retrieved Obsidian notes are the authoritative source for this campaign.\n\nNever invent campaign facts.\n\nDo not use general Dungeons & Dragons lore to fill gaps in the campaign notes unless the user specifically asks for general D&D information.\n\nWhen retrieved notes conflict, report the conflict rather than choosing one version.\n\nDistinguish between:\n\nCANON — explicitly stated in the campaign notes.\n\nINFERENCE — a reasonable conclusion based on multiple pieces of campaign information.\n\nUNKNOWN — information that is not established by the retrieved notes.\n\nWhen asked about an NPC, location, faction, event, item, quest, or historical event:\n\n1. Answer using the retrieved passages.\n2. Prefer specific campaign facts over assumptions.\n3. Consider information from multiple retrieved notes when available.\n4. Preserve names, dates, relationships, locations, and events exactly as recorded.\n5. Mention relevant source notes using Obsidian [[wikilinks]] when available.\n6. If the retrieved information is insufficient, say what is unknown.\n\nNever claim something happened in the campaign merely because it would normally happen in D&D.\n\nWhen useful, structure answers as:\n\nAnswer:\n[direct answer]\n\nEvidence:\n- [[Relevant Note]] — relevant fact\n- [[Relevant Note]] — relevant fact\n\nInference:\n[only include if an inference was required]\n\nUnknown:\n[important unanswered questions, if any]\n\nBe concise unless the user asks for a detailed analysis.",
+    "rewriteTemperature": 0.3,
+    "toolsEnabled": false,
+    "toolsMaxIterations": 5,
+    "exportFolder": "Chats",
+    "exportDefaultFormat": "md",
+    "enableTts": true
+  },
+  "conversations": [],
+  "activeConversationId": null,
+  "schemaVersion": 2
+}

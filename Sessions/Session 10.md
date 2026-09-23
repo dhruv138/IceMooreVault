@@ -1,0 +1,19 @@
+---
+title: "Session 10 — 22 July 2025 Lyra: Deanira"
+tags:
+  - session
+  - actual-play
+  - dnd
+  - 5e
+aliases:
+  - "Session 10"
+---
+# Session 10 — 22 July 2025 Lyra: Deanira
+
+Anita: [[Riffle]]
+Taylor: [[WISC]] Dhruv: [[Furgus]]
+As we walk into [[The Warhammer]], [[Gunther Rockhammer]] waves us over. He says that he has work for us. The city has been receiving many complaints from shipments being ambushed. They have a large grain shipment coming in soon that absolutely needs to be delivered to the city so they can make it through the winter. They want us to eliminate any raiders we find. We’ve been told by [[Oswald]] Sulter (Cuban who was ambushed) at [[Unfinished Business]] that parties have been ambushed by Goliaths. The grain shipment comes in in 3 weeks, they need the route cleared by then. We agree to take the job and head out in a day or two after the market and after we talk to the wizard who has returned from the Feywild luncheon. He invites us into his study which is lavishly decorated. He serves us breakfast platters and cappuccinos and we sit and tell him about the stone. He inspects it and casts a 6th level dispel magic on it, and it bursts. The stone became as large as the table and crumpled it beneath it. The wizard tells us that this is an “onion”, an item with layers and layers of spells on it, usually created by people to conceal what the object truly is. You need to use many high level spells in order to reveal what the item truly is. He asks us to leave it with him for a little while while he tries to find out more about it and break some of the spells. We oblige. We head to the monthly market and buy a tent of glamping, a tanning kit, and [[Riffle]] gets some basic poisons. At the market, we notice a quiet but heated conversation between two Dwarves, and they mention mithril and anthracite (a type of coal predominantly mined by the [[Black Hand Dwarves]] of Kohlenmine. It is an extremely hard coal that burns extremely hot for an extremely long time. It is necessary for forging mithril and
+adamantine). Based on the conversation, the [[Black Hand Dwarves]] have more than doubled the price of the anthracite. The Dwarves of [[Truemetal Halls]] ask what the deal is, as they’re the only buyer. The [[Black Hand Dwarves]] respond that it’d their own business if they have another buyer.
+We head out to clear the trade route for the grain shipment, when we see a black horse grazing on the side of the road. It’s fully tacked and has splotches of red on it. The blood is dried, and doesn’t seem to be the horse’s. When [[WISC]] walks up, he smells death. [[Riffle]] goes through the saddlebags and concludes that the rider was a courier.
+They pocket the letters and look into the supply pouch, where the food is beginning to go [[Bad]]. [[WISC]] looks around and ends up finding a dead human with blows to his head. A tree branch has blood on it as does a rock on the ground. We conclude that he was riding and hit his head on the branch, fell, and hit his head on the rock and died. We now have a fully tacked horse. [[Deanira]] names it Dante. [[WISC]] finds an empty gray bag and pulls from it a giant badger. He reaches in again twice more and pulls out two giant rats. [[Riffle]] recognises it as a [[Grey Bag of Tricks]]. He relates what the item is in the narrator’s voice (Mike). [[Riffle]] suggests that we use them as scouts, sending one in front of us and one to each side to scout for danger. We agree this is a great idea. We set up the tent of glamping and sleep for the night. It goes by peacefully. The next day we’re walking and feel rain, but it doesn’t look like it’s raining. It’s red. [[Deanira]] looks up and gets hit by the head of a giant elk, dropped by a white dragon flying north.
+[[Deanira]] harvests the antlers and stores them in the bag of holding. As we walk, a cloud of arrows descends upon us.
