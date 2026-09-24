@@ -1,5 +1,16 @@
 ---
 title: "Crystalline Glacier"
+type: "location"
+name: "Crystalline Glacier"
+aliases: []
+region:
+parent_location:
+status: "active"
+factions: []
+npcs: []
+related:
+  - "[[Axeholm]]"
+first_seen: "[[Session 14]]"
 tags:
   - place
   - landmark

@@ -1,5 +1,24 @@
 ---
 title: "Session 10 — 22 July 2025 Lyra: Deanira"
+type: "session"
+session: "10"
+date: "22 July 2025 Lyra: Deanira"
+locations:
+  - "[[The Warhammer]]"
+  - "[[Unfinished Business]]"
+  - "[[Truemetal Halls]]"
+npcs:
+  - "[[Riffle]]"
+  - "[[WISC]]"
+  - "[[Furgus]]"
+  - "[[Gunther Rockhammer]]"
+  - "[[Oswald]]"
+  - "[[Deanira]]"
+factions:
+  - "[[Black Hand Dwarves]]"
+quests: []
+previous_session: "[[Session 09]]"
+next_session: "[[Session 11]]"
 tags:
   - session
   - actual-play

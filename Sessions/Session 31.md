@@ -1,5 +1,28 @@
 ---
 title: "Session 31 — 16 June 2026"
+type: "session"
+session: "31"
+date: "16 June 2026"
+locations:
+  - "[[Truemetal Halls]]"
+  - "[[Venburg]]"
+  - "[[Valley of Fire]]"
+  - "[[Venberg]]"
+  - "[[Eisenberg]]"
+npcs:
+  - "[[WISC]]"
+  - "[[Riffle]]"
+  - "[[Furgus]]"
+  - "[[Daddy Dildo Daggins]]"
+  - "[[Deanira]]"
+  - "[[Uthal]]"
+  - "[[Klaus]]"
+  - "[[Annika]]"
+  - "[[Queen]]"
+factions: []
+quests: []
+previous_session: "[[Session 30]]"
+next_session: "[[Session 32]]"
 tags:
   - session
   - actual-play

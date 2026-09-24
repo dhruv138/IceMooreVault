@@ -1,5 +1,18 @@
 ---
 title: "Session 22 — 28 Jan 2026"
+type: "session"
+session: "22"
+date: "28 Jan 2026"
+locations:
+  - "[[Truemetal Halls]]"
+npcs:
+  - "[[Furgus]]"
+  - "[[Riffle]]"
+  - "[[Deanira]]"
+factions: []
+quests: []
+previous_session: "[[Session 21]]"
+next_session: "[[Session 23]]"
 tags:
   - session
   - actual-play

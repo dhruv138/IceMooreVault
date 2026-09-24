@@ -1,5 +1,22 @@
 ---
 title: "Session 6 — 2 May 2025"
+type: "session"
+session: "6"
+date: "2 May 2025"
+locations:
+  - "[[Truemetal Halls]]"
+  - "[[Black Dragon Inn]]"
+  - "[[Lakeshire]]"
+npcs:
+  - "[[WISC]]"
+  - "[[Furgus]]"
+  - "[[Hilda]]"
+  - "[[Elzock Emberstone]]"
+  - "[[Deanira]]"
+factions: []
+quests: []
+previous_session: "[[Session 05]]"
+next_session: "[[Session 07]]"
 tags:
   - session
   - actual-play

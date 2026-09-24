@@ -1,5 +1,17 @@
 ---
 title: "Daggins Murder"
+type: "quest"
+name: "Daggins Murder"
+status: "active"
+quest_giver:
+locations: []
+npcs:
+  - "[[Daddy Dildo Daggins]]"
+  - "[[Riffle]]"
+factions: []
+related: []
+introduced: "[[Session 37]]"
+completed:
 tags:
   - quest
   - active

@@ -1,5 +1,13 @@
 ---
 title: "Klaus"
+type: "npc"
+name: "Klaus"
+status: "unknown"
+location:
+affiliations: []
+related:
+  - "[[Venburg]]"
+first_seen: "[[Session 31]]"
 tags:
   - person
   - npc

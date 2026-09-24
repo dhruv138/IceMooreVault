@@ -1,5 +1,14 @@
 ---
 title: "Daddy Dildo Daggins"
+type: "npc"
+name: "Daddy Dildo Daggins"
+status: "unknown"
+location:
+affiliations: []
+related:
+  - "[[Truemetal Halls]]"
+  - "[[Axeholm]]"
+first_seen: "[[Session 09]]"
 tags:
   - person
   - npc

@@ -1,5 +1,15 @@
 ---
 title: "Philip"
+type: "character"
+name: "Philip"
+aliases: []
+status: "active"
+location:
+affiliations: []
+related:
+  - "[[Venburg]]"
+  - "[[Amberhold]]"
+first_seen: "[[Session 33]]"
 tags:
   - person
   - character

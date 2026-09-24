@@ -1,5 +1,15 @@
 ---
 title: "Hana Goldfirm"
+type: "npc"
+name: "Hana Goldfirm"
+status: "unknown"
+location:
+affiliations:
+  - "[[Department of Acquisitions]]"
+related:
+  - "[[Riffle]]"
+  - "[[Amberhold]]"
+first_seen: "[[Session 23]]"
 tags:
   - person
   - npc

@@ -1,5 +1,16 @@
 ---
 title: "Velvet Glove Brothel"
+type: "location"
+name: "Velvet Glove Brothel"
+aliases: []
+region:
+parent_location:
+status: "active"
+factions: []
+npcs: []
+related:
+  - "[[Amberhold]]"
+first_seen: "[[Session 35]]"
 tags:
   - place
   - brothel

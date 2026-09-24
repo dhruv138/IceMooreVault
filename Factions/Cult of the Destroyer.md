@@ -1,5 +1,16 @@
 ---
 title: "Cult of the Destroyer"
+type: "faction"
+name: "Cult of the Destroyer"
+aliases: []
+status: "active"
+headquarters:
+leaders: []
+allies: []
+enemies: []
+locations: []
+related: []
+first_seen: "[[Session 17]]"
 tags:
   - faction
   - organization

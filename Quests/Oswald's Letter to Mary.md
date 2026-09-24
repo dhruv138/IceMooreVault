@@ -1,5 +1,18 @@
 ---
 title: "Oswald's Letter to Mary"
+type: "quest"
+name: "Oswald's Letter to Mary"
+status: "active"
+quest_giver:
+locations:
+  - "[[Lakeshire]]"
+npcs:
+  - "[[Oswald]]"
+  - "[[Mary Salter]]"
+factions: []
+related: []
+introduced:
+completed:
 tags:
   - quest
   - active

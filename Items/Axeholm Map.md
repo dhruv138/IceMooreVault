@@ -1,5 +1,18 @@
 ---
 title: "Axeholm Map"
+type: "item"
+name: "Axeholm Map"
+aliases: []
+status: "active"
+item_type:
+rarity:
+owner:
+location:
+creator:
+factions: []
+quests: []
+related: []
+first_seen:
 tags:
   - item
   - map

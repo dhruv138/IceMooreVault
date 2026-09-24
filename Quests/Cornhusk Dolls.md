@@ -1,5 +1,16 @@
 ---
 title: "Cornhusk Dolls"
+type: "quest"
+name: "Cornhusk Dolls"
+status: "unresolved"
+quest_giver:
+locations: []
+npcs:
+  - "[[Agatha]]"
+factions: []
+related: []
+introduced: "[[Session 17]]"
+completed:
 tags:
   - quest
   - unresolved

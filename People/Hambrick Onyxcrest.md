@@ -1,5 +1,13 @@
 ---
 title: "Hambrick Onyxcrest"
+type: "npc"
+name: "Hambrick Onyxcrest"
+status: "unknown"
+location:
+affiliations: []
+related:
+  - "[[Truemetal Halls]]"
+first_seen: "[[Session 09]]"
 tags:
   - person
   - npc

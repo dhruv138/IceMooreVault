@@ -1,5 +1,14 @@
 ---
 title: "Cam Jergins"
+type: "npc"
+name: "Cam Jergins"
+status: "unknown"
+location:
+affiliations:
+  - "[[Skeletal Hand]]"
+related:
+  - "[[Cock and Pig]]"
+first_seen: "[[Session 36]]"
 tags:
   - person
   - npc

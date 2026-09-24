@@ -1,5 +1,16 @@
 ---
 title: "Wren Nalore"
+type: "location"
+name: "Wren Nalore"
+aliases: []
+region:
+parent_location:
+status: "active"
+factions: []
+npcs:
+  - "[[Agatha]]"
+related: []
+first_seen: "[[Session 14]]"
 tags:
   - place
   - city

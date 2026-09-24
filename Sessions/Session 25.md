@@ -1,5 +1,27 @@
 ---
 title: "Session 25 — 16 February 2026"
+type: "session"
+session: "25"
+date: "16 February 2026"
+locations:
+  - "[[Axeholm]]"
+  - "[[The Warhammer]]"
+  - "[[Venberg]]"
+npcs:
+  - "[[Riffle]]"
+  - "[[Daddy Dildo Daggins]]"
+  - "[[Deanira]]"
+  - "[[Furgus]]"
+  - "[[Hector]]"
+  - "[[Gunther Rockhammer]]"
+  - "[[Sherlock Gnomes]]"
+  - "[[WISC]]"
+  - "[[Lord Ivan Deepshaft]]"
+  - "[[Christolf Nightfall]]"
+factions: []
+quests: []
+previous_session: "[[Session 24]]"
+next_session: "[[Session 26]]"
 tags:
   - session
   - actual-play

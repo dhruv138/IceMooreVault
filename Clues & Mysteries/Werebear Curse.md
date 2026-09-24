@@ -15,3 +15,5 @@ Notes establish:
 - A [[Wolfsbane Potion]] may be possible.
 - Possible ingredients include wolfsbane, a stabilizing agent, powdered moonstone/moon seed, lycanthrope blood, and purified/blessed water.
 - [[Bianca Onyxcrest]] eventually agreed to arrange magical treatment.
+
+In [[Session 37]], clerics at the [[Temple of Mistra]] cured WISC and Furgus. **Status: resolved for the party.**

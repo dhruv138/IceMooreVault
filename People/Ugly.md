@@ -1,5 +1,13 @@
 ---
 title: "Ugly"
+type: "npc"
+name: "Ugly"
+status: "unknown"
+location:
+affiliations: []
+related:
+  - "[[Fizz]]"
+first_seen: "[[Session 15]]"
 tags:
   - person
   - npc

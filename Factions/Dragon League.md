@@ -1,5 +1,16 @@
 ---
 title: "Dragon League"
+type: "faction"
+name: "Dragon League"
+aliases: []
+status: "active"
+headquarters:
+leaders: []
+allies: []
+enemies: []
+locations: []
+related: []
+first_seen: "[[Session 21]]"
 tags:
   - faction
   - organization

@@ -1,5 +1,14 @@
 ---
 title: "Oswald"
+type: "npc"
+name: "Oswald"
+status: "unknown"
+location:
+affiliations: []
+related:
+  - "[[Mary Salter]]"
+  - "[[Unfinished Business]]"
+first_seen: "[[Session 07]]"
 tags:
   - person
   - npc

@@ -1,5 +1,33 @@
 ---
 title: "Session 35 — 17 August 2026"
+type: "session"
+session: "35"
+date: "17 August 2026"
+locations:
+  - "[[Amberhold]]"
+  - "[[Venburg]]"
+  - "[[Western Point]]"
+  - "[[Velvet Glove Brothel]]"
+  - "[[Axeholm]]"
+npcs:
+  - "[[Philip]]"
+  - "[[Riffle]]"
+  - "[[Bianca Onyxcrest]]"
+  - "[[Talir Rengavi]]"
+  - "[[Theo'din Corvis]]"
+  - "[[Furgus]]"
+  - "[[Jane Pedimore]]"
+  - "[[WISC]]"
+  - "[[Uthal]]"
+  - "[[Klaus]]"
+  - "[[Deanira]]"
+  - "[[Sabrina]]"
+factions:
+  - "[[Skeletal Hand]]"
+quests:
+  - "[[Master of Death]]"
+previous_session: "[[Session 34]]"
+next_session: "[[Session 36]]"
 tags:
   - session
   - actual-play

@@ -1,5 +1,32 @@
 ---
 title: "Session 34 — 27 July 2026"
+type: "session"
+session: "34"
+date: "27 July 2026"
+locations:
+  - "[[Moaning Gorge]]"
+  - "[[Venburg]]"
+  - "[[Kriptin Forest]]"
+  - "[[Emerald Glade]]"
+  - "[[Amberhold]]"
+  - "[[Krypton Forest]]"
+npcs:
+  - "[[Theo'din Corvis]]"
+  - "[[Furgus]]"
+  - "[[Deanira]]"
+  - "[[WISC]]"
+  - "[[Philip]]"
+  - "[[Klaus]]"
+  - "[[Riffle]]"
+  - "[[Hana Goldfirm]]"
+  - "[[Talir Rengavi]]"
+  - "[[Bianca Onyxcrest]]"
+  - "[[The Bastard]]"
+factions: []
+quests:
+  - "[[Cornhusk Dolls]]"
+previous_session: "[[Session 33]]"
+next_session: "[[Session 35]]"
 tags:
   - session
   - actual-play

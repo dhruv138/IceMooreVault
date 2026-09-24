@@ -1,5 +1,18 @@
 ---
 title: "Grey Bag of Tricks"
+type: "item"
+name: "Grey Bag of Tricks"
+aliases: []
+status: "active"
+item_type:
+rarity:
+owner:
+location:
+creator:
+factions: []
+quests: []
+related: []
+first_seen: "[[Session 10]]"
 tags:
   - item
   - wondrous_item

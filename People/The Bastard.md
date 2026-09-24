@@ -1,5 +1,15 @@
 ---
 title: "The Bastard"
+type: "npc"
+name: "The Bastard"
+status: "unknown"
+location:
+affiliations:
+  - "[[The Bastard's Band]]"
+related:
+  - "[[The Poet]]"
+  - "[[Emerald Glade]]"
+first_seen: "[[Session 23]]"
 tags:
   - person
   - npc

@@ -1,5 +1,21 @@
 ---
 title: "Session 11 — 6 August 2025"
+type: "session"
+session: "11"
+date: "6 August 2025"
+locations:
+  - "[[Triborn Pass]]"
+npcs:
+  - "[[WISC]]"
+  - "[[Furgus]]"
+  - "[[Uthal]]"
+  - "[[Deanira]]"
+  - "[[Ilkan]]"
+  - "[[Riffle]]"
+factions: []
+quests: []
+previous_session: "[[Session 10]]"
+next_session: "[[Session 12]]"
 tags:
   - session
   - actual-play

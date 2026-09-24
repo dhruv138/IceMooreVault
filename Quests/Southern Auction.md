@@ -1,5 +1,17 @@
 ---
 title: "Southern Auction"
+type: "quest"
+name: "Southern Auction"
+status: "upcoming"
+quest_giver:
+locations:
+  - "[[Western Point]]"
+  - "[[Dunnings Auction House]]"
+npcs: []
+factions: []
+related: []
+introduced:
+completed:
 tags:
   - quest
   - upcoming

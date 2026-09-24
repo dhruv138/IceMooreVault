@@ -1,5 +1,27 @@
 ---
 title: "Session 13 — 20 August 2025"
+type: "session"
+session: "13"
+date: "20 August 2025"
+locations:
+  - "[[Black Dragon Inn]]"
+  - "[[Amberhold]]"
+  - "[[Dunnings Auction House]]"
+  - "[[Western Point]]"
+  - "[[Truemetal Halls]]"
+  - "[[The Warhammer]]"
+npcs:
+  - "[[Deanira]]"
+  - "[[Uthal]]"
+  - "[[Riffle]]"
+  - "[[Gunther Rockhammer]]"
+  - "[[Furgus]]"
+  - "[[WISC]]"
+factions:
+  - "[[Library of Deneir]]"
+quests: []
+previous_session: "[[Session 12]]"
+next_session: "[[Session 14]]"
 tags:
   - session
   - actual-play

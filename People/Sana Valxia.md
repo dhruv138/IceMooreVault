@@ -1,5 +1,14 @@
 ---
 title: "Sana Valxia"
+type: "npc"
+name: "Sana Valxia"
+status: "unknown"
+location:
+affiliations: []
+related:
+  - "[[Temple of the Wild Mother and Lawbringer]]"
+  - "[[Wren Nalore]]"
+first_seen: "[[Session 18]]"
 tags:
   - person
   - npc

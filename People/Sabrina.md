@@ -1,5 +1,15 @@
 ---
 title: "Sabrina"
+type: "npc"
+name: "Sabrina"
+status: "unknown"
+location:
+affiliations: []
+related:
+  - "[[Riffle]]"
+  - "[[Velvet Glove Brothel]]"
+  - "[[Amberhold]]"
+first_seen: "[[Session 35]]"
 tags:
   - person
   - npc

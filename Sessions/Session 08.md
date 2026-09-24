@@ -1,5 +1,27 @@
 ---
 title: "Session 8 — 18 June 2025"
+type: "session"
+session: "8"
+date: "18 June 2025"
+locations:
+  - "[[The Shooting Star]]"
+  - "[[Ring of Gold]]"
+  - "[[Murderhorn]]"
+npcs:
+  - "[[Wolf]]"
+  - "[[Gunther Rockhammer]]"
+  - "[[Earl Emberstone]]"
+  - "[[WISC]]"
+  - "[[Furgus]]"
+  - "[[Deanira]]"
+  - "[[Lord Ivan Deepshaft]]"
+  - "[[Elzock Emberstone]]"
+factions:
+  - "[[Iron Dwarves]]"
+  - "[[Court]]"
+quests: []
+previous_session: "[[Session 07]]"
+next_session: "[[Session 09]]"
 tags:
   - session
   - actual-play

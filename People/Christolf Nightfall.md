@@ -1,5 +1,14 @@
 ---
 title: "Christolf Nightfall"
+type: "npc"
+name: "Christolf Nightfall"
+status: "unknown"
+location:
+affiliations:
+  - "[[Skeletal Hand]]"
+related:
+  - "[[Truemetal Halls]]"
+first_seen: "[[Session 16]]"
 tags:
   - person
   - npc

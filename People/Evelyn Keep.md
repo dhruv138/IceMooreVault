@@ -1,5 +1,14 @@
 ---
 title: "Evelyn Keep"
+type: "npc"
+name: "Evelyn Keep"
+status: "unknown"
+location:
+affiliations: []
+related:
+  - "[[Cock and Pig]]"
+  - "[[Amberhold]]"
+first_seen: "[[Session 36]]"
 tags:
   - person
   - npc

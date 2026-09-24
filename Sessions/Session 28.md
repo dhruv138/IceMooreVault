@@ -1,5 +1,24 @@
 ---
 title: "Session 28 — 8 April 2026"
+type: "session"
+session: "28"
+date: "8 April 2026"
+locations:
+  - "[[Venburg]]"
+npcs:
+  - "[[Riffle]]"
+  - "[[WISC]]"
+  - "[[Furgus]]"
+  - "[[Deanira]]"
+  - "[[Talir Rengavi]]"
+  - "[[Zeke]]"
+  - "[[Ambria]]"
+  - "[[Wolf]]"
+factions:
+  - "[[Skeletal Hand]]"
+quests: []
+previous_session: "[[Session 27]]"
+next_session: "[[Session 29]]"
 tags:
   - session
   - actual-play

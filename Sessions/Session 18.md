@@ -1,5 +1,27 @@
 ---
 title: "Session 18 — 25 October 2025"
+type: "session"
+session: "18"
+date: "25 October 2025"
+locations:
+  - "[[Wren Nalore]]"
+  - "[[Living Bloom]]"
+  - "[[Golden Sea]]"
+  - "[[Amberhold]]"
+  - "[[Temple of the Wild Mother and Lawbringer]]"
+npcs:
+  - "[[Tiny]]"
+  - "[[Riffle]]"
+  - "[[Sana Valxia]]"
+  - "[[WISC]]"
+  - "[[Furgus]]"
+  - "[[Deanira]]"
+  - "[[Mittens]]"
+factions:
+  - "[[Cult of the Destroyer]]"
+quests: []
+previous_session: "[[Session 17]]"
+next_session: "[[Session 19]]"
 tags:
   - session
   - actual-play

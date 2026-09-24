@@ -1,5 +1,25 @@
 ---
 title: "Session 15 — 20 September 2025"
+type: "session"
+session: "15"
+date: "20 September 2025"
+locations:
+  - "[[Darham Hold]]"
+  - "[[Truemetal Halls]]"
+  - "[[Eisenberg]]"
+  - "[[Amberhold]]"
+  - "[[The Forge]]"
+npcs:
+  - "[[Deanira]]"
+  - "[[Riffle]]"
+  - "[[WISC]]"
+  - "[[Fizz]]"
+  - "[[Ugly]]"
+  - "[[Furgus]]"
+factions: []
+quests: []
+previous_session: "[[Session 14]]"
+next_session: "[[Session 16]]"
 tags:
   - session
   - actual-play

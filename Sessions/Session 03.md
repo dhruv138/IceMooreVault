@@ -1,5 +1,18 @@
 ---
 title: "Session 3 — 29 February 2025"
+type: "session"
+session: "3"
+date: "29 February 2025"
+locations: []
+npcs:
+  - "[[Deanira]]"
+  - "[[Furgus]]"
+  - "[[WISC]]"
+  - "[[Tiny]]"
+factions: []
+quests: []
+previous_session:
+next_session: "[[Session 04]]"
 tags:
   - session
   - actual-play

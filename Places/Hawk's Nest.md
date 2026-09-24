@@ -1,5 +1,15 @@
 ---
 title: "Hawk's Nest"
+type: "location"
+name: "Hawk's Nest"
+aliases: []
+region:
+parent_location:
+status: "active"
+factions: []
+npcs: []
+related: []
+first_seen:
 tags:
   - place
   - landmark

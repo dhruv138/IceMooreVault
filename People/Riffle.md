@@ -1,5 +1,23 @@
 ---
 title: "Riffle"
+type: "character"
+name: "Riffle"
+aliases: []
+status: "active"
+location:
+affiliations:
+  - "[[Library of Deneir]]"
+  - "[[Department of Acquisitions]]"
+  - "[[Mistra's Academy]]"
+  - "[[Skeletal Hand]]"
+related:
+  - "[[Talir Rengavi]]"
+  - "[[Hana Goldfirm]]"
+  - "[[Daddy Dildo Daggins]]"
+  - "[[Ester]]"
+  - "[[Axeholm]]"
+  - "[[Amberhold]]"
+first_seen: "[[Session 10]]"
 tags:
   - person
   - character
@@ -31,3 +49,6 @@ Riffle serves as a clandestine collector of knowledge, artifacts, and secrets fo
 
 ## Notes
 Riffle is highly inquisitive, prone to theft and mischief, and has accumulated a substantial number of secrets.
+
+- In [[Session 37]], learned from [[Ester]] that the Library's robes changed from red to purple 50–60 years ago and that old red robes may have survived, creating a lead in the [[Daggins Murder]].
+- Discovered that a sect claiming to worship [[Torm]] has been attacking Amberhold businesses that sell alcohol.

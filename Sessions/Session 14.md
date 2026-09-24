@@ -1,5 +1,25 @@
 ---
 title: "Session 14 — 9 September 2025"
+type: "session"
+session: "14"
+date: "9 September 2025"
+locations:
+  - "[[Baptism by Fire]]"
+  - "[[Axeholm]]"
+  - "[[Crystalline Glacier]]"
+  - "[[The Warhammer]]"
+  - "[[Wren Nalore]]"
+npcs:
+  - "[[WISC]]"
+  - "[[Daddy Dildo Daggins]]"
+  - "[[Deanira]]"
+  - "[[Gunther Rockhammer]]"
+  - "[[Furgus]]"
+  - "[[Riffle]]"
+factions: []
+quests: []
+previous_session: "[[Session 13]]"
+next_session: "[[Session 15]]"
 tags:
   - session
   - actual-play

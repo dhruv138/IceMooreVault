@@ -1,5 +1,33 @@
 ---
 title: "Session 7 — 1 June 2025"
+type: "session"
+session: "7"
+date: "1 June 2025"
+locations:
+  - "[[Black Dragon Inn]]"
+  - "[[Truemetal Halls]]"
+  - "[[Tryborne Pass]]"
+  - "[[First Star]]"
+  - "[[Unfinished Business]]"
+  - "[[Lakeshire]]"
+  - "[[Ring of Gold]]"
+  - "[[The Warhammer]]"
+  - "[[The Shooting Star]]"
+npcs:
+  - "[[Furgus]]"
+  - "[[Deanira]]"
+  - "[[Oswald]]"
+  - "[[Glasses]]"
+  - "[[Anton]]"
+  - "[[WISC]]"
+  - "[[Mary Salter]]"
+  - "[[Elzock Emberstone]]"
+  - "[[Gunther Rockhammer]]"
+  - "[[Val]]"
+factions: []
+quests: []
+previous_session: "[[Session 06]]"
+next_session: "[[Session 08]]"
 tags:
   - session
   - actual-play

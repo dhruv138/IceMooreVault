@@ -1,5 +1,16 @@
 ---
 title: "Anthracite Trade Mystery"
+type: "quest"
+name: "Anthracite Trade Mystery"
+status: "active"
+quest_giver:
+locations: []
+npcs: []
+factions:
+  - "[[Black Hand Dwarves]]"
+related: []
+introduced:
+completed:
 tags:
   - quest
   - active

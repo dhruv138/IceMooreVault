@@ -1,5 +1,13 @@
 ---
 title: "WISC's Grandmother"
+type: "npc"
+name: "WISC's Grandmother"
+status: "unknown"
+location:
+affiliations: []
+related:
+  - "[[Venburg]]"
+first_seen:
 tags:
   - person
   - npc

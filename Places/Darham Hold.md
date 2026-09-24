@@ -1,5 +1,15 @@
 ---
 title: "Darham Hold"
+type: "location"
+name: "Darham Hold"
+aliases: []
+region:
+parent_location:
+status: "active"
+factions: []
+npcs: []
+related: []
+first_seen: "[[Session 15]]"
 tags:
   - place
   - town

@@ -1,5 +1,13 @@
 ---
 title: "Glasses"
+type: "npc"
+name: "Glasses"
+status: "unknown"
+location:
+affiliations:
+  - "[[The Bastard's Band]]"
+related: []
+first_seen: "[[Session 07]]"
 tags:
   - person
   - npc

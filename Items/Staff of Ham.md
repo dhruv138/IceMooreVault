@@ -1,5 +1,18 @@
 ---
 title: "Staff of Ham"
+type: "item"
+name: "Staff of Ham"
+aliases: []
+status: "active"
+item_type:
+rarity:
+owner:
+location:
+creator:
+factions: []
+quests: []
+related: []
+first_seen: "[[Session 12]]"
 tags:
   - item
   - wondrous_item
