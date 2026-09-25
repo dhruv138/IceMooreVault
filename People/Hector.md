@@ -1,5 +1,13 @@
 ---
 title: "Hector"
+type: "npc"
+name: "Hector"
+status: "unknown"
+location:
+affiliations: []
+related:
+  - "[[Truemetal Halls]]"
+first_seen: "[[Session 24]]"
 tags:
   - person
   - npc

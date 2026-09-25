@@ -1,5 +1,19 @@
 ---
 title: "Reaper"
+type: "item"
+name: "Reaper"
+aliases: []
+status: "active"
+item_type:
+rarity:
+owner:
+location:
+creator:
+factions: []
+quests: []
+related:
+  - "[[WISC]]"
+first_seen: "[[Session 08]]"
 tags:
   - item
   - weapon

@@ -1,5 +1,14 @@
 ---
 title: "Mittens"
+type: "npc"
+name: "Mittens"
+status: "unknown"
+location:
+affiliations: []
+related:
+  - "[[Bog's Rest]]"
+  - "[[Amberhold]]"
+first_seen: "[[Session 18]]"
 tags:
   - person
   - npc

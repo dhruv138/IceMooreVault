@@ -1,5 +1,22 @@
 ---
 title: "Mystery Stone"
+type: "item"
+name: "Mystery Stone"
+aliases: []
+status: "active"
+item_type:
+rarity:
+owner:
+location:
+creator:
+factions:
+  - "[[Library of Deneir]]"
+quests: []
+related:
+  - "[[Hambrick Onyxcrest]]"
+  - "[[Bianca Onyxcrest]]"
+  - "[[Talir Rengavi]]"
+first_seen:
 tags:
   - item
   - artifact

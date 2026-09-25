@@ -1,5 +1,15 @@
 ---
 title: "Warrior of Kord"
+type: "quest"
+name: "Warrior of Kord"
+status: "unresolved"
+quest_giver:
+locations: []
+npcs: []
+factions: []
+related: []
+introduced:
+completed:
 tags:
   - quest
   - unresolved

@@ -1,5 +1,20 @@
 ---
 title: "Daggins's Journal"
+type: "item"
+name: "Daggins's Journal"
+aliases: []
+status: "active"
+item_type:
+rarity:
+owner:
+location:
+creator:
+factions: []
+quests: []
+related:
+  - "[[Daddy Dildo Daggins]]"
+  - "[[Hana Goldfirm]]"
+first_seen:
 tags:
   - item
   - document

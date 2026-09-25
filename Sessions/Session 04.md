@@ -1,5 +1,17 @@
 ---
 title: "Session 4 — 9 March 2025"
+type: "session"
+session: "4"
+date: "9 March 2025"
+locations: []
+npcs:
+  - "[[Furgus]]"
+  - "[[WISC]]"
+  - "[[Deanira]]"
+factions: []
+quests: []
+previous_session: "[[Session 03]]"
+next_session: "[[Session 05]]"
 tags:
   - session
   - actual-play

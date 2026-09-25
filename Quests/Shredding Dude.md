@@ -1,5 +1,17 @@
 ---
 title: "Shredding Dude"
+type: "quest"
+name: "Shredding Dude"
+status: "unresolved"
+quest_giver:
+locations:
+  - "[[MurderDrum]]"
+  - "[[Amberhold]]"
+npcs: []
+factions: []
+related: []
+introduced:
+completed:
 tags:
   - quest
   - unresolved

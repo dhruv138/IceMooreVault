@@ -1,5 +1,18 @@
 ---
 title: "Werebear Curse"
+type: "quest"
+name: "Werebear Curse"
+status: "partially resolved"
+quest_giver:
+locations: []
+npcs:
+  - "[[WISC]]"
+  - "[[Furgus]]"
+  - "[[Bianca Onyxcrest]]"
+factions: []
+related: []
+introduced:
+completed:
 tags:
   - quest
   - partially resolved

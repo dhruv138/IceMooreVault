@@ -1,5 +1,18 @@
 ---
 title: "Helm of the Summer Moon"
+type: "item"
+name: "Helm of the Summer Moon"
+aliases: []
+status: "active"
+item_type:
+rarity:
+owner:
+location:
+creator:
+factions: []
+quests: []
+related: []
+first_seen: "[[Session 12]]"
 tags:
   - item
   - magic_item

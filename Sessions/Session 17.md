@@ -1,5 +1,31 @@
 ---
 title: "Session 17 — 16 October 2025"
+type: "session"
+session: "17"
+date: "16 October 2025"
+locations:
+  - "[[The Warhammer]]"
+  - "[[Kohlemine]]"
+  - "[[Truemetal Halls]]"
+  - "[[Axeholm]]"
+  - "[[Darham Hold]]"
+  - "[[Eisenberg]]"
+  - "[[Wren Nalore]]"
+npcs:
+  - "[[Gunther Rockhammer]]"
+  - "[[Riffle]]"
+  - "[[Furgus]]"
+  - "[[Daddy Dildo Daggins]]"
+  - "[[Deanira]]"
+  - "[[Wetel]]"
+factions:
+  - "[[Black Hand Dwarves]]"
+  - "[[Iron Dwarves]]"
+  - "[[Cult of the Destroyer]]"
+quests:
+  - "[[Cornhusk Dolls]]"
+previous_session: "[[Session 16]]"
+next_session: "[[Session 18]]"
 tags:
   - session
   - actual-play

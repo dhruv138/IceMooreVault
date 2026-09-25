@@ -1,5 +1,15 @@
 ---
 title: "Krypton Forest"
+type: "location"
+name: "Krypton Forest"
+aliases: []
+region:
+parent_location:
+status: "active"
+factions: []
+npcs: []
+related: []
+first_seen: "[[Session 34]]"
 tags:
   - place
   - forest

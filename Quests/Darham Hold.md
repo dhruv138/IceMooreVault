@@ -1,5 +1,16 @@
 ---
 title: "Darham Hold"
+type: "quest"
+name: "Darham Hold"
+status: "unresolved"
+quest_giver:
+locations:
+  - "[[Darham Hold]]"
+npcs: []
+factions: []
+related: []
+introduced: "[[Session 15]]"
+completed:
 tags:
   - quest
   - unresolved

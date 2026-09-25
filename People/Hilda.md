@@ -1,5 +1,13 @@
 ---
 title: "Hilda"
+type: "npc"
+name: "Hilda"
+status: "unknown"
+location:
+affiliations: []
+related:
+  - "[[Black Dragon Inn]]"
+first_seen: "[[Session 06]]"
 tags:
   - person
   - npc

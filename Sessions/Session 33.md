@@ -1,5 +1,24 @@
 ---
 title: "Session 33 — 20 July 2026"
+type: "session"
+session: "33"
+date: "20 July 2026"
+locations:
+  - "[[Venberg]]"
+  - "[[Wren Nalore]]"
+  - "[[Amberhold]]"
+npcs:
+  - "[[WISC]]"
+  - "[[Furgus]]"
+  - "[[Philip]]"
+  - "[[Deanira]]"
+  - "[[Klaus]]"
+  - "[[Riffle]]"
+  - "[[Theo'din Corvis]]"
+factions: []
+quests: []
+previous_session: "[[Session 32]]"
+next_session: "[[Session 34]]"
 tags:
   - session
   - actual-play

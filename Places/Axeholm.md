@@ -1,5 +1,15 @@
 ---
 title: "Axeholm"
+type: "location"
+name: "Axeholm"
+aliases: []
+region:
+parent_location:
+status: "active"
+factions: []
+npcs: []
+related: []
+first_seen: "[[Session 05]]"
 tags:
   - place
   - lost_city

@@ -1,5 +1,26 @@
 ---
 title: "Session 29 — 15 April 2026"
+type: "session"
+session: "29"
+date: "15 April 2026"
+locations:
+  - "[[Amberhold]]"
+  - "[[Venburg]]"
+  - "[[Truemetal Halls]]"
+npcs:
+  - "[[Riffle]]"
+  - "[[WISC]]"
+  - "[[Wolf]]"
+  - "[[Ambria]]"
+  - "[[Zeke]]"
+  - "[[Deanira]]"
+  - "[[Furgus]]"
+  - "[[Christolf Nightfall]]"
+  - "[[Corthos]]"
+factions: []
+quests: []
+previous_session: "[[Session 28]]"
+next_session: "[[Session 30]]"
 tags:
   - session
   - actual-play

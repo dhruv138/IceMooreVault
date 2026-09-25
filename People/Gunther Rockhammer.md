@@ -1,5 +1,15 @@
 ---
 title: "Gunther Rockhammer"
+type: "npc"
+name: "Gunther Rockhammer"
+status: "unknown"
+location:
+affiliations:
+  - "[[Court]]"
+related:
+  - "[[The Warhammer]]"
+  - "[[Truemetal Halls]]"
+first_seen: "[[Session 07]]"
 tags:
   - person
   - npc

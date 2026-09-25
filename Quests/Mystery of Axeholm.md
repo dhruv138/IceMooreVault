@@ -1,5 +1,18 @@
 ---
 title: "Mystery of Axeholm"
+type: "quest"
+name: "Mystery of Axeholm"
+status: "active"
+quest_giver:
+locations:
+  - "[[Axeholm]]"
+  - "[[Zyuir]]"
+  - "[[Crystalline Glacier]]"
+npcs: []
+factions: []
+related: []
+introduced:
+completed:
 tags:
   - quest
   - active

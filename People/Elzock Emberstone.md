@@ -1,5 +1,14 @@
 ---
 title: "Elzock Emberstone"
+type: "npc"
+name: "Elzock Emberstone"
+status: "unknown"
+location:
+affiliations: []
+related:
+  - "[[Earl Emberstone]]"
+  - "[[Ring of Gold]]"
+first_seen: "[[Session 05]]"
 tags:
   - person
   - npc

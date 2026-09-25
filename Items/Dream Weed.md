@@ -1,5 +1,18 @@
 ---
 title: "Dream Weed"
+type: "item"
+name: "Dream Weed"
+aliases: []
+status: "active"
+item_type:
+rarity:
+owner:
+location:
+creator:
+factions: []
+quests: []
+related: []
+first_seen: "[[Session 15]]"
 tags:
   - item
   - consumable

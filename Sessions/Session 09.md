@@ -1,5 +1,25 @@
 ---
 title: "Session 9 — 17 July 2025 Anita: Riﬄe"
+type: "session"
+session: "9"
+date: "17 July 2025 Anita: Riﬄe"
+locations:
+  - "[[Junk in the Trunk]]"
+  - "[[Axeholm]]"
+  - "[[The Warhammer]]"
+  - "[[Truemetal Halls]]"
+npcs:
+  - "[[Deanira]]"
+  - "[[WISC]]"
+  - "[[Furgus]]"
+  - "[[Daddy Dildo Daggins]]"
+  - "[[Queen]]"
+  - "[[Hambrick Onyxcrest]]"
+factions:
+  - "[[Court]]"
+quests: []
+previous_session: "[[Session 08]]"
+next_session: "[[Session 10]]"
 tags:
   - session
   - actual-play

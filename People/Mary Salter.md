@@ -1,5 +1,12 @@
 ---
 title: "Mary Salter"
+type: "npc"
+name: "Mary Salter"
+status: "unknown"
+location:
+affiliations: []
+related: []
+first_seen: "[[Session 07]]"
 tags:
   - person
   - npc

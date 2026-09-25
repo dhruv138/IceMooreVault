@@ -1,5 +1,19 @@
 ---
 title: "Session 12 — 12 August 2025"
+type: "session"
+session: "12"
+date: "12 August 2025"
+locations:
+  - "[[Unfinished Business]]"
+npcs:
+  - "[[WISC]]"
+  - "[[Uthal]]"
+  - "[[Riffle]]"
+  - "[[Oswald]]"
+factions: []
+quests: []
+previous_session: "[[Session 11]]"
+next_session: "[[Session 13]]"
 tags:
   - session
   - actual-play

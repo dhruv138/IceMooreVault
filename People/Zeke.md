@@ -1,5 +1,13 @@
 ---
 title: "Zeke"
+type: "npc"
+name: "Zeke"
+status: "unknown"
+location:
+affiliations: []
+related:
+  - "[[Venburg]]"
+first_seen: "[[Session 28]]"
 tags:
   - person
   - npc

@@ -1,5 +1,20 @@
 ---
 title: "Session 5 — 18 April 2025"
+type: "session"
+session: "5"
+date: "18 April 2025"
+locations:
+  - "[[Truemetal Halls]]"
+  - "[[Axeholm]]"
+npcs:
+  - "[[WISC]]"
+  - "[[Deanira]]"
+  - "[[Furgus]]"
+  - "[[Elzock Emberstone]]"
+factions: []
+quests: []
+previous_session: "[[Session 04]]"
+next_session: "[[Session 06]]"
 tags:
   - session
   - actual-play

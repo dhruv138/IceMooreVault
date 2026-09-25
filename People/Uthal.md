@@ -1,5 +1,13 @@
 ---
 title: "Uthal"
+type: "npc"
+name: "Uthal"
+status: "unknown"
+location:
+affiliations: []
+related:
+  - "[[Ilkan]]"
+first_seen: "[[Session 11]]"
 tags:
   - person
   - npc

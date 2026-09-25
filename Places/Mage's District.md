@@ -1,5 +1,18 @@
 ---
 title: "Mage's District"
+type: "location"
+name: "Mage's District"
+aliases: []
+region:
+parent_location:
+status: "active"
+factions:
+  - "[[Library of Deneir]]"
+  - "[[Mistra's Academy]]"
+npcs: []
+related:
+  - "[[Amberhold]]"
+first_seen:
 tags:
   - place
   - district

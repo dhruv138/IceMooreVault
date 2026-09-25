@@ -1,5 +1,12 @@
 ---
 title: "Ilkan"
+type: "npc"
+name: "Ilkan"
+status: "unknown"
+location:
+affiliations: []
+related: []
+first_seen: "[[Session 11]]"
 tags:
   - person
   - npc

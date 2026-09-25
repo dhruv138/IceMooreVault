@@ -1,5 +1,17 @@
 ---
 title: "Living Bloom"
+type: "location"
+name: "Living Bloom"
+aliases: []
+region:
+parent_location:
+status: "active"
+factions: []
+npcs: []
+related:
+  - "[[Wren Nalore]]"
+  - "[[Truemetal Halls]]"
+first_seen: "[[Session 18]]"
 tags:
   - place
   - apothecary_supplier

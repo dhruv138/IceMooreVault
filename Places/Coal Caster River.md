@@ -1,5 +1,16 @@
 ---
 title: "Coal Caster River"
+type: "location"
+name: "Coal Caster River"
+aliases: []
+region:
+parent_location:
+status: "active"
+factions: []
+npcs: []
+related:
+  - "[[Axeholm]]"
+first_seen:
 tags:
   - place
   - river

@@ -1,5 +1,22 @@
 ---
 title: "Deanira"
+type: "character"
+name: "Deanira"
+aliases: []
+status: "active"
+location:
+affiliations: []
+related:
+  - "[[Val]]"
+  - "[[WISC]]"
+  - "[[Furgus]]"
+  - "[[Riffle]]"
+  - "[[Philip]]"
+  - "[[Agatha]]"
+  - "[[Daddy Dildo Daggins]]"
+  - "[[Student Health Clinic]]"
+  - "[[The Two Tits]]"
+first_seen: "[[Session 03]]"
 tags:
   - person
   - character
@@ -25,3 +42,6 @@ Deanira now travels the Icemoor region, improving her cartography skills and sea
 - Experienced a vision involving a ship, changing stars, a storm, and a mysterious webbed hand.
 - Has repeatedly encountered [[Cornhusk Dolls]].
 - Was bitten by the were-bears but did not develop the same persistent symptoms as WISC/Furgus.
+- In [[Session 37]], learned that the [[Mask of the Green Dragon]] had placed a minor curse on her that altered her feelings toward [[WISC]]. A healer at the [[Student Health Clinic]] removed it.
+- Bought four maps of other continents and gathered two new sailor reports concerning the [[Floating Island Mystery]].
+- Observed a possible secret fertility-cult gathering beneath [[The Two Tits]], potentially connected to [[Daddy Dildo Daggins]].

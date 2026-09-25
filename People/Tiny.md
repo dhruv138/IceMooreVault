@@ -1,5 +1,13 @@
 ---
 title: "Tiny"
+type: "npc"
+name: "Tiny"
+status: "unknown"
+location:
+affiliations:
+  - "[[The Bastard's Band]]"
+related: []
+first_seen: "[[Session 03]]"
 tags:
   - person
   - npc

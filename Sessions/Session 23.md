@@ -1,5 +1,30 @@
 ---
 title: "Session 23 — 5 February 2026"
+type: "session"
+session: "23"
+date: "5 February 2026"
+locations:
+  - "[[Wren Nalore]]"
+  - "[[Living Bloom]]"
+  - "[[Truemetal Halls]]"
+  - "[[Emerald Glade]]"
+npcs:
+  - "[[WISC]]"
+  - "[[Riffle]]"
+  - "[[Deanira]]"
+  - "[[Furgus]]"
+  - "[[Tiny]]"
+  - "[[The Bastard]]"
+  - "[[Glasses]]"
+  - "[[The Poet]]"
+  - "[[Hambrick Onyxcrest]]"
+  - "[[Talir Rengavi]]"
+  - "[[Hana Goldfirm]]"
+factions: []
+quests:
+  - "[[Cornhusk Dolls]]"
+previous_session: "[[Session 22]]"
+next_session: "[[Session 24]]"
 tags:
   - session
   - actual-play

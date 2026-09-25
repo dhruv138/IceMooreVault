@@ -1,5 +1,19 @@
 ---
 title: "Session 26 — Missed Session"
+type: "session"
+session: "26"
+date: "Missed Session"
+locations: []
+npcs:
+  - "[[WISC]]"
+  - "[[Riffle]]"
+  - "[[Furgus]]"
+  - "[[Hana Goldfirm]]"
+  - "[[Bianca Onyxcrest]]"
+factions: []
+quests: []
+previous_session: "[[Session 25]]"
+next_session: "[[Session 27]]"
 tags:
   - session
   - actual-play

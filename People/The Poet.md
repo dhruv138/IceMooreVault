@@ -1,5 +1,13 @@
 ---
 title: "The Poet"
+type: "npc"
+name: "The Poet"
+status: "unknown"
+location:
+affiliations:
+  - "[[The Bastard's Band]]"
+related: []
+first_seen: "[[Session 23]]"
 tags:
   - person
   - npc

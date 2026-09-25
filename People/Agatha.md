@@ -1,5 +1,12 @@
 ---
 title: "Agatha"
+type: "npc"
+name: "Agatha"
+status: "unknown"
+location:
+affiliations: []
+related: []
+first_seen: "[[Session 21]]"
 tags:
   - person
   - npc

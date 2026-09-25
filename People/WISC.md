@@ -1,5 +1,19 @@
 ---
 title: "WISC"
+type: "character"
+name: "WISC"
+aliases: []
+status: "active"
+location:
+affiliations: []
+related:
+  - "[[Furgus]]"
+  - "[[Deanira]]"
+  - "[[Riffle]]"
+  - "[[Uthal]]"
+  - "[[Venburg]]"
+  - "[[Temple of Mistra]]"
+first_seen: "[[Session 03]]"
 tags:
   - person
   - character
@@ -27,6 +41,7 @@ tags:
 - Uses the [[Grey Bag of Tricks]].
 - Received [[Reaper]] from the Emberstone family.
 - Was affected by the [[Werebear Curse]].
+- Had the [[Werebear Curse]] cured at the [[Temple of Mistra]] in [[Session 37]].
 - Has repeatedly interacted with [[Cornhusk Dolls]].
 
 ## Open threads

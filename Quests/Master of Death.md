@@ -1,5 +1,17 @@
 ---
 title: "Master of Death"
+type: "quest"
+name: "Master of Death"
+status: "active"
+quest_giver:
+locations: []
+npcs:
+  - "[[Christolf Nightfall]]"
+factions:
+  - "[[Skeletal Hand]]"
+related: []
+introduced: "[[Session 30]]"
+completed:
 tags:
   - quest
   - active

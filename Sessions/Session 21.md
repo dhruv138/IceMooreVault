@@ -1,5 +1,24 @@
 ---
 title: "Session 21 — 8 December 2025"
+type: "session"
+session: "21"
+date: "8 December 2025"
+locations:
+  - "[[Axeholm]]"
+  - "[[Zyuir]]"
+npcs:
+  - "[[Riffle]]"
+  - "[[Deanira]]"
+  - "[[WISC]]"
+  - "[[Furgus]]"
+  - "[[Agatha]]"
+  - "[[Daddy Dildo Daggins]]"
+factions:
+  - "[[Dragon League]]"
+quests:
+  - "[[Cornhusk Dolls]]"
+previous_session: "[[Session 20]]"
+next_session: "[[Session 22]]"
 tags:
   - session
   - actual-play

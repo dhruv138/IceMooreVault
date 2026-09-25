@@ -1,5 +1,23 @@
 ---
 title: "Session 16 — 9 October 2025"
+type: "session"
+session: "16"
+date: "9 October 2025"
+locations:
+  - "[[The Forge]]"
+  - "[[Kicking Ass]]"
+  - "[[Amberhold]]"
+npcs:
+  - "[[Deanira]]"
+  - "[[Elzock Emberstone]]"
+  - "[[Riffle]]"
+  - "[[Christolf Nightfall]]"
+  - "[[WISC]]"
+  - "[[Vistra]]"
+factions: []
+quests: []
+previous_session: "[[Session 15]]"
+next_session: "[[Session 17]]"
 tags:
   - session
   - actual-play

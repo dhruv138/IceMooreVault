@@ -1,5 +1,13 @@
 ---
 title: "Ambria"
+type: "npc"
+name: "Ambria"
+status: "unknown"
+location:
+affiliations: []
+related:
+  - "[[Venburg]]"
+first_seen: "[[Session 28]]"
 tags:
   - person
   - npc

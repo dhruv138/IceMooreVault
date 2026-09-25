@@ -1,5 +1,14 @@
 ---
 title: "Vistra"
+type: "npc"
+name: "Vistra"
+status: "unknown"
+location:
+affiliations: []
+related:
+  - "[[Christolf Nightfall]]"
+  - "[[Truemetal Halls]]"
+first_seen: "[[Session 16]]"
 tags:
   - person
   - npc

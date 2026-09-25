@@ -1,5 +1,13 @@
 ---
 title: "Bianca Onyxcrest"
+type: "npc"
+name: "Bianca Onyxcrest"
+status: "unknown"
+location:
+affiliations:
+  - "[[Mistra's Academy]]"
+related: []
+first_seen: "[[Session 24]]"
 tags:
   - person
   - npc

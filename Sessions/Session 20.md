@@ -1,5 +1,19 @@
 ---
 title: "Session 20 — 22 November 2025"
+type: "session"
+session: "20"
+date: "22 November 2025"
+locations:
+  - "[[Truemetal Halls]]"
+  - "[[Axeholm]]"
+npcs:
+  - "[[WISC]]"
+  - "[[Deanira]]"
+  - "[[Riffle]]"
+factions: []
+quests: []
+previous_session: "[[Session 19]]"
+next_session: "[[Session 21]]"
 tags:
   - session
   - actual-play

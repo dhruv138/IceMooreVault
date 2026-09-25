@@ -1,5 +1,19 @@
 ---
 title: "Emerald Glade"
+type: "location"
+name: "Emerald Glade"
+aliases: []
+region:
+parent_location:
+status: "active"
+factions:
+  - "[[The Bastard's Band]]"
+npcs:
+  - "[[The Poet]]"
+related:
+  - "[[Krypton Forest]]"
+  - "[[Kriptin Forest]]"
+first_seen: "[[Session 23]]"
 tags:
   - place
   - region

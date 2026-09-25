@@ -1,5 +1,16 @@
 ---
 title: "Elementalist Syndicate"
+type: "faction"
+name: "Elementalist Syndicate"
+aliases: []
+status: "active"
+headquarters:
+leaders: []
+allies: []
+enemies: []
+locations: []
+related: []
+first_seen: "[[Session 24]]"
 tags:
   - faction
   - organization

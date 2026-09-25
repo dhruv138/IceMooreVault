@@ -1,5 +1,13 @@
 ---
 title: "Anton"
+type: "npc"
+name: "Anton"
+status: "unknown"
+location:
+affiliations: []
+related:
+  - "[[Unfinished Business]]"
+first_seen: "[[Session 07]]"
 tags:
   - person
   - npc

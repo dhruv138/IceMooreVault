@@ -1,5 +1,14 @@
 ---
 title: "Lord Ivan Deepshaft"
+type: "npc"
+name: "Lord Ivan Deepshaft"
+status: "unknown"
+location:
+affiliations:
+  - "[[Court]]"
+related:
+  - "[[Venburg]]"
+first_seen: "[[Session 08]]"
 tags:
   - person
   - npc

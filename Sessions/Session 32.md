@@ -1,5 +1,28 @@
 ---
 title: "Session 32 — 9 July 2026"
+type: "session"
+session: "32"
+date: "9 July 2026"
+locations:
+  - "[[Eisenberg]]"
+  - "[[Axeholm]]"
+  - "[[Venberg]]"
+npcs:
+  - "[[Klaus]]"
+  - "[[Deanira]]"
+  - "[[Theo'din Corvis]]"
+  - "[[Riffle]]"
+  - "[[WISC]]"
+  - "[[Jane Pedimore]]"
+  - "[[Annika]]"
+  - "[[Uthal]]"
+  - "[[Queen]]"
+  - "[[Wolf]]"
+  - "[[Furgus]]"
+factions: []
+quests: []
+previous_session: "[[Session 31]]"
+next_session: "[[Session 33]]"
 tags:
   - session
   - actual-play

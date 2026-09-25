@@ -1,5 +1,18 @@
 ---
 title: "Session 27 — 9 March 2026"
+type: "session"
+session: "27"
+date: "9 March 2026"
+locations: []
+npcs:
+  - "[[Deanira]]"
+  - "[[WISC]]"
+  - "[[Furgus]]"
+  - "[[Riffle]]"
+factions: []
+quests: []
+previous_session: "[[Session 26]]"
+next_session: "[[Session 28]]"
 tags:
   - session
   - actual-play

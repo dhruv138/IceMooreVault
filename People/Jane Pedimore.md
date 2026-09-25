@@ -1,5 +1,12 @@
 ---
 title: "Jane Pedimore"
+type: "npc"
+name: "Jane Pedimore"
+status: "unknown"
+location:
+affiliations: []
+related: []
+first_seen: "[[Session 32]]"
 tags:
   - person
   - npc

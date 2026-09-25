@@ -1,5 +1,18 @@
 ---
 title: "Ring of Gaseous Forms"
+type: "item"
+name: "Ring of Gaseous Forms"
+aliases: []
+status: "active"
+item_type:
+rarity:
+owner:
+location:
+creator:
+factions: []
+quests: []
+related: []
+first_seen: "[[Session 21]]"
 tags:
   - item
   - ring

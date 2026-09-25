@@ -1,5 +1,16 @@
 ---
 title: "Western Point"
+type: "location"
+name: "Western Point"
+aliases: []
+region:
+parent_location:
+status: "active"
+factions: []
+npcs: []
+related:
+  - "[[Dunnings Auction House]]"
+first_seen: "[[Session 13]]"
 tags:
   - place
   - city

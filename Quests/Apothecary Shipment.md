@@ -1,5 +1,18 @@
 ---
 title: "Apothecary Shipment"
+type: "quest"
+name: "Apothecary Shipment"
+status: "completed"
+quest_giver:
+locations:
+  - "[[Wren Nalore]]"
+  - "[[Living Bloom]]"
+  - "[[Truemetal Halls]]"
+npcs: []
+factions: []
+related: []
+introduced:
+completed:
 tags:
   - quest
   - completed

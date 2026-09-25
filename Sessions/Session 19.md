@@ -1,5 +1,18 @@
 ---
 title: "Session 19 — 6 November 2025"
+type: "session"
+session: "19"
+date: "6 November 2025"
+locations: []
+npcs:
+  - "[[WISC]]"
+  - "[[Deanira]]"
+  - "[[Riffle]]"
+  - "[[Furgus]]"
+factions: []
+quests: []
+previous_session: "[[Session 18]]"
+next_session: "[[Session 20]]"
 tags:
   - session
   - actual-play

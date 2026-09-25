@@ -1,5 +1,17 @@
 ---
 title: "Black Hand Dwarves"
+type: "faction"
+name: "Black Hand Dwarves"
+aliases: []
+status: "active"
+headquarters:
+leaders: []
+allies: []
+enemies: []
+locations:
+  - "[[Kohlemine]]"
+related: []
+first_seen: "[[Session 10]]"
 tags:
   - faction
   - organization

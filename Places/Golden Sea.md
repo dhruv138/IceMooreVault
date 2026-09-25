@@ -1,5 +1,16 @@
 ---
 title: "Golden Sea"
+type: "location"
+name: "Golden Sea"
+aliases: []
+region:
+parent_location:
+status: "active"
+factions: []
+npcs: []
+related:
+  - "[[Wren Nalore]]"
+first_seen: "[[Session 18]]"
 tags:
   - place
   - sea

@@ -1,5 +1,16 @@
 ---
 title: "Golden-Eyed Bugbear Mystery"
+type: "quest"
+name: "Golden-Eyed Bugbear Mystery"
+status: "active"
+quest_giver:
+locations: []
+npcs:
+  - "[[WISC]]"
+factions: []
+related: []
+introduced:
+completed:
 tags:
   - quest
   - active

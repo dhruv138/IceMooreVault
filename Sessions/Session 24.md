@@ -1,5 +1,29 @@
 ---
 title: "Session 24 — 9 February 2026"
+type: "session"
+session: "24"
+date: "9 February 2026"
+locations:
+  - "[[The Warhammer]]"
+  - "[[Amberhold]]"
+  - "[[Wren Nalore]]"
+npcs:
+  - "[[Bianca Onyxcrest]]"
+  - "[[Riffle]]"
+  - "[[Talir Rengavi]]"
+  - "[[Hana Goldfirm]]"
+  - "[[WISC]]"
+  - "[[Deanira]]"
+  - "[[Hector]]"
+  - "[[Gunther Rockhammer]]"
+  - "[[Furgus]]"
+  - "[[Daddy Dildo Daggins]]"
+factions:
+  - "[[Elementalist Syndicate]]"
+  - "[[Fire Dwarves]]"
+quests: []
+previous_session: "[[Session 23]]"
+next_session: "[[Session 25]]"
 tags:
   - session
   - actual-play
