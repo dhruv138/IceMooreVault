@@ -15,6 +15,8 @@ related:
   - "[[Hana Goldfirm]]"
   - "[[Daddy Dildo Daggins]]"
   - "[[Ester]]"
+  - "[[Karyn]]"
+  - "[[Archivist Siobhan]]"
   - "[[Axeholm]]"
   - "[[Amberhold]]"
 first_seen: "[[Session 10]]"
@@ -52,3 +54,4 @@ Riffle is highly inquisitive, prone to theft and mischief, and has accumulated a
 
 - In [[Session 37]], learned from [[Ester]] that the Library's robes changed from red to purple 50–60 years ago and that old red robes may have survived, creating a lead in the [[Daggins Murder]].
 - Discovered that a sect claiming to worship [[Torm]] has been attacking Amberhold businesses that sell alcohol.
+- In [[Session 38]], helped [[Karyn]] with Gala preparations and learned the five themes of the [[Gauntlet]]. Later, [[Talir Rengavi]] accused Riffle of stealing documents from his safe after [[Archivist Siobhan]] claimed to have seen Riffle enter his office.

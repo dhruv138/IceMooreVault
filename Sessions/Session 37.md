@@ -21,7 +21,7 @@ quests:
   - "[[Floating Island Mystery]]"
   - "[[Daggins Murder]]"
 previous_session: "[[Session 36]]"
-next_session:
+next_session: "[[Session 38]]"
 tags:
   - session
   - actual-play

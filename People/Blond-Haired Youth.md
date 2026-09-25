@@ -43,6 +43,7 @@ Young man in [[Amberhold]] who appears to recruit people for the [[Skeletal Hand
 - [[Furgus]] glimpsed the tattoo beneath his sleeve.
 - He appeared to change his appearance with *disguise self* when leaving the tavern.
 - An unidentified black-haired woman followed him outside.
+- In [[Session 38]], [[Sabrina]] reported that a young blond man calling himself **Andrew** visited a worker named Angela at the [[Velvet Glove Brothel]]. The party wondered whether this was the same person, but no confirming evidence was found.
 
 ## Open questions
 
@@ -50,3 +51,5 @@ Young man in [[Amberhold]] who appears to recruit people for the [[Skeletal Hand
 - Is he officially connected to [[Mistra's Academy]], or merely using it as a recruitment lure?
 - Who was the black-haired woman following him?
 - What work does he assign to unsuccessful applicants?
+- Is “Andrew” another alias, or an unrelated blond man?
+- Is there any connection to Academy graduate student [[Peter Owens]]? They remain unconfirmed as separate identities.

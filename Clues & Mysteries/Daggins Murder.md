@@ -23,3 +23,7 @@ The party determined:
 ## Session 37 lead
 
 [[Ester]] told [[Riffle]] that the Library changed its robes from red to purple roughly 50–60 years ago because the headmaster at the time preferred purple. Some people may have retained old red robes. This revises the earlier assumption that the red robes had disappeared only about 20 years ago and supplies a plausible source for the garments used by Riffle's impersonator.
+
+## Session 38 lead
+
+[[Atheela]] confirmed that Daggins belonged to the [[Union of Many]], where he was known as Brother Daggins. His collection of fertility statues reflected the order's many love and fertility deities. This explains the gathering beneath [[The Two Tits]] but does not identify his killer.

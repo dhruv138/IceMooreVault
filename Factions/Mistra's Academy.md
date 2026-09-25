@@ -14,6 +14,8 @@ related:
   - "[[Bianca Onyxcrest]]"
   - "[[Hambrick Onyxcrest]]"
   - "[[Blond-Haired Youth]]"
+  - "[[Peter Owens]]"
+  - "[[Karyn]]"
   - "[[Skeletal Hand]]"
 first_seen:
 tags:
@@ -26,3 +28,5 @@ tags:
 Major magical academy in [[Amberhold]]. Connected to [[Bianca Onyxcrest]], [[Hambrick Onyxcrest]], and the historical [[Skeletal Hand]].
 
 In [[Session 37]], the party found a magically concealed flyer advertising deeply discounted Academy scholarships. Those who could see its true message were directed to make a coded tavern order, where the [[Blond-Haired Youth]]—who concealed a Skeletal Hand tattoo—discussed admission and quest work. The Academy's knowledge of or involvement in the scheme is unknown.
+
+In [[Session 38]], the party learned that graduate student [[Peter Owens]] was taking leave after both parents died. Gala and [[Gauntlet]] preparations had left staff, including [[Karyn]], overworked. The Gauntlet will feature four teams and five themed rounds: Beasts, Celestials, Fiends, Elementals, and Fey.
