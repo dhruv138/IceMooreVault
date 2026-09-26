@@ -16,6 +16,9 @@ related:
   - "[[Daddy Dildo Daggins]]"
   - "[[Student Health Clinic]]"
   - "[[The Two Tits]]"
+  - "[[Atheela]]"
+  - "[[Union of Many]]"
+  - "[[Silver Dildo]]"
 first_seen: "[[Session 03]]"
 tags:
   - person
@@ -45,3 +48,5 @@ Deanira now travels the Icemoor region, improving her cartography skills and sea
 - In [[Session 37]], learned that the [[Mask of the Green Dragon]] had placed a minor curse on her that altered her feelings toward [[WISC]]. A healer at the [[Student Health Clinic]] removed it.
 - Bought four maps of other continents and gathered two new sailor reports concerning the [[Floating Island Mystery]].
 - Observed a possible secret fertility-cult gathering beneath [[The Two Tits]], potentially connected to [[Daddy Dildo Daggins]].
+- In [[Session 38]], met [[Atheela]] and confirmed that the gathering was the [[Union of Many]], a consensual adult religious community to which Daggins belonged. She also showed Atheela the [[Silver Dildo]] Daggins had left as collateral.
+- Purchased a gold-and-blue feathered ballgown and a collar of fine jewels for the Academy Gala.

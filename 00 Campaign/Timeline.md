@@ -44,3 +44,4 @@ Chronological session index.
 - [[Session 35|Session 35 — 17 August 2026]]
 - [[Session 36|Session 36 — 31 August 2026]]
 - [[Session 37|Session 37 — 12 September 2026]]
+- [[Session 38|Session 38 — 24 September 2026]]

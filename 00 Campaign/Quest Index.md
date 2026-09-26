@@ -7,6 +7,7 @@ tags:
 ---
 # Quest Index
 
+- [[Gauntlet]] — **upcoming**
 - [[Missing Sanitation Workers]] — **active**
 - [[Oswald's Letter to Mary]] — **active**
 - [[Shredding Dude]] — **unresolved**

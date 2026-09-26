@@ -30,3 +30,5 @@ Secret society of necromancers once associated with the [[Library of Deneir]] an
 In [[Session 37]], the party answered a magically concealed scholarship flyer and met the [[Blond-Haired Youth]], who had a hidden Skeletal Hand tattoo. He offered discounted access to the Academy, without guaranteeing admission, and quest employment to unsuccessful applicants. He appeared to use *disguise self* when leaving and was disguised as an unidentified black-haired woman.
 
 This may be the same blond youth whose tattoo [[Cam Jergins]] copied and the same person whom a dead member identified as his recruiter in [[Amberhold]].
+
+In [[Session 38]], [[Sabrina]] reported a young blond man calling himself **Andrew** at the [[Velvet Glove Brothel]]. The party suspects he may be the recruiter, but this remains unconfirmed. Academy student [[Peter Owens]] is also a separate person of interest and is not confirmed to be the recruiter.
