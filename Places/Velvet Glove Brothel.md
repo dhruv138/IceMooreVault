@@ -4,6 +4,8 @@ tags:
   - place
   - brothel
   - dnd
+aliases:
+  - "Velvet Glove"
 ---
 # Velvet Glove Brothel
 
