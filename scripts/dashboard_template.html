@@ -1,0 +1,386 @@
+<title>Icemoor Campaign Ledger</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Marcellus+SC&family=Public+Sans:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: a surveyor's ledger: one narrow column of sections (recap, threads, presence grid,
+   session log, directory) under a sticky contents bar, with cold glacier ink and gold for the party. */
+:root {
+  --bg: #edf1f3;
+  --surface: #f8fafb;
+  --ink: #13202a;
+  --ink-2: #44555f;
+  --muted: #6f808a;
+  --rule: #d3dce1;
+  --accent: #24617f;
+  --accent-soft: #d6e6ee;
+  --gold: #8e6210;
+  --gold-soft: #f0e2c2;
+  --cell-empty: #e1e7ea;
+  --open: #9a5410;  --open-soft: #f6e4cf;
+  --done: #3a7452;  --done-soft: #d9eadf;
+  --soon: #4f5a8c;  --soon-soft: #e0e3f1;
+  --font-display: "Marcellus SC", "Cormorant SC", Georgia, serif;
+  --font-body: "Public Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-data: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+  --step--1: 0.8125rem; --step-0: 0.9375rem; --step-1: 1.125rem; --step-2: 1.5rem; --step-3: 2.25rem;
+  --radius: 6px;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #0d1519; --surface: #141f25; --ink: #dce6ea; --ink-2: #a9b8c0; --muted: #788993; --rule: #26343c;
+  --accent: #7db9d8; --accent-soft: #1b3341; --gold: #d8ae55; --gold-soft: #3a2e14; --cell-empty: #1d2a31;
+  --open: #e3a35f; --open-soft: #3a2814; --done: #7fc49b; --done-soft: #17301f; --soon: #a9b2e6; --soon-soft: #23284a;
+  color-scheme: dark; } }
+:root[data-theme="dark"] {
+  --bg: #0d1519; --surface: #141f25; --ink: #dce6ea; --ink-2: #a9b8c0; --muted: #788993; --rule: #26343c;
+  --accent: #7db9d8; --accent-soft: #1b3341; --gold: #d8ae55; --gold-soft: #3a2e14; --cell-empty: #1d2a31;
+  --open: #e3a35f; --open-soft: #3a2814; --done: #7fc49b; --done-soft: #17301f; --soon: #a9b2e6; --soon-soft: #23284a;
+  color-scheme: dark; }
+
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--ink); font: 400 var(--step-0)/1.55 var(--font-body); }
+.wrap { max-width: 68rem; margin: 0 auto; padding-inline: 1.25rem; padding-block: 0 4rem; }
+@media (max-width: 30rem) { .wrap { padding-inline: 1rem; } }
+
+/* contents bar */
+.bar { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: color-mix(in srgb, var(--bg) 92%, transparent);
+  backdrop-filter: blur(6px); border-bottom: 1px solid var(--rule); }
+.bar .wrap { display: flex; align-items: center; gap: 1.25rem; padding-block: 0.6rem; flex-wrap: wrap; }
+.brand { font: 400 1.05rem/1 var(--font-display); letter-spacing: 0.04em; color: var(--ink); text-decoration: none; margin-right: auto; }
+.bar nav { display: flex; gap: 1rem; flex-wrap: wrap; }
+.bar nav a { color: var(--ink-2); text-decoration: none; font-size: var(--step--1); }
+.bar nav a:hover, .bar nav a:focus-visible { color: var(--accent); }
+
+h1, h2 { font-family: var(--font-display); font-weight: 400; text-wrap: balance; margin: 0; letter-spacing: 0.02em; }
+h2 { font-size: var(--step-2); }
+.eyebrow { font: 500 0.6875rem/1 var(--font-data); text-transform: uppercase; letter-spacing: 0.12em; color: var(--muted); }
+section { padding-block: 2.5rem 0; scroll-margin-top: 4rem; }
+.sec-head { display: flex; align-items: baseline; justify-content: space-between; gap: 1rem; flex-wrap: wrap; margin-bottom: 1rem; }
+.sec-head p { margin: 0.25rem 0 0; color: var(--ink-2); font-size: var(--step--1); max-width: 40rem; }
+
+/* recap */
+.recap { padding-block: 2.25rem 0; display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 1.5rem 2.5rem; align-items: end; }
+@media (max-width: 44rem) { .recap { grid-template-columns: 1fr; } }
+.recap h1 { font-size: var(--step-3); line-height: 1.1; margin-top: 0.5rem; }
+.recap .tldr { font-size: var(--step-1); line-height: 1.6; max-width: 40rem; margin: 0.9rem 0 0; }
+.tally { display: grid; grid-template-columns: repeat(2, auto); gap: 0.35rem 1.5rem; font: 400 var(--step--1)/1.3 var(--font-data);
+  color: var(--ink-2); border-left: 1px solid var(--rule); padding-left: 1.25rem; }
+.tally b { font: 500 var(--step-1)/1 var(--font-data); color: var(--ink); font-variant-numeric: tabular-nums; display: block; }
+@media (max-width: 44rem) { .tally { border-left: 0; padding-left: 0; grid-template-columns: repeat(4, auto); justify-content: start; } }
+.chips { display: flex; gap: 0.4rem; flex-wrap: wrap; margin-top: 0.9rem; }
+
+/* entity links inside prose */
+.ent { all: unset; cursor: pointer; color: var(--accent); border-bottom: 1px solid color-mix(in srgb, var(--accent) 35%, transparent); }
+.ent:hover, .ent:focus-visible { border-bottom-color: var(--accent); }
+.ent:focus-visible, button:focus-visible, input:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 2px; }
+
+/* buttons, filters */
+.seg { display: inline-flex; border: 1px solid var(--rule); border-radius: 999px; padding: 2px; background: var(--surface); flex-wrap: wrap; }
+.seg button { all: unset; cursor: pointer; padding: 0.3rem 0.8rem; border-radius: 999px; font-size: var(--step--1); color: var(--ink-2); }
+.seg button[aria-pressed="true"] { background: var(--accent); color: var(--surface); }
+.tag { font: 500 0.6875rem/1 var(--font-data); padding: 0.3rem 0.5rem; border-radius: 999px; background: var(--accent-soft); color: var(--accent);
+  white-space: nowrap; text-transform: uppercase; letter-spacing: 0.06em; }
+.pill { display: inline-flex; align-items: center; gap: 0.35rem; font: 500 0.6875rem/1 var(--font-data); text-transform: uppercase; letter-spacing: 0.06em;
+  padding: 0.3rem 0.55rem; border-radius: 999px; white-space: nowrap; }
+.pill::before { content: ""; width: 0.45rem; height: 0.45rem; border-radius: 50%; background: currentColor; }
+.pill.open { color: var(--open); background: var(--open-soft); }
+.pill.soon { color: var(--soon); background: var(--soon-soft); }
+.pill.done { color: var(--done); background: var(--done-soft); }
+.pill.done::before { border-radius: 1px; }
+input[type="search"] { font: inherit; font-size: var(--step--1); color: var(--ink); background: var(--surface); border: 1px solid var(--rule);
+  border-radius: var(--radius); padding: 0.45rem 0.7rem; width: min(18rem, 100%); }
+
+/* threads table */
+.scroll { overflow-x: auto; }
+table { width: 100%; border-collapse: collapse; font-size: var(--step--1); }
+th { text-align: left; font: 500 0.6875rem/1 var(--font-data); text-transform: uppercase; letter-spacing: 0.1em; color: var(--muted);
+  padding: 0 0.75rem 0.6rem 0; border-bottom: 1px solid var(--rule); white-space: nowrap; }
+td { padding: 0.65rem 0.75rem 0.65rem 0; border-bottom: 1px solid var(--rule); vertical-align: middle; }
+td.num { font-family: var(--font-data); font-variant-numeric: tabular-nums; white-space: nowrap; color: var(--ink-2); }
+td.name { font-weight: 500; min-width: 12rem; }
+tr.stale td.num.last { color: var(--open); }
+
+/* presence grid */
+.grid-box { background: var(--surface); border: 1px solid var(--rule); border-radius: var(--radius); padding: 1rem; }
+.grid { display: grid; gap: 2px; font-size: var(--step--1); width: max-content; }
+.grid .lbl { padding-right: 0.75rem; white-space: nowrap; display: flex; align-items: center; gap: 0.4rem; min-height: 14px; }
+.grid .lbl .ent { color: var(--ink); border-bottom: 0; font-size: 0.78rem; }
+.grid .lbl .ent:hover { color: var(--accent); }
+.grid .lbl .n { font: 400 0.6875rem/1 var(--font-data); color: var(--muted); font-variant-numeric: tabular-nums; }
+.grid .col { font: 400 0.625rem/1 var(--font-data); color: var(--muted); text-align: center; padding-bottom: 0.3rem; font-variant-numeric: tabular-nums; }
+.cell { width: 14px; height: 14px; border-radius: 3px; background: var(--cell-empty); }
+.cell.on { background: var(--accent); cursor: pointer; }
+.cell.on.party { background: var(--gold); }
+.cell.on:hover { outline: 2px solid var(--ink); outline-offset: 1px; }
+.grid .sep { grid-column: 1 / -1; height: 0.5rem; }
+.legend { display: flex; gap: 1.25rem; flex-wrap: wrap; align-items: center; font-size: var(--step--1); color: var(--ink-2); margin-top: 0.9rem; }
+.legend i { display: inline-block; width: 12px; height: 12px; border-radius: 3px; vertical-align: -1px; margin-right: 0.35rem; }
+
+/* tooltip */
+.tip { position: fixed; z-index: 20; max-width: 20rem; pointer-events: none; background: var(--ink); color: var(--bg); border-radius: var(--radius);
+  padding: 0.55rem 0.7rem; font-size: var(--step--1); line-height: 1.45; box-shadow: 0 6px 20px rgb(0 0 0 / 0.18); }
+.tip b { font-weight: 600; }
+.tip .d { font: 400 0.6875rem/1 var(--font-data); opacity: 0.75; display: block; margin-bottom: 0.3rem; }
+
+/* session log */
+.log { display: grid; gap: 0; }
+.log article { display: grid; grid-template-columns: 5.5rem minmax(0, 1fr); gap: 0.25rem 1.25rem; padding-block: 1rem; border-bottom: 1px solid var(--rule); }
+.log .when { font: 400 var(--step--1)/1.35 var(--font-data); color: var(--muted); font-variant-numeric: tabular-nums; }
+.log .when b { display: block; font: 400 var(--step-1)/1.1 var(--font-display); color: var(--ink); letter-spacing: 0.03em; }
+.log p { margin: 0; max-width: 44rem; }
+.log .chips { margin-top: 0.5rem; }
+@media (max-width: 30rem) { .log article { grid-template-columns: 1fr; } }
+.empty { color: var(--muted); font-size: var(--step--1); padding-block: 1rem; }
+
+/* directory */
+.dir { display: grid; grid-template-columns: minmax(13rem, 18rem) minmax(0, 1fr); gap: 1.25rem; align-items: start; }
+@media (max-width: 44rem) { .dir { grid-template-columns: 1fr; } }
+.dir-list { max-height: 34rem; overflow-y: auto; border: 1px solid var(--rule); border-radius: var(--radius); background: var(--surface); }
+.dir-list button { all: unset; box-sizing: border-box; cursor: pointer; display: flex; justify-content: space-between; gap: 0.75rem; width: 100%;
+  padding: 0.5rem 0.75rem; border-bottom: 1px solid var(--rule); font-size: var(--step--1); }
+.dir-list button:hover, .dir-list button[aria-current="true"] { background: var(--accent-soft); }
+.dir-list button .k { font: 400 0.6875rem/1.6 var(--font-data); color: var(--muted); white-space: nowrap; }
+.detail { background: var(--surface); border: 1px solid var(--rule); border-radius: var(--radius); padding: 1.25rem; min-width: 0; }
+.detail h3 { font: 400 var(--step-2)/1.15 var(--font-display); margin: 0.35rem 0 0.6rem; letter-spacing: 0.02em; }
+.detail .meta { display: flex; gap: 0.5rem; flex-wrap: wrap; align-items: center; }
+.detail .sum { margin: 0.75rem 0 1rem; color: var(--ink-2); max-width: 40rem; }
+.detail ol { list-style: none; margin: 0; padding: 0; display: grid; gap: 0.6rem; }
+.detail li { display: grid; grid-template-columns: 3.5rem minmax(0, 1fr); gap: 0.75rem; font-size: var(--step--1); }
+.detail li .s { font: 500 var(--step--1)/1.5 var(--font-data); color: var(--accent); font-variant-numeric: tabular-nums; }
+.dir-tools { display: flex; gap: 0.75rem; flex-wrap: wrap; align-items: center; }
+footer { margin-top: 3rem; color: var(--muted); font-size: var(--step--1); }
+@media (prefers-reduced-motion: no-preference) { html { scroll-behavior: smooth; } }
+</style>
+
+<div class="bar"><div class="wrap">
+  <a class="brand" href="#top">Icemoor Ledger</a>
+  <nav aria-label="Sections"><a href="#threads">Threads</a><a href="#presence">Who's where</a><a href="#log">Sessions</a><a href="#directory">Directory</a></nav>
+</div></div>
+
+<main class="wrap" id="top">
+  <header class="recap" id="recap"></header>
+
+  <section id="threads">
+    <div class="sec-head">
+      <div><h2>Threads</h2><p>Quests and mysteries, with the session that last touched each. Amber numbers haven't come up in the last five sessions. “Not dated” means no session note links the thread yet.</p></div>
+      <div class="seg" role="group" aria-label="Filter threads">
+        <button type="button" id="tf-open" data-f="open" aria-pressed="true">Open</button>
+        <button type="button" id="tf-soon" data-f="soon" aria-pressed="false">Upcoming</button>
+        <button type="button" id="tf-done" data-f="done" aria-pressed="false">Closed</button>
+        <button type="button" id="tf-all" data-f="all" aria-pressed="false">All</button>
+      </div>
+    </div>
+    <div class="scroll"><table><thead><tr><th>Thread</th><th>Status</th><th>Introduced</th><th>Last touched</th><th>Sessions</th></tr></thead><tbody id="thread-rows"></tbody></table></div>
+  </section>
+
+  <section id="presence">
+    <div class="sec-head">
+      <div><h2>Who's where</h2><p>Each square is a session that links to the note. Hover or tap a square for the line where it comes up; click a name for its full history.</p></div>
+      <div class="seg" role="group" aria-label="Rows to show">
+        <button type="button" id="pg-people" data-g="people" aria-pressed="true">People</button>
+        <button type="button" id="pg-threads" data-g="threads" aria-pressed="false">Threads</button>
+        <button type="button" id="pg-places" data-g="places" aria-pressed="false">Places</button>
+        <button type="button" id="pg-factions" data-g="factions" aria-pressed="false">Factions</button>
+      </div>
+    </div>
+    <div class="grid-box"><div class="scroll"><div class="grid" id="grid"></div></div>
+      <div class="legend" id="legend"></div></div>
+  </section>
+
+  <section id="log">
+    <div class="sec-head">
+      <div><h2>Session log</h2><p>Newest first. Search covers recaps and locations.</p></div>
+      <input type="search" id="log-q" placeholder="Search sessions" aria-label="Search sessions">
+    </div>
+    <div class="log" id="log-list"></div>
+  </section>
+
+  <section id="directory">
+    <div class="sec-head">
+      <div><h2>Directory</h2><p>Every person, place, faction, item and thread in the vault.</p></div>
+      <div class="dir-tools">
+        <input type="search" id="dir-q" placeholder="Find a name" aria-label="Find a name">
+      </div>
+    </div>
+    <div class="dir"><div class="dir-list" id="dir-list" role="list"></div><div class="detail" id="detail" aria-live="polite"></div></div>
+  </section>
+
+  <footer>Built from the Obsidian vault by <code>scripts/build_dashboard.py</code>. Rebuild after each session to refresh.</footer>
+</main>
+<div class="tip" id="tip" hidden></div>
+
+<script>
+const DATA = /*__DATA__*/null;
+const $ = (s) => document.querySelector(s);
+const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const byName = new Map(DATA.entities.map((e) => [e.name, e]));
+const sessions = DATA.sessions;
+const sByNum = new Map(sessions.map((s) => [s.num, s]));
+const latest = sessions[sessions.length - 1].num;
+const MONTHS = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+const fmtDate = (s) => { if (!s.date) return s.dateNote || "No date"; const [y, m, d] = s.date.split("-"); return `${+d} ${MONTHS[+m - 1]} ${y}`; };
+const TYPE_LABEL = { pc: "Party", npc: "NPC", location: "Place", faction: "Faction", quest: "Quest", mystery: "Mystery", item: "Item", lore: "Lore" };
+const typeLabel = (e) => (e.party ? "Party" : TYPE_LABEL[e.type] || e.type);
+const statusGroup = (st) => (["resolved", "completed"].includes(st) ? "done" : st === "upcoming" ? "soon" : st ? "open" : "");
+const pill = (st) => (st ? `<span class="pill ${statusGroup(st)}">${esc(st)}</span>` : "");
+
+// {{Target|shown}} tokens -> buttons that open the directory entry
+function rich(text) {
+  return esc(text).replace(/\{\{([^|}]+)\|([^}]+)\}\}/g, (_, t, shown) =>
+    byName.has(t) ? `<button type="button" class="ent" data-open="${esc(t)}">${shown}</button>` : shown);
+}
+document.addEventListener("click", (ev) => {
+  const b = ev.target.closest("[data-open]");
+  if (!b) return;
+  openEntity(b.dataset.open, true);
+});
+
+function lastOf(e) { return e.appearances.length ? e.appearances[e.appearances.length - 1][0] : null; }
+
+// ---------- recap ----------
+(function recap() {
+  const s = sByNum.get(latest);
+  const open = DATA.entities.filter((e) => ["quest", "mystery"].includes(e.type) && statusGroup(e.status) === "open").length;
+  const people = DATA.entities.filter((e) => e.folder === "People").length;
+  const places = DATA.entities.filter((e) => e.folder === "Places").length;
+  $("#recap").innerHTML = `
+    <div>
+      <div class="eyebrow">Where we left off · ${esc(fmtDate(s))}</div>
+      <h1>Session ${s.num}</h1>
+      <p class="tldr">${rich(s.tldr)}</p>
+      <div class="chips">${s.where.map((w) => `<button type="button" class="ent tag" data-open="${esc(w)}" style="border:0">${esc(w)}</button>`).join("")}</div>
+    </div>
+    <div class="tally" aria-label="Campaign totals">
+      <div><b>${sessions.length}</b>sessions logged</div><div><b>${open}</b>open threads</div>
+      <div><b>${people}</b>people</div><div><b>${places}</b>places</div>
+    </div>`;
+})();
+
+// ---------- threads ----------
+let threadFilter = "open";
+function renderThreads() {
+  const rows = DATA.entities.filter((e) => ["quest", "mystery"].includes(e.type))
+    .filter((e) => threadFilter === "all" || statusGroup(e.status) === threadFilter)
+    .sort((a, b) => (lastOf(b) ?? 0) - (lastOf(a) ?? 0) || a.name.localeCompare(b.name));
+  $("#thread-rows").innerHTML = rows.length ? rows.map((e) => {
+    const first = e.appearances[0]?.[0], last = lastOf(e);
+    const stale = statusGroup(e.status) === "open" && last && latest - last >= 5;
+    return `<tr class="${stale ? "stale" : ""}">
+      <td class="name"><button type="button" class="ent" data-open="${esc(e.name)}">${esc(e.name)}</button></td>
+      <td>${pill(e.status)}</td>
+      <td class="num">${first ? "S" + first : "Not dated"}</td>
+      <td class="num last">${last ? "S" + last : "Not dated"}</td>
+      <td class="num">${e.appearances.length}</td></tr>`;
+  }).join("") : `<tr><td colspan="5" class="empty">No threads with this status.</td></tr>`;
+}
+document.querySelectorAll("[data-f]").forEach((b) => b.addEventListener("click", () => {
+  threadFilter = b.dataset.f;
+  document.querySelectorAll("[data-f]").forEach((x) => x.setAttribute("aria-pressed", String(x === b)));
+  renderThreads();
+}));
+renderThreads();
+
+// ---------- presence grid ----------
+let group = "people";
+const GROUPS = {
+  people: (e) => e.folder === "People",
+  threads: (e) => ["quest", "mystery"].includes(e.type),
+  places: (e) => e.folder === "Places",
+  factions: (e) => e.folder === "Factions",
+};
+function renderGrid() {
+  const cols = sessions.map((s) => s.num);
+  const pick = DATA.entities.filter(GROUPS[group]).filter((e) => e.appearances.length);
+  const party = group === "people" ? pick.filter((e) => e.party).sort((a, b) => b.appearances.length - a.appearances.length) : [];
+  const rest = pick.filter((e) => !party.includes(e)).sort((a, b) => b.appearances.length - a.appearances.length || a.name.localeCompare(b.name)).slice(0, 28);
+  const grid = $("#grid");
+  grid.style.gridTemplateColumns = `auto repeat(${cols.length}, 14px)`;
+  let html = `<div></div>` + cols.map((n) => `<div class="col">${n % 5 === 0 || n === cols[0] || n === latest ? n : ""}</div>`).join("");
+  const row = (e) => {
+    const on = new Map(e.appearances);
+    return `<div class="lbl"><button type="button" class="ent" data-open="${esc(e.name)}">${esc(e.name)}</button><span class="n">${e.appearances.length}</span></div>` +
+      cols.map((n) => on.has(n)
+        ? `<div class="cell on${e.party ? " party" : ""}" data-e="${esc(e.name)}" data-s="${n}"></div>`
+        : `<div class="cell"></div>`).join("");
+  };
+  html += party.map(row).join("");
+  if (party.length && rest.length) html += `<div class="sep"></div>`;
+  html += rest.map(row).join("");
+  grid.innerHTML = html;
+  $("#legend").innerHTML = (group === "people" ? `<span><i style="background:var(--gold)"></i>Party member</span><span><i style="background:var(--accent)"></i>NPC</span>` :
+    `<span><i style="background:var(--accent)"></i>Linked in session</span>`) +
+    `<span><i style="background:var(--cell-empty)"></i>Not mentioned</span>` +
+    (rest.length === 28 ? `<span>Top 28 by sessions; the Directory has everyone.</span>` : "");
+}
+document.querySelectorAll("[data-g]").forEach((b) => b.addEventListener("click", () => {
+  group = b.dataset.g;
+  document.querySelectorAll("[data-g]").forEach((x) => x.setAttribute("aria-pressed", String(x === b)));
+  renderGrid();
+}));
+renderGrid();
+
+const tip = $("#tip");
+function showTip(cell, x, y) {
+  const e = byName.get(cell.dataset.e), n = +cell.dataset.s;
+  const line = e.appearances.find((a) => a[0] === n)?.[1] ?? "";
+  tip.innerHTML = `<span class="d">Session ${n} · ${esc(fmtDate(sByNum.get(n)))}</span><b>${esc(e.name)}</b>: ${esc(line)}`;
+  tip.hidden = false;
+  const r = tip.getBoundingClientRect();
+  tip.style.left = Math.max(8, Math.min(x + 14, innerWidth - r.width - 8)) + "px";
+  tip.style.top = (y + 16 + r.height > innerHeight ? y - r.height - 12 : y + 16) + "px";
+}
+$("#grid").addEventListener("pointermove", (ev) => {
+  const c = ev.target.closest(".cell.on");
+  if (c) showTip(c, ev.clientX, ev.clientY); else tip.hidden = true;
+});
+$("#grid").addEventListener("pointerleave", () => (tip.hidden = true));
+$("#grid").addEventListener("click", (ev) => {
+  const c = ev.target.closest(".cell.on");
+  if (c && ev.pointerType !== "mouse") { const r = c.getBoundingClientRect(); showTip(c, r.left, r.bottom); }
+});
+addEventListener("scroll", () => (tip.hidden = true), { passive: true });
+
+// ---------- session log ----------
+function renderLog() {
+  const q = $("#log-q").value.trim().toLowerCase();
+  const list = sessions.slice().reverse().filter((s) => !q ||
+    [s.tldr.replace(/\{\{[^|]+\|([^}]+)\}\}/g, "$1"), s.where.join(" "), "session " + s.num, fmtDate(s)].join(" ").toLowerCase().includes(q));
+  $("#log-list").innerHTML = list.length ? list.map((s) => `<article>
+      <div class="when"><b>${s.num}</b>${esc(fmtDate(s))}</div>
+      <div><p>${rich(s.tldr)}</p>${s.where.length ? `<div class="chips">${s.where.map((w) =>
+        `<button type="button" class="ent tag" data-open="${esc(w)}" style="border:0">${esc(w)}</button>`).join("")}</div>` : ""}</div>
+    </article>`).join("") : `<p class="empty">No session mentions “${esc(q)}”.</p>`;
+}
+$("#log-q").addEventListener("input", renderLog);
+renderLog();
+
+// ---------- directory ----------
+let current = null;
+const sortedEntities = DATA.entities.slice().sort((a, b) => a.name.localeCompare(b.name));
+function renderDirList() {
+  const q = $("#dir-q").value.trim().toLowerCase();
+  const list = sortedEntities.filter((e) => !q || e.name.toLowerCase().includes(q) || (e.kind || "").includes(q));
+  $("#dir-list").innerHTML = list.length ? list.map((e) => `<button type="button" role="listitem" data-pick="${esc(e.name)}" aria-current="${e.name === current}">
+      <span>${esc(e.name)}</span><span class="k">${esc(typeLabel(e))}${e.appearances.length ? " · " + e.appearances.length : ""}</span></button>`).join("")
+    : `<p class="empty" style="padding:0.75rem">No names match “${esc(q)}”.</p>`;
+}
+$("#dir-list").addEventListener("click", (ev) => { const b = ev.target.closest("[data-pick]"); if (b) openEntity(b.dataset.pick, false); });
+$("#dir-q").addEventListener("input", renderDirList);
+
+function openEntity(name, scroll) {
+  const e = byName.get(name); if (!e) return;
+  current = name;
+  const first = e.appearances[0]?.[0], last = lastOf(e);
+  $("#detail").innerHTML = `
+    <div class="meta"><span class="eyebrow">${esc(typeLabel(e))}${e.kind ? " · " + esc(e.kind.replace(/_/g, " ")) : ""}</span>${pill(e.status)}</div>
+    <h3>${esc(e.name)}</h3>
+    ${e.summary ? `<p class="sum">${rich(e.summary)}</p>` : ""}
+    <div class="eyebrow" style="margin-bottom:0.6rem">${e.appearances.length
+      ? `${e.appearances.length} session${e.appearances.length > 1 ? "s" : ""} · first S${first} · last S${last}` : "Not linked from any session yet"}</div>
+    <ol>${e.appearances.map(([n, line]) => `<li><span class="s">S${n}</span><span>${esc(line)}</span></li>`).join("")}</ol>`;
+  renderDirList();
+  if (scroll) $("#directory").scrollIntoView({ block: "start" });
+}
+renderDirList();
+openEntity(byName.has("Riffle") ? "Riffle" : sortedEntities[0].name, false);
+</script>

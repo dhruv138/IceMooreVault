@@ -54,3 +54,4 @@ Appearance counts and "last seen" aren't stored. Dataview works them out from wh
 2. Add the frontmatter fields above and a `> [!summary] TL;DR` callout under the heading.
 3. Link people, places, factions, quests and items with `[[ ]]`.
 4. Run `python3 scripts/update_session_history.py` from the vault folder. It refreshes the collapsed **Session history** box at the bottom of every note. Only the text between its `%% session-history %%` markers is rewritten, so your own edits elsewhere are safe.
+5. Run `python3 scripts/build_dashboard.py` to rebuild `dashboard/Icemoor Dashboard.html`, the standalone campaign dashboard (latest recap, open threads, who appears in which session, session log and directory). It opens in any browser; it doesn't need Obsidian.
