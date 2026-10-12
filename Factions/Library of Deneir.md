@@ -14,6 +14,9 @@ Organization dedicated to collecting books, knowledge, artifacts, and secrets. [
 ## Recent developments
 - [[Session 38]]: Documents were stolen from [[Talir Rengavi]]'s safe. Archivist [[Siobhan]] claims she saw [[Riffle]] enter his office. See [[Talir's Stolen Documents]].
 
+## Relationships
+![[Relationships#Amberhold institutions]]
+
 %% session-history:start %%
 ## Session history
 

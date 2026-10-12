@@ -12,6 +12,9 @@ tags:
 
 Capital of the northern [[Confederation]]. Built within the mountains around major deposits of mithril and adamantine. Home of [[The Warhammer]], [[Baptism by Fire]], [[The Shooting Star]], [[Junk in the Trunk]], and the [[Ring of Gold]].
 
+## Relationships
+![[Relationships#The north: Dwarven powers and Venburg]]
+
 %% session-history:start %%
 ## Session history
 
