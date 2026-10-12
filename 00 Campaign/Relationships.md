@@ -45,7 +45,7 @@ flowchart TB
   class MA,LD,DA,SH,TM,BO,GG,KA,PO,SP,TR,ES,SI,HG,RI internal-link
 ```
 
-## The north: Dwarven powers and Venburg
+## Dwarven powers and Venburg
 
 ```mermaid
 flowchart LR

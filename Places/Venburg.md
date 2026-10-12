@@ -15,7 +15,7 @@ aliases:
 Winter-oriented fortified community associated with [[WISC]] and [[Furgus]]. Community longhouses, palisades, and strong seasonal traditions. Receives refugees from the [[Eisenberg]] region.
 
 ## Relationships
-![[Relationships#The north: Dwarven powers and Venburg]]
+![[Relationships#Dwarven powers and Venburg]]
 
 %% session-history:start %%
 ## Session history
