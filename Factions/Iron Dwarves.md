@@ -1,5 +1,7 @@
 ---
 title: "Iron Dwarves"
+type: faction
+first_seen: "[[Session 08]]"
 tags:
   - faction
   - organization

@@ -1,5 +1,7 @@
 ---
 title: "Christolf Nightfall"
+type: npc
+first_seen: "[[Session 16]]"
 tags:
   - person
   - npc

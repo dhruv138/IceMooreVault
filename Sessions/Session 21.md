@@ -1,5 +1,33 @@
 ---
 title: "Session 21 — 8 December 2025"
+type: session
+session: 21
+date: 2025-12-08
+previous_session: "[[Session 20]]"
+next_session: "[[Session 22]]"
+party:
+  - "[[Riffle]]"
+  - "[[Deanira]]"
+  - "[[WISC]]"
+  - "[[Furgus]]"
+npcs:
+  - "[[Agatha]]"
+  - "[[Daddy Dildo Daggins]]"
+locations:
+  - "[[Axeholm]]"
+  - "[[Zyuir]]"
+factions:
+  - "[[Dragon League]]"
+quests: []
+items:
+  - "[[Mask of the Green Dragon]]"
+  - "[[Armour of Cold Resistance]]"
+  - "[[Dagger of Venom]]"
+  - "[[Duck Tape]]"
+  - "[[Rod of Fishing]]"
+  - "[[Ring of Gaseous Forms]]"
+  - "[[Scroll of Revivify]]"
+  - "[[Cornhusk Dolls]]"
 tags:
   - session
   - actual-play
@@ -9,6 +37,10 @@ aliases:
   - "Session 21"
 ---
 # Session 21 — 8 December 2025
+
+> [!summary] TL;DR
+> They clear the dragon shrine and vault, finding the [[Mask of the Green Dragon]] and other magic items. The hag [[Agatha]] identifies the dolls as a pixie's work and says the Drow outpost of [[Zyuir]] is the key to Axeholm.
+
 
 [[Riffle]] asks if any of us have a necklace of beads. [[Deanira]] offers her mala beads and [[Riffle]] takes them off to the corner and starts closing their eyes and counting them. None of us have ever seen [[Riffle]] do anything remotely religious in the time that we have known them.
 After our short rest we leave the room we rested in and decide to head down the sloping hallway to explore further. As we make our way down,

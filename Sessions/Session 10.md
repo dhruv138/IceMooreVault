@@ -1,5 +1,27 @@
 ---
 title: "Session 10 — 22 July 2025 Lyra: Deanira"
+type: session
+session: 10
+date: 2025-07-22
+previous_session: "[[Session 09]]"
+next_session: "[[Session 11]]"
+party:
+  - "[[Riffle]]"
+  - "[[WISC]]"
+  - "[[Furgus]]"
+  - "[[Deanira]]"
+npcs:
+  - "[[Gunther Rockhammer]]"
+  - "[[Oswald]]"
+locations:
+  - "[[The Warhammer]]"
+  - "[[Unfinished Business]]"
+  - "[[Truemetal Halls]]"
+factions:
+  - "[[Black Hand Dwarves]]"
+quests: []
+items:
+  - "[[Grey Bag of Tricks]]"
 tags:
   - session
   - actual-play
@@ -9,6 +31,10 @@ aliases:
   - "Session 10"
 ---
 # Session 10 — 22 July 2025 Lyra: Deanira
+
+> [!summary] TL;DR
+> [[Hambrick Onyxcrest]] dispels the stone, revealing a giant "onion" of layered spells. The party hears of the [[Anthracite Trade Mystery|anthracite price hike]], takes a job clearing the grain route, and gains the horse Dante and the [[Grey Bag of Tricks]].
+
 
 Anita: [[Riffle]]
 Taylor: [[WISC]] Dhruv: [[Furgus]]

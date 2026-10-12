@@ -1,5 +1,8 @@
 ---
 title: "Temple of the Wild Mother and Lawbringer"
+type: location
+location_type: temple
+first_seen: "[[Session 18]]"
 tags:
   - place
   - temple

@@ -1,5 +1,42 @@
 ---
 title: "Session 37 — 12 September 2026"
+type: session
+session: 37
+date: 2026-09-12
+previous_session: "[[Session 36]]"
+next_session: "[[Session 38]]"
+party:
+  - "[[Deanira]]"
+  - "[[Riffle]]"
+  - "[[WISC]]"
+  - "[[Furgus]]"
+  - "[[Theo'din Corvis]]"
+npcs:
+  - "[[Samuel Patel]]"
+  - "[[Talir Rengavi]]"
+  - "[[Cam Jergins]]"
+  - "[[Christolf Nightfall]]"
+  - "[[Ester]]"
+  - "[[Daddy Dildo Daggins]]"
+locations:
+  - "[[Temple of Mistra]]"
+  - "[[Amberhold]]"
+  - "[[Temple of the Raven Queen]]"
+  - "[[The Two Tits]]"
+  - "[[Heaven's Touch]]"
+factions:
+  - "[[Mistra's Academy]]"
+  - "[[Sect of Torm]]"
+  - "[[Skeletal Hand]]"
+  - "[[Raven Queen's servants]]"
+  - "[[Library of Deneir]]"
+quests:
+  - "[[Floating Island Mystery]]"
+  - "[[Missing Sanitation Workers]]"
+  - "[[Academy Gala]]"
+items:
+  - "[[Mask of the Green Dragon]]"
+  - "[[Cornhusk Dolls]]"
 tags:
   - session
   - actual-play
@@ -9,6 +46,10 @@ aliases:
   - "Session 37"
 ---
 # Session 37 — 12 September 2026
+
+> [!summary] TL;DR
+> The were-bear curse is cured and the [[Mask of the Green Dragon]]'s curse is lifted from Deanira. A coded scholarship flyer leads to a blond [[Skeletal Hand]] recruiter, and sailors report vanishing islands. Theo communes with the [[Raven Queen]].
+
 
 [[Deanira]] wakes up early and the smell of fresh pastries waft upstairs.
 She gets a mixed berry turnover on her way to the temple to see the Cleric

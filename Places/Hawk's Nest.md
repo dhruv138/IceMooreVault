@@ -1,5 +1,7 @@
 ---
 title: "Hawk's Nest"
+type: location
+location_type: landmark
 tags:
   - place
   - landmark

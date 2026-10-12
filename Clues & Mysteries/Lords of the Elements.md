@@ -1,5 +1,6 @@
 ---
 title: "Lords of the Elements"
+type: mystery
 tags:
   - mystery
   - lore

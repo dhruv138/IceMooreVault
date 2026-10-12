@@ -1,5 +1,8 @@
 ---
 title: "Dunnings Auction House"
+type: location
+location_type: auction_house
+first_seen: "[[Session 13]]"
 tags:
   - place
   - auction_house

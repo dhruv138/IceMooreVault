@@ -1,5 +1,8 @@
 ---
 title: "Armour of Cold Resistance"
+type: item
+item_type: magic_armor
+first_seen: "[[Session 21]]"
 tags:
   - item
   - magic_armor

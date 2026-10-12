@@ -1,11 +1,13 @@
 ---
-title: "Cornhusk Dolls"
+title: "Mystery of the Cornhusk Dolls"
+type: quest
+status: unresolved
 tags:
   - quest
   - unresolved
   - dnd
 ---
-# Cornhusk Dolls
+# Mystery of the Cornhusk Dolls
 
 **Status:** unresolved
 

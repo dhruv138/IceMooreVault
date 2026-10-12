@@ -1,5 +1,8 @@
 ---
 title: "Unfinished Business"
+type: location
+location_type: planar_tavern
+first_seen: "[[Session 07]]"
 tags:
   - place
   - planar_tavern

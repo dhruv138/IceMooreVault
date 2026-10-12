@@ -1,10 +1,22 @@
 ---
 title: "Dragon League"
+type: faction
+first_seen: "[[Session 21]]"
 tags:
   - faction
   - organization
+  - lore
   - dnd
 ---
 # Dragon League
 
-Historical dragon-worshiping power devoted to [[Tiamat]]. It fought the [[Ambercrown Kingdom]] roughly 15–20 years before the current campaign.
+Historical dragon-worshiping organization devoted to [[Tiamat]]. They could control dragons and used them in warfare.
+
+The Dragon League fought the [[Ambercrown Kingdom]] around 15–20 years before the campaign. The notes also describe older Dragon League-related ruins containing:
+- a dragon shrine
+- a baptismal font
+- dragon imagery
+- a vault containing magical equipment
+- documents and blackmail materials
+
+The party recovered evidence that may connect ancient Dragon League activity to [[Axeholm]].

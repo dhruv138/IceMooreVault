@@ -1,5 +1,7 @@
 ---
 title: "Daggins's Journal"
+type: item
+item_type: document
 tags:
   - item
   - document

@@ -1,5 +1,8 @@
 ---
 title: "Missing Sanitation Workers"
+type: quest
+status: active
+first_seen: "[[Session 37]]"
 tags:
   - quest
   - active

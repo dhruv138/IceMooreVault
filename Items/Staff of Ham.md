@@ -1,5 +1,8 @@
 ---
 title: "Staff of Ham"
+type: item
+item_type: wondrous_item
+first_seen: "[[Session 12]]"
 tags:
   - item
   - wondrous_item

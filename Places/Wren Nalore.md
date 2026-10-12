@@ -1,5 +1,8 @@
 ---
 title: "Wren Nalore"
+type: location
+location_type: city
+first_seen: "[[Session 14]]"
 tags:
   - place
   - city

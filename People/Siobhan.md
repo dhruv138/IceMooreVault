@@ -1,5 +1,7 @@
 ---
 title: "Siobhan"
+type: npc
+first_seen: "[[Session 38]]"
 tags:
   - person
   - npc

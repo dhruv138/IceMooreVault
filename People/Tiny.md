@@ -1,5 +1,7 @@
 ---
 title: "Tiny"
+type: npc
+first_seen: "[[Session 03]]"
 tags:
   - person
   - npc

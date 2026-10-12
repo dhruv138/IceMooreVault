@@ -1,5 +1,7 @@
 ---
 title: "Mittens"
+type: npc
+first_seen: "[[Session 18]]"
 tags:
   - person
   - npc

@@ -1,5 +1,7 @@
 ---
 title: "Lord Ivan Deepshaft"
+type: npc
+first_seen: "[[Session 08]]"
 tags:
   - person
   - npc

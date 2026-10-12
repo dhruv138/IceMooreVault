@@ -1,5 +1,6 @@
 ---
 title: "Wolfsbane Potion"
+type: lore
 tags:
   - lore
   - alchemy

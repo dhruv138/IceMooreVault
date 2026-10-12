@@ -1,5 +1,8 @@
 ---
 title: "Cornhusk Dolls"
+type: item
+item_type: fae_object
+first_seen: "[[Session 17]]"
 tags:
   - item
   - fae_object
@@ -11,3 +14,5 @@ Recurring dolls resembling party members. Their origin appears to be fae; [[Agat
 
 ## Recent developments
 - [[Session 37]]: [[Theo'din Corvis]] left one in the [[Temple of the Raven Queen]].
+
+See also: [[Mystery of the Cornhusk Dolls]]

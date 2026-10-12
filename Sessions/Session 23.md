@@ -1,5 +1,33 @@
 ---
 title: "Session 23 — 5 February 2026"
+type: session
+session: 23
+date: 2026-02-05
+previous_session: "[[Session 22]]"
+next_session: "[[Session 24]]"
+party:
+  - "[[WISC]]"
+  - "[[Riffle]]"
+  - "[[Deanira]]"
+  - "[[Furgus]]"
+npcs:
+  - "[[Tiny]]"
+  - "[[The Bastard]]"
+  - "[[Glasses]]"
+  - "[[The Poet]]"
+  - "[[Hambrick Onyxcrest]]"
+  - "[[Talir Rengavi]]"
+  - "[[Hana Goldfirm]]"
+locations:
+  - "[[Wren Nalore]]"
+  - "[[Living Bloom]]"
+  - "[[Truemetal Halls]]"
+  - "[[Emerald Glade]]"
+factions: []
+quests: []
+items:
+  - "[[Staff of Ham]]"
+  - "[[Cornhusk Dolls]]"
 tags:
   - session
   - actual-play
@@ -9,6 +37,10 @@ aliases:
   - "Session 23"
 ---
 # Session 23 — 5 February 2026
+
+> [!summary] TL;DR
+> WISC bribes their goods back while Riffle pranks the guard tower. They camp with a grieving [[The Bastard's Band]], then [[Hambrick Onyxcrest]] portals them home to meet [[Talir Rengavi]] and [[Hana Goldfirm]].
+
 
 So we’re exiled from [[Wren Nalore]]… [[WISC]] heads towards town to visit the guard tower to see what exactly we are in trouble for (we know it’s to do with [[Riffle]]’s nonsense). He offers to settle things in a gentlemanly way and asks for the details of our charges. They go to get the Captain Jack Offman. He explains that it’s in relation to harassing one of the elderly ladies in the town. We were tried in absence and found guilty, but we can come to the town hall to stand trial in person. Through [[WISC]]’s discussions (and bribe) with the Captain of the guard, we will receive all of our goods we left (Dante our horse, and our donkey - which is just on loan for this quest) and can receive our goods from the [[Living Bloom]] to deliver to the apothecary in [[Truemetal Halls]]. They deliver our horse and donkey loaded with the goods. We go through and make sure that everything is there. We head away from the town to set up camp for the night, but [[Riffle]] sneaks off to thaumaturgy the guard tower, making it appear to be set on fire, the windows fly open, and loud raven shrieks echo through the tower. They hear, “to arms! To arms! There is skullduggery about!” A guard does see [[Riffle]], and shoots an arrow right past their head. As they weave back to the camp through the woods, [[Riffle]] runs into a troll pulling bird nests out of trees and eating the eggs. Thankfully the troll doesn’t see them. They keep getting lost and don’t end up returning until morning. In the middle of the night, seeing that [[Riffle]] hasn’t returned from wherever they have sauntered off to, [[WISC]] searches the immediately surrounding woods for any sign of [[Riffle]]’s trail. In the morning, [[Riffle]] saunters up to camp like a teenager doing the walk of shame. [[Deanira]] asks “where were you last night? We were worried.” [[Riffle]] responds, “am okay.” [[WISC]] says, “It’s less about if you’re okay; are OTHER people okay?! Do we need to GO?” [[Furgus]] adds, “and how fast do we need to go?” [[Riffle]] assures us no one was hurt, but [[Deanira]] packs up very quickly nonetheless.
 As we pass near the camp where we found the goblin child, we hear a whistle and see [[Tiny]], the Goliath Cleric from [[The Bastard]]’s Band.

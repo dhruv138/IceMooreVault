@@ -1,5 +1,7 @@
 ---
 title: "Wetel"
+type: npc
+first_seen: "[[Session 17]]"
 tags:
   - person
   - npc

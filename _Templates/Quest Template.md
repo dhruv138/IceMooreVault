@@ -61,3 +61,11 @@ Facts and clues currently available to the player characters.
 ## Secrets / DM Knowledge
 
 True cause, hidden objectives, twists, unrevealed consequences, or other DM-only information.
+
+## Appearances
+
+```dataview
+LIST FROM "Sessions"
+WHERE contains(file.outlinks, this.file.link)
+SORT session ASC
+```

@@ -1,5 +1,7 @@
 ---
 title: "Mystery of Axeholm"
+type: quest
+status: active
 tags:
   - quest
   - active

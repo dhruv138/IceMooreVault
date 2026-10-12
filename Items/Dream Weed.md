@@ -1,5 +1,8 @@
 ---
 title: "Dream Weed"
+type: item
+item_type: consumable
+first_seen: "[[Session 15]]"
 tags:
   - item
   - consumable

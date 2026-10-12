@@ -1,5 +1,8 @@
 ---
 title: "Zyuir"
+type: location
+location_type: drow_outpost
+first_seen: "[[Session 21]]"
 tags:
   - place
   - drow_outpost

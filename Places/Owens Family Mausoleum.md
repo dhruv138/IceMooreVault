@@ -1,5 +1,8 @@
 ---
 title: "Owens Family Mausoleum"
+type: location
+location_type: crypt
+first_seen: "[[Session 38]]"
 tags:
   - place
   - crypt

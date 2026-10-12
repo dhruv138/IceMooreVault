@@ -1,5 +1,24 @@
 ---
 title: "Session 6 — 2 May 2025"
+type: session
+session: 6
+date: 2025-05-02
+previous_session: "[[Session 05]]"
+next_session: "[[Session 07]]"
+party:
+  - "[[WISC]]"
+  - "[[Furgus]]"
+  - "[[Deanira]]"
+npcs:
+  - "[[Hilda]]"
+  - "[[Elzock Emberstone]]"
+locations:
+  - "[[Truemetal Halls]]"
+  - "[[Black Dragon Inn]]"
+  - "[[Lakeshire]]"
+factions: []
+quests: []
+items: []
 tags:
   - session
   - actual-play
@@ -9,6 +28,10 @@ aliases:
   - "Session 6"
 ---
 # Session 6 — 2 May 2025
+
+> [!summary] TL;DR
+> WISC and Furgus reveal dreams in which Abbathor offered protection (Furgus signed in blood). Freed bugbear Crez guides them to the [[Black Dragon Inn]], where [[Hilda]] can't identify the stone.
+
 
 [[WISC]] pulls the three of us into a huddle. When we were in the temple to Abathor, when we went to sleep, he woke up in a dream of a grand hall and Abathor was there. He told him we’d wake up and encounter 20+ armed soldiers. He said he’d protect us if [[WISC]] agreed to give out a handful of coins to people back in [[Truemetal Halls]]. Then [[Furgus]] says he had a very similar dream where Abathor gave the same info, but even though [[Furgus]] didn’t agree to do a favour, he had to sign a contract with Abathor with his blood anyway. [[WISC]] didn’t have to do this.
 One of the Bugbears we freed from slavery is named Crez. He comes to us and says that he’s been looking around and thinks he knows where we are. In the distance, he points out columns of clouds rising into the sky. He says, “if I’m not mistaken, those are the hot springs outside of the [[Black Dragon Inn]]. The inn owner there offers training and supplies. We could rest and resupply and then make our way back. Canborg road will take us to [[Truemetal Halls]]. The road is a major road that runs from [[Lakeshire]] to [[Truemetal Halls]]. As we part ways, Crez apologizes for not having anything to give to thank us. He says that if we ever find ourselves in the hamlet of Briar Run, we will have their hospitality.

@@ -1,5 +1,30 @@
 ---
 title: "Session 8 — 18 June 2025"
+type: session
+session: 8
+date: 2025-06-18
+previous_session: "[[Session 07]]"
+next_session: "[[Session 09]]"
+party:
+  - "[[WISC]]"
+  - "[[Furgus]]"
+  - "[[Deanira]]"
+npcs:
+  - "[[Wolf]]"
+  - "[[Gunther Rockhammer]]"
+  - "[[Earl Emberstone]]"
+  - "[[Lord Ivan Deepshaft]]"
+  - "[[Elzock Emberstone]]"
+locations:
+  - "[[The Shooting Star]]"
+  - "[[Ring of Gold]]"
+  - "[[Murderhorn]]"
+factions:
+  - "[[Iron Dwarves]]"
+  - "[[Court]]"
+quests: []
+items:
+  - "[[Reaper]]"
 tags:
   - session
   - actual-play
@@ -9,6 +34,10 @@ aliases:
   - "Session 8"
 ---
 # Session 8 — 18 June 2025
+
+> [!summary] TL;DR
+> The Emberstones reward the party with [[Reaper]], a chromatic quiver and thunderous handwraps. [[Lord Ivan Deepshaft]] of the [[Court]] debriefs them on the mine in secret and asks them to keep quiet; the city pays 900 gold for the information.
+
 
 Upon our return to the city, we visit a new magic shop that has just opened and is still in the process of unpacking, called [[The Shooting Star]]. The proprietor, a gnome with light pink fuzzy hair and the deepest voice we’ve ever heard, Mr. Bubblegum, greets us. He isn’t able to identify what our stone is. We see a few items we’d like to buy eventually.
 We sell our dire [[Wolf]] pelts to a leather shop, and she recommends that we attend the market to get a tanning setup, a skinning knife, and salt to cure the pelts. They will then be worth 10 gold each in a decent condition.

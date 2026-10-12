@@ -8,6 +8,27 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
+      "query": "[party_member:true]",
+      "color": {
+        "a": 1,
+        "rgb": 15909198
+      }
+    },
+    {
+      "query": "path:Sessions",
+      "color": {
+        "a": 1,
+        "rgb": 9080728
+      }
+    },
+    {
+      "query": "[status:resolved] OR [status:completed]",
+      "color": {
+        "a": 1,
+        "rgb": 5200742
+      }
+    },
+    {
       "query": "path:People",
       "color": {
         "a": 1,
@@ -29,14 +50,14 @@
       }
     },
     {
-      "query": "path:Quests  ",
+      "query": "path:Quests",
       "color": {
         "a": 1,
         "rgb": 14732626
       }
     },
     {
-      "query": "path:Items  ",
+      "query": "path:Items",
       "color": {
         "a": 1,
         "rgb": 9130720
@@ -50,7 +71,7 @@
       }
     },
     {
-      "query": "path:\"Clues & Mysteries\"  ",
+      "query": "path:\"Clues & Mysteries\"",
       "color": {
         "a": 1,
         "rgb": 14715730

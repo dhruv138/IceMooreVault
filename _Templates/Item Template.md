@@ -63,3 +63,11 @@ Describe how the item appeared, changed hands, was identified, or otherwise affe
 ## Secrets / DM Knowledge
 
 Hidden properties, curses, true origins, unrevealed powers, false identifications, or other information the players do not yet know.
+
+## Appearances
+
+```dataview
+LIST FROM "Sessions"
+WHERE contains(file.outlinks, this.file.link)
+SORT session ASC
+```

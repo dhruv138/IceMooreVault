@@ -13,6 +13,7 @@ tags:
 - [[Deanira]]
 - [[Riffle]]
 - [[Philip]]
+- [[Theo'din Corvis]] (party member)
 
 ## Key NPCs
 - [[Talir Rengavi]]
@@ -24,7 +25,6 @@ tags:
 - [[Christolf Nightfall]]
 - [[Lord Ivan Deepshaft]]
 - [[Uthal]]
-- [[Theo'din Corvis]]
 - [[Oma]]
 - [[Ester]]
 - [[Samuel Patel]]

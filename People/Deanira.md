@@ -1,5 +1,8 @@
 ---
 title: "Deanira"
+type: pc
+party_member: true
+first_seen: "[[Session 03]]"
 tags:
   - person
   - character

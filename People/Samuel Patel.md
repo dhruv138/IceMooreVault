@@ -1,5 +1,7 @@
 ---
 title: "Samuel Patel"
+type: npc
+first_seen: "[[Session 37]]"
 tags:
   - person
   - npc

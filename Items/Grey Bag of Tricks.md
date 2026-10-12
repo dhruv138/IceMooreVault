@@ -1,5 +1,8 @@
 ---
 title: "Grey Bag of Tricks"
+type: item
+item_type: wondrous_item
+first_seen: "[[Session 10]]"
 tags:
   - item
   - wondrous_item

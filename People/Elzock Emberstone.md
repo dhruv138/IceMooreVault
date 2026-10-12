@@ -1,5 +1,7 @@
 ---
 title: "Elzock Emberstone"
+type: npc
+first_seen: "[[Session 05]]"
 tags:
   - person
   - npc

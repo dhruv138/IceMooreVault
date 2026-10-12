@@ -1,5 +1,30 @@
 ---
 title: "Session 31 — 16 June 2026"
+type: session
+session: 31
+date: 2026-06-16
+previous_session: "[[Session 30]]"
+next_session: "[[Session 32]]"
+party:
+  - "[[WISC]]"
+  - "[[Riffle]]"
+  - "[[Furgus]]"
+  - "[[Deanira]]"
+npcs:
+  - "[[Daddy Dildo Daggins]]"
+  - "[[Uthal]]"
+  - "[[Klaus]]"
+  - "[[Annika]]"
+  - "[[Queen]]"
+locations:
+  - "[[Truemetal Halls]]"
+  - "[[Venburg]]"
+  - "[[Valley of Fire]]"
+  - "[[Eisenberg]]"
+factions: []
+quests: []
+items:
+  - "[[Staff of Ham]]"
 tags:
   - session
   - actual-play
@@ -10,6 +35,10 @@ aliases:
 ---
 # Session 31 — 16 June 2026
 
+> [!summary] TL;DR
+> After a nightmare about [[Oma]], WISC brings the party home, where Uthal now works. They arrive in [[Venburg]] to find it swollen with refugees from unrest around [[Eisenberg]], and meet Furgus's family.
+
+
 We arrive at [[WISC]]’s grandmother’s house and enter cheerily. She has her back turned and is working hard. [[WISC]] greets her and she turns to us. Her voice is horrifying and her eyes are no longer a beautiful blue but instead burn like smouldering coals. She points a finger at [[Riffle]] and immediately casts Finger of Death. [[Riffle]] dies and comes back as a zombie. [[Riffle]] runs up to Grandma and pries open her eyes and STARES. That’s it. [[Furgus]] gets controlled and shoots [[WISC]].
 [[WISC]] jolts awake and finds himself in the forest surrounded by the rest of the sleeping party.
 [[Riffle]] casts sending to all their various contacts and learns that a representative of [[Daddy Dildo Daggins]]’s religious organization is on their way to [[Truemetal Halls]]. We assume that it’s someone who is also a cleric of whatever fertility goddess. Three days of travel go by on our way to [[WISC]]’s grandmother’s house. When we arrive on the familiar homelands of [[WISC]]’s childhood, we stop to do some fishing at a childhood lake. [[WISC]] and [[Furgus]] fuck around like two idiots trying to catch a fish with their bare hands, so… they don’t catch anything. We arrive at the cabin that [[WISC]] grew up in. A large, one story building surrounded by the woods, a barn, and a vegetable garden with sprawling pumpkins. [[WISC]] knocks on the doorframe, “[[Oma]]! I’m home! I brought my friends!” She turns, “WISCchenzo!
@@ -18,7 +47,7 @@ Welcome home! I see you’re still with [[Furgus]]…” She gives him grief for
 Eventually they all end up loading up the cart for the trip to [[Venburg]]. The journey ends up being filled with [[Furgus]] and [[WISC]] muttering curses and profanities under their breaths about [[Uthal]]. During the day and a half long trip, [[WISC]] asks [[Deanira]] and [[Riffle]] if we think the Druid Goliath is somehow tracking [[Uthal]] and therefore putting his grandmother in danger. [[Riffle]] and [[Oma]] spend time riding on the cart together and chat. [[Riffle]] asks what [[Oma]] wants for [[WISC]], regarding spouses; is there anyone [[Oma]] ships with [[WISC]]? [[Riffle]] learns that [[Oma]]’s partner was named Clarence. [[Oma]] says that most people meet when staying inside all winter. [[Riffle]] asks about how [[WISC]]’s parents met, and [[Oma]]’s demeanour immediately turns sour.
 We come across a pond and try to fish. We roll terribly, but [[Uthal]] catches several bluegill fish. [[Deanira]] rolls a Nat20 on tripping [[Uthal]] and he faceplants into the pond. When [[Deanira]] flirts with [[Uthal]], they notice that he looks at [[Furgus]] longingly. We all decide to ship and conspire to get [[Uthal]] and [[Furgus]] together. [[Oma]] is in on the plan.
 Eventually the path opens up into a valley, referred to colloquially as the [[Valley of Fire]]. Partway down the slope is where [[Venburg]] is located.
-The meadow above is loaded with low bush blueberries. A local story is that long ago, a Druid worked their magic as aid to make the blueberries thrive and plentiful. The leaves turned from green to a vibrant orange, making the meadow look like it’s on fire. [[Venberg]] looks like a ringed fort more than a town. It has palisade walls 15 ft high to protect both from wind and wild animals/raiders. Inside are 4 long houses that are communal living spaces for the winter, in addition to smaller outer buildings like smokehouses, blacksmiths, barns, butchers, etc. A single gate opens into the town. As we approach the gate, [[Deanira]] and [[Riffle]]
+The meadow above is loaded with low bush blueberries. A local story is that long ago, a Druid worked their magic as aid to make the blueberries thrive and plentiful. The leaves turned from green to a vibrant orange, making the meadow look like it’s on fire. [[Venburg|Venberg]] looks like a ringed fort more than a town. It has palisade walls 15 ft high to protect both from wind and wild animals/raiders. Inside are 4 long houses that are communal living spaces for the winter, in addition to smaller outer buildings like smokehouses, blacksmiths, barns, butchers, etc. A single gate opens into the town. As we approach the gate, [[Deanira]] and [[Riffle]]
 Notice that there are names carved into the pillars of the gate. It’s covered in the names of everyone who has been born in [[Venburg]]. [[Furgus]] and [[WISC]] see a lot of new people that they don’t recognise, far more than normal. They are also in the process of adding on to the outer wall to make it larger and potentially add another longhouse. The town is bustling with preparations for winter. A Hill Dwarf named [[Claus]] is in his 27th year of being the elected [[Klaus]] of [[Venburg]] and he does a good job keeping things running. He seems very stressed, more so than any time before. We seek out [[Furgus]]’s family who are preparing the festival for next week. They are building the pit to roast the pig in.
 We meet [[Furgus]]’s parents, brother ([[Bad]]), sister in law ([[Annika]]), and his two baby nieces and nephews (James and Julia). [[Deanira]] meets a large Maine Coon type cat and picks it up, holding it awkwardly in the longcat pose. Her name is [[Queen]], the chief mouser, and she hisses. [[Deanira]] smiles proudly, holding her up, and then lets her go.
 [[Furgus]] asks his dad why there are so many new people here this year. He says that the new people are from [[Eisenberg]] and surrounding areas, as there is something going on in that region. [[WISC]] is playing with Julia while [[Deanira]] tries to get this one or two month old baby say “DaDa”. [[Furgus]] asks his mother why all these people are coming from [[Eisenberg]]. She said there’s an uprising or type of civil war within the city. She tells [[Furgus]] to ask the new people and then starts giving him grief for not settling down.

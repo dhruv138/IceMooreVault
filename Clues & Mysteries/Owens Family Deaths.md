@@ -1,5 +1,7 @@
 ---
 title: "Owens Family Deaths"
+type: mystery
+status: unresolved
 tags:
   - mystery
   - lore

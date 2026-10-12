@@ -1,5 +1,6 @@
 ---
 title: "Department of Acquisitions"
+type: faction
 tags:
   - faction
   - organization

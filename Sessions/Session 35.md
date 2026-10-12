@@ -1,5 +1,36 @@
 ---
 title: "Session 35 — 17 August 2026"
+type: session
+session: 35
+date: 2026-08-17
+previous_session: "[[Session 34]]"
+next_session: "[[Session 36]]"
+party:
+  - "[[Philip]]"
+  - "[[Riffle]]"
+  - "[[Theo'din Corvis]]"
+  - "[[Furgus]]"
+  - "[[WISC]]"
+  - "[[Deanira]]"
+npcs:
+  - "[[Bianca Onyxcrest]]"
+  - "[[Talir Rengavi]]"
+  - "[[Jane Pedimore]]"
+  - "[[Uthal]]"
+  - "[[Klaus]]"
+  - "[[Sabrina]]"
+locations:
+  - "[[Amberhold]]"
+  - "[[Venburg]]"
+  - "[[Western Point]]"
+  - "[[Velvet Glove Brothel]]"
+  - "[[Axeholm]]"
+factions:
+  - "[[Skeletal Hand]]"
+quests:
+  - "[[Master of Death]]"
+items:
+  - "[[Sending Stones]]"
 tags:
   - session
   - actual-play
@@ -9,6 +40,10 @@ aliases:
   - "Session 35"
 ---
 # Session 35 — 17 August 2026
+
+> [!summary] TL;DR
+> At the Venburg festival Riffle reveals how their burn made them a cleric. A portal drops the party, with [[Philip]], into the [[Velvet Glove Brothel]] in Amberhold, where [[Sabrina]] warns of the rival [[Heaven's Touch]].
+
 
 So… [[Philip]] is coming to [[Amberhold]] with us. And [[Riffle]] refuses to ask [[Bianca Onyxcrest]] for help. In three weeks The Gauntlet will be held in [[Amberhold]], in which we will compete on behalf of the Library. The next full moon is in a month.
 In [[Venburg]], the following day is the festival. [[Riffle]] receives a ping from [[Talir Rengavi]], and no one at the Academy knows where [[Venburg]] is, so he hired a local who knows the region who will arrive in 2 days (day after the festival). In the meantime, [[Theo'din Corvis]] asks [[Furgus]] if he is morally okay with eating rabbit. A moral argument ensues, without much of a consensus. [[Riffle]] asks [[Jane Pedimore]] that if she sees another golden-eyed bugbear, if she can get the name before she slaughters him. [[Jane Pedimore]] agrees.

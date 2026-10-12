@@ -1,5 +1,8 @@
 ---
 title: "Theo'din Corvis"
+type: npc
+party_member: true
+first_seen: "[[Session 32]]"
 tags:
   - person
   - npc

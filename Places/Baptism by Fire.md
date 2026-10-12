@@ -1,5 +1,8 @@
 ---
 title: "Baptism by Fire"
+type: location
+location_type: blacksmith
+first_seen: "[[Session 14]]"
 tags:
   - place
   - blacksmith

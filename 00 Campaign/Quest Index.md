@@ -12,12 +12,12 @@ tags:
 - [[Warrior of Kord]] — **unresolved**
 - [[Apothecary Shipment]] — **completed**
 - [[Flesh Golems and Poison Mine]] — **active**
-- [[Cornhusk Dolls]] — **unresolved**
-- [[Darham Hold]] — **unresolved**
+- [[Mystery of the Cornhusk Dolls]] — **unresolved**
+- [[Darham Hold Unrest]] — **unresolved**
 - [[Seasonal Festival]] — **completed**
 - [[Southern Auction]] — **upcoming**
 - [[Mystery of Axeholm]] — **active**
-- [[Mystery Stone]] — **active**
+- [[Mystery Stone Investigation]] — **active**
 - [[Master of Death]] — **active**
 - [[Daggins Murder]] — **active**
 - [[Golden-Eyed Bugbear Mystery]] — **active**

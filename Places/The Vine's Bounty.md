@@ -1,5 +1,7 @@
 ---
 title: "The Vine's Bounty"
+type: location
+location_type: wine_shop
 tags:
   - place
   - wine_shop

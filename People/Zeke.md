@@ -1,5 +1,7 @@
 ---
 title: "Zeke"
+type: npc
+first_seen: "[[Session 28]]"
 tags:
   - person
   - npc

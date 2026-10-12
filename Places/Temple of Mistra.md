@@ -1,5 +1,8 @@
 ---
 title: "Temple of Mistra"
+type: location
+location_type: temple
+first_seen: "[[Session 37]]"
 tags:
   - place
   - temple

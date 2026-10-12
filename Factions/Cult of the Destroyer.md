@@ -1,5 +1,7 @@
 ---
 title: "Cult of the Destroyer"
+type: faction
+first_seen: "[[Session 17]]"
 tags:
   - faction
   - organization

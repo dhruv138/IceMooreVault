@@ -1,5 +1,7 @@
 ---
 title: "Agatha"
+type: npc
+first_seen: "[[Session 21]]"
 tags:
   - person
   - npc

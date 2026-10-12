@@ -1,5 +1,27 @@
 ---
 title: "Session 9 — 17 July 2025 Anita: Riﬄe"
+type: session
+session: 9
+date: 2025-07-17
+previous_session: "[[Session 08]]"
+next_session: "[[Session 10]]"
+party:
+  - "[[Deanira]]"
+  - "[[WISC]]"
+  - "[[Furgus]]"
+npcs:
+  - "[[Daddy Dildo Daggins]]"
+  - "[[Queen]]"
+  - "[[Hambrick Onyxcrest]]"
+locations:
+  - "[[Junk in the Trunk]]"
+  - "[[Axeholm]]"
+  - "[[The Warhammer]]"
+  - "[[Truemetal Halls]]"
+factions:
+  - "[[Court]]"
+quests: []
+items: []
 tags:
   - session
   - actual-play
@@ -9,6 +31,10 @@ aliases:
   - "Session 9"
 ---
 # Session 9 — 17 July 2025 Anita: Riﬄe
+
+> [!summary] TL;DR
+> [[Riffle]] joins after pickpocketing and copying the journal. The party meets [[Daddy Dildo Daggins]], who tells them the legend of Axeholm and agrees to crack the cipher. Deanira keeps his silver dildo as collateral.
+
 
 Lyra: [[Deanira]] Taylor: [[WISC]] Dhruv: [[Furgus]]
 We decide to spend the day exploring the city, as the monthly market isnt for two days. As we’re walking through, Dwarves are hanging banners, one of which is on a ladder. He falls and cracks his head open. As we run over, a luxuriously robed kenku runs over as well. They are exquisitely decorated in golden rings and other jewellery. [[Deanira]] and the kenku examine the man, he is not breathing and portions of brain have come out, very clearly dead.

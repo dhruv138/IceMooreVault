@@ -1,5 +1,6 @@
 ---
 title: "Ea"
+type: npc
 tags:
   - person
   - npc

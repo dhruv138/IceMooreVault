@@ -1,11 +1,13 @@
 ---
-title: "Mystery Stone"
+title: "Mystery Stone Investigation"
+type: quest
+status: active
 tags:
   - quest
   - active
   - dnd
 ---
-# Mystery Stone
+# Mystery Stone Investigation
 
 **Status:** active
 

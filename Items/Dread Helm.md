@@ -1,5 +1,8 @@
 ---
 title: "Dread Helm"
+type: item
+item_type: magic_item
+first_seen: "[[Session 29]]"
 tags:
   - item
   - magic_item

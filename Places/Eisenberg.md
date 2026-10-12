@@ -1,5 +1,8 @@
 ---
 title: "Eisenberg"
+type: location
+location_type: city
+first_seen: "[[Session 15]]"
 tags:
   - place
   - city

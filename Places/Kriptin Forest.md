@@ -1,9 +1,14 @@
 ---
 title: "Kriptin Forest"
+type: location
+location_type: forest
+first_seen: "[[Session 34]]"
 tags:
   - place
   - forest
   - dnd
+aliases:
+  - "Krypton Forest"
 ---
 # Kriptin Forest
 

@@ -1,5 +1,7 @@
 ---
 title: "Sana Valxia"
+type: npc
+first_seen: "[[Session 18]]"
 tags:
   - person
   - npc

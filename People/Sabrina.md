@@ -1,5 +1,7 @@
 ---
 title: "Sabrina"
+type: npc
+first_seen: "[[Session 35]]"
 tags:
   - person
   - npc

@@ -1,5 +1,8 @@
 ---
 title: "Javelin of Lightning"
+type: item
+item_type: weapon
+first_seen: "[[Session 33]]"
 tags:
   - item
   - weapon

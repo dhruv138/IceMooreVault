@@ -1,5 +1,7 @@
 ---
 title: "Library of Deneir"
+type: faction
+first_seen: "[[Session 13]]"
 tags:
   - faction
   - organization

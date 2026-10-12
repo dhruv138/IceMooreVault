@@ -1,5 +1,6 @@
 ---
 title: "Miner's Death Lode"
+type: mystery
 tags:
   - mystery
   - lore

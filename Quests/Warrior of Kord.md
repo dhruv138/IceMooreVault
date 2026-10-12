@@ -1,5 +1,7 @@
 ---
 title: "Warrior of Kord"
+type: quest
+status: unresolved
 tags:
   - quest
   - unresolved

@@ -1,5 +1,8 @@
 ---
 title: "Moaning Gorge"
+type: location
+location_type: region
+first_seen: "[[Session 34]]"
 tags:
   - place
   - region

@@ -1,5 +1,29 @@
 ---
 title: "Session 13 — 20 August 2025"
+type: session
+session: 13
+date: 2025-08-20
+previous_session: "[[Session 12]]"
+next_session: "[[Session 14]]"
+party:
+  - "[[Deanira]]"
+  - "[[Riffle]]"
+  - "[[Furgus]]"
+  - "[[WISC]]"
+npcs:
+  - "[[Uthal]]"
+  - "[[Gunther Rockhammer]]"
+locations:
+  - "[[Black Dragon Inn]]"
+  - "[[Amberhold]]"
+  - "[[Dunnings Auction House]]"
+  - "[[Western Point]]"
+  - "[[Truemetal Halls]]"
+  - "[[The Warhammer]]"
+factions:
+  - "[[Library of Deneir]]"
+quests: []
+items: []
 tags:
   - session
   - actual-play
@@ -9,6 +33,10 @@ aliases:
   - "Session 13"
 ---
 # Session 13 — 20 August 2025
+
+> [!summary] TL;DR
+> Clearing the camp nets a music box, and Uthal slips away. At the Black Dragon Inn, Riffle reveals they work for the [[Library of Deneir]] and wants the Quill of Deneir at the [[Southern Auction]]. Furgus and WISC are invited to the family festival.
+
 
 Now that the fight is over, we take a good look through the camp.
 The Druid’s tent tells us that this was her permanent residence. [[Deanira]] finds a [[Music Box]] in her tent. She recognises the song Meredith’s Lullaby from the human lands, known in taverns as the corrupted version Meredith’s Tits. She pockets the [[Music Box]]. We decide to take a long rest. We assume the Druid ran off to the others (a party of 4 remains) who have likely prepared an ambush on the road 2 miles away. We keep a watch overnight in case of attack. At some point in the middle of the night, [[Uthal]] disappears. We make our way to the road where we know a crane they constructed lays.

@@ -1,5 +1,7 @@
 ---
 title: "Moroden's Forge"
+type: location
+location_type: crematory
 tags:
   - place
   - crematory

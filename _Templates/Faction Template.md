@@ -57,3 +57,11 @@ Describe relevant faction activity.
 ## Secrets / DM Knowledge
 
 Hidden motives, members, plans, alliances, betrayals, or other unrevealed information.
+
+## Appearances
+
+```dataview
+LIST FROM "Sessions"
+WHERE contains(file.outlinks, this.file.link)
+SORT session ASC
+```

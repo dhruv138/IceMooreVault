@@ -1,5 +1,7 @@
 ---
 title: "Fizz"
+type: npc
+first_seen: "[[Session 15]]"
 tags:
   - person
   - npc

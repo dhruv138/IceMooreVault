@@ -1,5 +1,6 @@
 ---
 title: "The Bastard's Band"
+type: faction
 tags:
   - faction
   - organization

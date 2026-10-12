@@ -1,5 +1,7 @@
 ---
 title: "Corthos"
+type: npc
+first_seen: "[[Session 29]]"
 tags:
   - person
   - npc

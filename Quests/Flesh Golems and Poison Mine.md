@@ -1,5 +1,7 @@
 ---
 title: "Flesh Golems and Poison Mine"
+type: quest
+status: active
 tags:
   - quest
   - active

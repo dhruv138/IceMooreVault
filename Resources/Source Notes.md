@@ -29,6 +29,10 @@ Examples:
 - [[Talir Rengavi]] / Tallir / Talir
 - [[Christolf Nightfall]] / Kristoff / Kristof
 - [[Venburg]] / Venberg
+- [[Kriptin Forest]] / Krypton Forest
+- [[Tryborne Pass]] / Triborn Pass
+- [[Savehaven]] / Safehaven (possibly the same port; unconfirmed)
+- [[Peter Owens]] / Peter Owen
 - [[Klaus]] / Claus
 - [[Wren Nalore]]
 - [[Zyuir]]

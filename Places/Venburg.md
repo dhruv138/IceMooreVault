@@ -1,9 +1,14 @@
 ---
 title: "Venburg"
+type: location
+location_type: town
+first_seen: "[[Session 25]]"
 tags:
   - place
   - town
   - dnd
+aliases:
+  - "Venberg"
 ---
 # Venburg
 

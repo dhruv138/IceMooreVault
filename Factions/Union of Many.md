@@ -1,5 +1,7 @@
 ---
 title: "Union of Many"
+type: faction
+first_seen: "[[Session 38]]"
 tags:
   - faction
   - organization

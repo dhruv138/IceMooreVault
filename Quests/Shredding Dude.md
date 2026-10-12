@@ -1,5 +1,7 @@
 ---
 title: "Shredding Dude"
+type: quest
+status: unresolved
 tags:
   - quest
   - unresolved

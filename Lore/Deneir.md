@@ -1,5 +1,6 @@
 ---
 title: "Deneir"
+type: lore
 tags:
   - god
   - lore

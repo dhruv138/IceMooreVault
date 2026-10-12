@@ -1,5 +1,7 @@
 ---
 title: "Hall of the Four Clans"
+type: location
+location_type: landmark
 tags:
   - place
   - landmark

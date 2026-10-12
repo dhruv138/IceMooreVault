@@ -1,5 +1,8 @@
 ---
 title: "Unbreakable Vial"
+type: item
+item_type: wondrous_item
+first_seen: "[[Session 15]]"
 tags:
   - item
   - wondrous_item

@@ -1,5 +1,6 @@
 ---
 title: "Confederation"
+type: faction
 tags:
   - faction
   - organization

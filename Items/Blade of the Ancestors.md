@@ -1,5 +1,8 @@
 ---
 title: "Blade of the Ancestors"
+type: item
+item_type: weapon
+first_seen: "[[Session 29]]"
 tags:
   - item
   - weapon

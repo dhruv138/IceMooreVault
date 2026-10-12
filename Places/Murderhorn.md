@@ -1,5 +1,8 @@
 ---
 title: "Murderhorn"
+type: location
+location_type: mountain_region
+first_seen: "[[Session 08]]"
 tags:
   - place
   - mountain_region

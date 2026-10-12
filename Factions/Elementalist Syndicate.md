@@ -1,5 +1,7 @@
 ---
 title: "Elementalist Syndicate"
+type: faction
+first_seen: "[[Session 24]]"
 tags:
   - faction
   - organization

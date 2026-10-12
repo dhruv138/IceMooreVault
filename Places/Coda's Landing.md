@@ -1,5 +1,7 @@
 ---
 title: "Coda's Landing"
+type: location
+location_type: coastal_village
 tags:
   - place
   - coastal_village

@@ -1,5 +1,8 @@
 ---
 title: "The Three Candles"
+type: location
+location_type: inn
+first_seen: "[[Session 36]]"
 tags:
   - place
   - inn

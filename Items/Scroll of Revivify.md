@@ -1,5 +1,8 @@
 ---
 title: "Scroll of Revivify"
+type: item
+item_type: spell_scroll
+first_seen: "[[Session 21]]"
 tags:
   - item
   - spell_scroll

@@ -1,5 +1,8 @@
 ---
 title: "Philip"
+type: pc
+party_member: true
+first_seen: "[[Session 33]]"
 tags:
   - person
   - character

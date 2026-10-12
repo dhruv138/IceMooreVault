@@ -1,5 +1,8 @@
 ---
 title: "The Warhammer"
+type: location
+location_type: inn
+first_seen: "[[Session 07]]"
 tags:
   - place
   - inn

@@ -1,5 +1,34 @@
 ---
 title: "Session 17 — 16 October 2025"
+type: session
+session: 17
+date: 2025-10-16
+previous_session: "[[Session 16]]"
+next_session: "[[Session 18]]"
+party:
+  - "[[Riffle]]"
+  - "[[Furgus]]"
+  - "[[Deanira]]"
+npcs:
+  - "[[Gunther Rockhammer]]"
+  - "[[Daddy Dildo Daggins]]"
+  - "[[Wetel]]"
+locations:
+  - "[[The Warhammer]]"
+  - "[[Kohlemine]]"
+  - "[[Truemetal Halls]]"
+  - "[[Axeholm]]"
+  - "[[Darham Hold]]"
+  - "[[Eisenberg]]"
+  - "[[Wren Nalore]]"
+factions:
+  - "[[Black Hand Dwarves]]"
+  - "[[Iron Dwarves]]"
+  - "[[Cult of the Destroyer]]"
+quests: []
+items:
+  - "[[Cornhusk Dolls]]"
+  - "[[Staff of Ham]]"
 tags:
   - session
   - actual-play
@@ -9,6 +38,10 @@ aliases:
   - "Session 17"
 ---
 # Session 17 — 16 October 2025
+
+> [!summary] TL;DR
+> The party confirms the anthracite price spike and receives a journal transcription about a survivor of undead-haunted Axeholm. The pixie [[Wetel]] recruits Deanira into his doll pranks. Darham Hold is under new rule, and they rescue a goblin baby from a burned village.
+
 
 The officers begin to sweep the house and seal off the scene. The front gate will be under guard as they do their investigation. We head back to [[The Warhammer]] and speak to [[Gunther Rockhammer]], but he doesn’t know much. We begin to talk about someone exploiting this mine and taking advantage of that opportunity, and [[Riffle]] is curious if there has been an increased supply of Mithril coming into the city lately.
 [[Riffle]] remembers that at the last Market Day (day after Dagin’s accident), the Mithril merchants were upset that the price of the special coal had doubled for no apparent reason. We speak to some of the Mithril merchants, and they say that the cost of Mithril is fairly regulated and quite stable. Anthracite is the only coal that can burn hot enough to work with Mithril and Adamantine. The merchants and smiths say that the price of Anthracite is usually very stable as well. It is mined in [[Kohlemine]], to the East, by the [[Black Hand Dwarves]]. In order to make this price hike sustainable, the [[Black Hand Dwarves]] would have to have another buyer, factoring in the decreased demand from [[Truemetal Halls]] (due to the price). We keep this information in the back of our minds.

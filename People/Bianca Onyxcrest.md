@@ -1,5 +1,7 @@
 ---
 title: "Bianca Onyxcrest"
+type: npc
+first_seen: "[[Session 24]]"
 tags:
   - person
   - npc

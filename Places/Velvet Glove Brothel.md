@@ -1,5 +1,8 @@
 ---
 title: "Velvet Glove Brothel"
+type: location
+location_type: brothel
+first_seen: "[[Session 35]]"
 tags:
   - place
   - brothel

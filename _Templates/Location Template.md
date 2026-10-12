@@ -48,3 +48,11 @@ Describe what happened here.
 ## Secrets / DM Knowledge
 
 Hidden locations, encounters, history, secrets, or information not yet known to the players.
+
+## Appearances
+
+```dataview
+LIST FROM "Sessions"
+WHERE contains(file.outlinks, this.file.link)
+SORT session ASC
+```

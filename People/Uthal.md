@@ -1,5 +1,7 @@
 ---
 title: "Uthal"
+type: npc
+first_seen: "[[Session 11]]"
 tags:
   - person
   - npc

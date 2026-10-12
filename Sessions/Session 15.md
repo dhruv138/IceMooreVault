@@ -1,5 +1,29 @@
 ---
 title: "Session 15 — 20 September 2025"
+type: session
+session: 15
+date: 2025-09-20
+previous_session: "[[Session 14]]"
+next_session: "[[Session 16]]"
+party:
+  - "[[Deanira]]"
+  - "[[Riffle]]"
+  - "[[WISC]]"
+  - "[[Furgus]]"
+npcs:
+  - "[[Fizz]]"
+  - "[[Ugly]]"
+locations:
+  - "[[Darham Hold]]"
+  - "[[Truemetal Halls]]"
+  - "[[Eisenberg]]"
+  - "[[Amberhold]]"
+  - "[[The Forge]]"
+factions: []
+quests: []
+items:
+  - "[[Dream Weed]]"
+  - "[[Unbreakable Vial]]"
 tags:
   - session
   - actual-play
@@ -9,6 +33,10 @@ aliases:
   - "Session 15"
 ---
 # Session 15 — 20 September 2025
+
+> [!summary] TL;DR
+> They escort [[Ea]] to [[Darham Hold]] and suspect stolen corpses are being repurposed. They shop at [[Fizz]] and [[Ugly]]'s travelling store, then find the first [[Cornhusk Dolls]] by their fire.
+
 
 We take a short rest and [[Deanira]] sketches the Dwarven arm with its distinctive scar, in case we want to show anyone the arm. We wake up the Tiefling to learn what she knows about the flesh golem. She was walking to [[Darham Hold]] and all of a sudden the golem erupted from the forest. She was travelling alone to make a rental payment on her land. She said she ran for three miles. [[Darham Hold]] is a half day’s travel down the road. She’s never seen or heard of anything like this before. [[Deanira]] offers her a ride on Dante, since we are headed the same direction and want to check out the woods the golem emerged from. [[Riffle]] knows upon examination that creating a necromancy being like this is extraordinarily expensive. It is unlikely that someone from a smaller town is unlikely to have the tools, resources, knowledge, and finances to pull this off. Someone like that is likely from [[Truemetal Halls]] or [[Eisenberg]], the most prosperous cities behind [[Amberhold]]. [[WISC]] drags the body off the main road so we can return to it on our journey back. [[Deanira]] is walking beside Dante carrying the Tiefling Ea and she is looking for signs of the golem having emerged from the woods. Ea doesn’t remember an exact spot and [[Deanira]] doesn’t find anything that stands out. Up on a hill we see fortifications; this is Durham Hall. A flag hangs from the walls, signifying an axe with ice dripping from the blade.
 After dropping off Ea, we decide to hold off on our quest and return to [[Truemetal Halls]] due to the discovery of the arm. When we pass by the body once more, it is still as we left it, though decaying slightly and dead bugs surround it due to the poison. [[Riffle]] is able to identify the type of poison and recognises it as an inhalant and skin irritant, and it is naturally occurring. It is not emitted by Mithril, but we know that underground there can be pockets of poisonous gas (we encountered this in the mines when we found a pit with 2 dead halflings. We got the night vision goggles from this

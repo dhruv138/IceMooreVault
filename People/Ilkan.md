@@ -1,5 +1,7 @@
 ---
 title: "Ilkan"
+type: npc
+first_seen: "[[Session 11]]"
 tags:
   - person
   - npc

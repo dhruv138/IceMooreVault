@@ -1,5 +1,6 @@
 ---
 title: "WISC's Grandmother"
+type: npc
 tags:
   - person
   - npc

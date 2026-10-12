@@ -13,12 +13,33 @@ tags:
 - [[Deanira]]
 - [[Riffle]]
 - [[Philip]]
+- [[Theo'din Corvis]]
+
+## Where we left off
+*Live tables; need the Dataview plugin. Full set in [[Dataview Queries]].*
+
+```dataview
+TABLE WITHOUT ID file.link AS "Session", date AS "Date", locations AS "Where"
+FROM "Sessions"
+SORT session DESC
+LIMIT 3
+```
+
+```dataview
+TABLE WITHOUT ID
+  file.link AS "Open thread",
+  status AS "Status",
+  reverse(sort(filter(file.inlinks, (l) => startswith(meta(l).path, "Sessions/"))))[0] AS "Last touched"
+FROM "Quests" OR "Clues & Mysteries"
+WHERE status != "completed" AND status != "resolved"
+SORT reverse(sort(filter(file.inlinks, (l) => startswith(meta(l).path, "Sessions/"))))[0] DESC
+```
 
 ## Major campaign threads
 
 | Thread | Status | Primary links |
 |---|---|---|
-| Mystery Stone / Lord of Fire | unresolved | [[Mystery Stone]], [[Lords of the Elements]], [[Library of Deneir]], [[Mistra's Academy]] |
+| Mystery Stone / Lord of Fire | unresolved | [[Mystery Stone]], [[Mystery Stone Investigation]], [[Lords of the Elements]], [[Library of Deneir]], [[Mistra's Academy]] |
 | Axeholm | unresolved | [[Axeholm]], [[Zyuir]], [[Daggins's Journal]], [[Axeholm Map]] |
 | Skeletal Hand / Master of Death | unresolved | [[Skeletal Hand]], [[Master of Death]], [[Christolf Nightfall]], [[Blond Skeletal Hand Recruiter]] |
 | Daggins murder | unresolved | [[Daddy Dildo Daggins]], [[Daggins Murder]], [[Union of Many]] |
@@ -26,7 +47,7 @@ tags:
 | Necromancy in the North | unresolved | [[Skeletal Hand]], [[Christolf Nightfall]], [[Axeholm]] |
 | Golden-eyed bugbear | unresolved | [[WISC]], [[Golden-Eyed Bugbear Mystery]], [[Jane Pedimore]] |
 | Were-bear curse | resolved | [[Werebear Curse]], [[Bianca Onyxcrest]], [[Samuel Patel]] |
-| Cornhusk dolls / Fae | unresolved | [[Cornhusk Dolls]], [[Wetel]], [[Agatha]] |
+| Cornhusk dolls / Fae | unresolved | [[Cornhusk Dolls]], [[Mystery of the Cornhusk Dolls]], [[Wetel]], [[Agatha]] |
 | Anthracite / Mithril supply | unresolved | [[Black Hand Dwarves]], [[Kohlemine]], [[Anthracite Trade Mystery]] |
 | Floating island / Val | unresolved | [[Deanira]], [[Val]], [[Floating Island Mystery]] |
 | Owens family deaths | unresolved | [[Owens Family Deaths]], [[Peter Owens]], [[Owens Family Mausoleum]] |

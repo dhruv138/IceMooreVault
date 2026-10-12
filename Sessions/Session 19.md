@@ -1,5 +1,21 @@
 ---
 title: "Session 19 — 6 November 2025"
+type: session
+session: 19
+date: 2025-11-06
+previous_session: "[[Session 18]]"
+next_session: "[[Session 20]]"
+party:
+  - "[[WISC]]"
+  - "[[Deanira]]"
+  - "[[Riffle]]"
+  - "[[Furgus]]"
+npcs: []
+locations: []
+factions: []
+quests: []
+items:
+  - "[[Dream Weed]]"
 tags:
   - session
   - actual-play
@@ -9,6 +25,10 @@ aliases:
   - "Session 19"
 ---
 # Session 19 — 6 November 2025
+
+> [!summary] TL;DR
+> Cornhusk dolls appear again. Deanira shares her vision through [[Dream Weed]], and Riffle notes a raider bugbear with WISC's rare eye colour. Hunting basilisks, they fall into a sunken fortress with a green dragon statue.
+
 
 We wake up in our individual rooms in the Bog’s Rest and each find corn husk dolls resembling us once again sitting outside our respective doors. [[WISC]] learns that someone in town named Old Edith makes corn husk dolls locally (this is common in every town). While eating breakfast down in the pub, [[Deanira]] tells her companions she had a vision at the temple. They go upstairs and smoke the [[Dream Weed]] to share her memory. She shares her backstory as well. After this, [[Riffle]] goes up to [[WISC]] and looks uncomfortably close into one of his eyes. [[Riffle]] eventually shares that they saw the same rare eye colour in a bugbear who was part of that raider group from Durham Hold.
 [[WISC]]’s father left before [[WISC]] was a baby, and [[WISC]] says “he’s a deadbeat”. It is possible that this other bugbear is a younger half-brother of [[WISC]]’s.

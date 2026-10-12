@@ -1,5 +1,7 @@
 ---
 title: "Seasonal Festival"
+type: quest
+status: completed
 tags:
   - quest
   - completed

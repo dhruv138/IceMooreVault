@@ -1,5 +1,21 @@
 ---
 title: "Session 26 — Missed Session"
+type: session
+session: 26
+date_note: "Missed session"
+previous_session: "[[Session 25]]"
+next_session: "[[Session 27]]"
+party:
+  - "[[WISC]]"
+  - "[[Riffle]]"
+  - "[[Furgus]]"
+npcs:
+  - "[[Hana Goldfirm]]"
+  - "[[Bianca Onyxcrest]]"
+locations: []
+factions: []
+quests: []
+items: []
 tags:
   - session
   - actual-play
@@ -9,6 +25,10 @@ aliases:
   - "Session 26"
 ---
 # Session 26 — Missed Session
+
+> [!summary] TL;DR
+> *Missed session.* On the road they meet hunters, kill two honeymooning hill giants and an owlbear. Hana reports the Academy's head has died and that red Library robes were destroyed 20 years ago.
+
 
 Day 1:
 On the way to the tomb, [[WISC]] stops to take a piss in the forest. While pissing, [[WISC]] looks up and sees a skeleton entangled in the bush. There is movement within the skeleton. [[WISC]] slowly backs up to the rest of the party, expecting the worst. Suddenly, a chipmunk bursts out of the brush and runs off into the woods.

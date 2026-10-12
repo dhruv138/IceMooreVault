@@ -1,5 +1,7 @@
 ---
 title: "Ester"
+type: npc
+first_seen: "[[Session 36]]"
 tags:
   - person
   - npc

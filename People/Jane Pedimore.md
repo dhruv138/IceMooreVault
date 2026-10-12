@@ -1,5 +1,7 @@
 ---
 title: "Jane Pedimore"
+type: npc
+first_seen: "[[Session 32]]"
 tags:
   - person
   - npc

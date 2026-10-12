@@ -1,5 +1,19 @@
 ---
 title: "Session 3 — 29 February 2025"
+type: session
+session: 3
+date_note: "Source notes say 29 February 2025, which isn't a valid date"
+next_session: "[[Session 04]]"
+party:
+  - "[[Deanira]]"
+  - "[[Furgus]]"
+  - "[[WISC]]"
+npcs:
+  - "[[Tiny]]"
+locations: []
+factions: []
+quests: []
+items: []
 tags:
   - session
   - actual-play
@@ -9,6 +23,10 @@ aliases:
   - "Session 3"
 ---
 # Session 3 — 29 February 2025
+
+> [!summary] TL;DR
+> Exploring the sealed mine, the party fights shadow Dwarves, gricks and a gelatinous cube, and recovers goggles of night from two dead Halfling miners. Beyond the cave-in they find Knockers mining mithril for "The Great One" and jump down the chute to meet his priests.
+
 
 The slam of the doors echoes through the vast chambers of the cave. Somewhere in the distance we hear damp drips bathed in the silence. [[Deanira]] lights the lantern and Wisk leads the way. We make our way down the first hall and at the end we notice something shifting on the far wall. It appears to be moving shadows of two Dwarves. [[Deanira]] calls out a Dwarvish greeting tentatively. They attack. Once we dispose of the shadows, we continue on. After another few hours, we go down an offshoot and enter a large rounded open area. In the middle, we find a pile of what seems like gelatin. Upon inspection, [[Deanira]] and [[Furgus]] get the impression that they are like a mix of amphibian eggs and reptile eggs, encased in jelly to preserve their moisture. As [[Deanira]] looks around the room,
 she sees 5 different holes that could hold a medium creature each. We feel a rumble. 2 gricks pop out of the burrows and instantly down [[WISC]]. One of the the gricks brings [[Deanira]] down to her last hit point with one critical strike. She falls to her knees. As it moves to slither back into its burrow, she whips out her hand and grabs it by the neck and chokes it. [[Furgus]] shoots the last one down the throat. We stomp the remaining eggs. We go back to a more familiar part of the mine and make camp. When we turn down the lamps, we are immersed in the greatest darkness we’ve ever experienced. While keeping watch, [[WISC]] hears the faintest sound of picks hitting ore, though he can’t be sure. In the morning, we make our way further into the cave. Eventually a large chasm blocks our path through the tunnel. [[WISC]] drops a torch down into it to judge the depth, but the flame sputters out before he even lets go of it. He remembers the warning we received before the doors closed, that if our flames go out, we’re entering an area devoid of oxygen. We look down into it with our lanterns and barely make out two Halfling bodies at the bottom.

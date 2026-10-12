@@ -1,5 +1,7 @@
 ---
 title: "Sherlock Gnomes"
+type: npc
+first_seen: "[[Session 25]]"
 tags:
   - person
   - npc

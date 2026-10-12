@@ -1,5 +1,7 @@
 ---
 title: "Black Hand Dwarves"
+type: faction
+first_seen: "[[Session 10]]"
 tags:
   - faction
   - organization

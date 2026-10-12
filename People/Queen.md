@@ -1,5 +1,7 @@
 ---
 title: "Queen"
+type: npc
+first_seen: "[[Session 09]]"
 tags:
   - person
   - npc

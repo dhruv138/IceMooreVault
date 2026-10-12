@@ -1,5 +1,7 @@
 ---
 title: "Oswald's Letter to Mary"
+type: quest
+status: active
 tags:
   - quest
   - active

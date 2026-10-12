@@ -1,5 +1,8 @@
 ---
 title: "Black Dragon Inn"
+type: location
+location_type: inn
+first_seen: "[[Session 06]]"
 tags:
   - place
   - inn

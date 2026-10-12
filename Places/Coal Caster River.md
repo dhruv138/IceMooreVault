@@ -1,5 +1,7 @@
 ---
 title: "Coal Caster River"
+type: location
+location_type: river
 tags:
   - place
   - river

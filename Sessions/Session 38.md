@@ -1,5 +1,37 @@
 ---
 title: "Session 38 — 24 September 2026"
+type: session
+session: 38
+date: 2026-09-24
+previous_session: "[[Session 37]]"
+party:
+  - "[[Deanira]]"
+  - "[[Riffle]]"
+  - "[[Theo'din Corvis]]"
+npcs:
+  - "[[Daddy Dildo Daggins]]"
+  - "[[Atheela]]"
+  - "[[Sabrina]]"
+  - "[[Andrew]]"
+  - "[[Zelda]]"
+  - "[[Peter Owens]]"
+  - "[[Talir Rengavi]]"
+  - "[[Karyn]]"
+  - "[[Bianca Onyxcrest]]"
+  - "[[Siobhan]]"
+locations:
+  - "[[The Two Tits]]"
+  - "[[Velvet Glove Brothel]]"
+  - "[[Heaven's Touch]]"
+  - "[[Owens Family Mausoleum]]"
+factions:
+  - "[[Union of Many]]"
+  - "[[Skeletal Hand]]"
+  - "[[Mistra's Academy]]"
+quests:
+  - "[[Academy Gala]]"
+  - "[[Gauntlet]]"
+items: []
 tags:
   - session
   - actual-play
@@ -9,6 +41,10 @@ aliases:
   - "Session 38"
 ---
 # Session 38 — 24 September 2026
+
+> [!summary] TL;DR
+> Deanira meets [[Daddy Dildo Daggins]]'s fertility order, the [[Union of Many]], and Theo gets the party ejected from enchanted [[Heaven's Touch]]. Rumours surround [[Peter Owens]] and his family's deaths. At his family mausoleum, [[Talir Rengavi]] accuses Riffle of stealing from his safe.
+
 
 [[Deanira|Deaníra]] walks down to the basement to see how many people are down there. She knocks on the door and opens it to see about a dozen people of all kinds. The Half Elf woman with the vagina staff asks if she can help [[Deanira]]. [[Deanira]] asks if they know someone with the name of [[Daddy Dildo Daggins|Daggins]]. They do! They were devastated to hear about [[Daddy Dildo Daggins|Brother Daggins]]'s death. She explains that their order is called [[Union of Many|The union of Many]]. They are followers of many different deities: Shialliah, Lethander, Melorah, and any other deities of fertility and love. Their emphasis is on open love and building strong relations amongst their community and deity lines. They are about loving life and living life to the fullest. [[Deanira]] says that she is delighted and that it makes so much sense as to why [[Daddy Dildo Daggins|Daggins]] was passionate about collecting fertility statues from many different cultures and old civilizations representing many different fertility/love gods and goddesses. She introduces herself as [[Atheela]]. She says that they come to [[The Two Tits|the Two Tits]] about once a week to "worship". [[Deanira|Deaníra]] excitedly shows [[Atheela]] the silver dildo that he entrusted to her. She says that she takes good care of it every night. As [[Deanira|Deaníra]] leaves, she hears, "as always, before we begin, we must cast the zone of truth. Is everyone here over the age of 18?" A young pimply kid named Jeffrey says, "no..." "Jeffrey, as we discussed many times before, come back when you're 18."
 The following day we go shopping for the [[Academy Gala|Gala]]! [[Deanira]] is on the hunt for a gown, jewellery, and face paint. We go to a high end dress shop and [[Deanira]] gets a gold and blue feathered ballgown and a collar of fine jewels.

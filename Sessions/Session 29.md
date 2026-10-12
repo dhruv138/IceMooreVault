@@ -1,5 +1,31 @@
 ---
 title: "Session 29 — 15 April 2026"
+type: session
+session: 29
+date: 2026-04-15
+previous_session: "[[Session 28]]"
+next_session: "[[Session 30]]"
+party:
+  - "[[Riffle]]"
+  - "[[WISC]]"
+  - "[[Deanira]]"
+  - "[[Furgus]]"
+npcs:
+  - "[[Wolf]]"
+  - "[[Ambria]]"
+  - "[[Zeke]]"
+  - "[[Christolf Nightfall]]"
+  - "[[Corthos]]"
+locations:
+  - "[[Amberhold]]"
+  - "[[Venburg]]"
+  - "[[Truemetal Halls]]"
+factions: []
+quests: []
+items:
+  - "[[Tapestry of Feats]]"
+  - "[[Dread Helm]]"
+  - "[[Blade of the Ancestors]]"
 tags:
   - session
   - actual-play
@@ -9,6 +35,10 @@ aliases:
   - "Session 29"
 ---
 # Session 29 — 15 April 2026
+
+> [!summary] TL;DR
+> Freed prisoners describe an "extraction point" and "work below". In the honey-entombed chamber, the party kills [[Christolf Nightfall]] and the reanimated Goliath hero [[Corthos]], gaining the [[Dread Helm]] and [[Blade of the Ancestors]].
+
 
 We use a key and unlock the cells to release the prisoners. We summon some ham to feed them, but it takes a long time to rouse them. [[Riffle]] finds a bag of dried dates on one of the men who attacked us and traces them back to [[Amberhold]]. They don’t grow anywhere around here, but are a common snack sold at the docks in [[Amberhold]]. Investigating the Dwarves in the other cell, the sulfuric acrid smell isn’t strong on their clothing, but it is not the same scent that we encountered on the poison flesh golem. They appear to be healthy and not poisoned. [[WISC]] has discovered a magical tapestry and it begins to weave itself. He looks at it and sees his greatest feat represented in the cloth. The hag’s hut is in the background, the hag crying behind him, and him standing proudly and triumphantly in the foreground. It is the [[Tapestry of Feats]].
 The [[Venburg]] people finally awaken. We learn that they arose here all different ways. [[Wolf]] was out hunting and suddenly fell unconscious and found himself here. [[Ambria]] was ambushed while tending to her flock in the night. [[Zeke]] was up at [[Truemetal Halls]] and got a contract to act as a guide because he knew the general area of this tomb. He came with the Dwarven party we were looking for. Some of the Dwarves were captured, some were killed. He said that those that survived in his party were taken down the hallway we have not yet gone down. They were originally a party of 10, 4 of the Dwarves survived in addition to him. The remaining 5 were killed. The bodies of the guys who fought us were not the ones who ambushed them. It was a party of more of them, for a total of around 20. He said that there also used to be a lot more stuff in the chamber. [[Deanira]] looks around and it definitely seems like there was more people here at one time. Slowly people had moved on. The surviving Dwarves were taken this morning. The Dwarves in the other cell are not members of his party. We are thinking that perhaps members of the group left with their horses and

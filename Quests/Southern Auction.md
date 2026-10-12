@@ -1,5 +1,7 @@
 ---
 title: "Southern Auction"
+type: quest
+status: upcoming
 tags:
   - quest
   - upcoming

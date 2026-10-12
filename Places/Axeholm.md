@@ -1,5 +1,8 @@
 ---
 title: "Axeholm"
+type: location
+location_type: lost_city
+first_seen: "[[Session 05]]"
 tags:
   - place
   - lost_city

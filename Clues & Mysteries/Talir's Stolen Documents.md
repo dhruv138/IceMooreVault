@@ -1,5 +1,7 @@
 ---
 title: "Talir's Stolen Documents"
+type: mystery
+status: unresolved
 tags:
   - mystery
   - lore

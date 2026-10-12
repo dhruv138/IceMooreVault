@@ -1,5 +1,27 @@
 ---
 title: "Session 14 — 9 September 2025"
+type: session
+session: 14
+date: 2025-09-09
+previous_session: "[[Session 13]]"
+next_session: "[[Session 15]]"
+party:
+  - "[[WISC]]"
+  - "[[Deanira]]"
+  - "[[Furgus]]"
+  - "[[Riffle]]"
+npcs:
+  - "[[Daddy Dildo Daggins]]"
+  - "[[Gunther Rockhammer]]"
+locations:
+  - "[[Baptism by Fire]]"
+  - "[[Axeholm]]"
+  - "[[Crystalline Glacier]]"
+  - "[[The Warhammer]]"
+  - "[[Wren Nalore]]"
+factions: []
+quests: []
+items: []
 tags:
   - session
   - actual-play
@@ -9,6 +31,10 @@ aliases:
   - "Session 14"
 ---
 # Session 14 — 9 September 2025
+
+> [!summary] TL;DR
+> Daggins decodes "Coal Caster = Zyvuir" and links Axeholm to the [[Crystalline Glacier]]. On the road to [[Wren Nalore]], the party kills a poisonous flesh golem built partly from the arm of the Dwarf who died at the market.
+
 
 There’s a blacksmith’s shop in the city called [[Baptism by Fire]] down by the entrance to the mines. It’s run by a couple named Siri and Mika. [[WISC]] heads down there over the next few days to get his half plate repaired and sized. They are skinned as jorts.
 We go to visit [[Daddy Dildo Daggins]] for some tea. He comes to the door very disheveled, like it’s finals time in college. He is revved up and excited, telling us urgently that he found something. He shows us a piece of paper with an entry he’s deciphered:

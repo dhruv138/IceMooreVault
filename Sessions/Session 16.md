@@ -1,5 +1,25 @@
 ---
 title: "Session 16 — 9 October 2025"
+type: session
+session: 16
+date: 2025-10-09
+previous_session: "[[Session 15]]"
+next_session: "[[Session 17]]"
+party:
+  - "[[Deanira]]"
+  - "[[Riffle]]"
+  - "[[WISC]]"
+npcs:
+  - "[[Elzock Emberstone]]"
+  - "[[Christolf Nightfall]]"
+  - "[[Vistra]]"
+locations:
+  - "[[The Forge]]"
+  - "[[Kicking Ass]]"
+  - "[[Amberhold]]"
+factions: []
+quests: []
+items: []
 tags:
   - session
   - actual-play
@@ -9,6 +29,10 @@ aliases:
   - "Session 16"
 ---
 # Session 16 — 9 October 2025
+
+> [!summary] TL;DR
+> At [[The Forge]], Riffle traces the stolen bodies to undertaker [[Christolf Nightfall]]. His undead assistant fights them, Christolf escapes, and a half-burned letter mentions the poisonous [[Miner's Death Lode]].
+
 
 Baron Tyrack
 Baron Tyrack

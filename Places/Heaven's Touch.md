@@ -1,5 +1,8 @@
 ---
 title: "Heaven's Touch"
+type: location
+location_type: brothel
+first_seen: "[[Session 37]]"
 tags:
   - place
   - brothel

@@ -1,5 +1,8 @@
 ---
 title: "Living Bloom"
+type: location
+location_type: apothecary_supplier
+first_seen: "[[Session 18]]"
 tags:
   - place
   - apothecary_supplier

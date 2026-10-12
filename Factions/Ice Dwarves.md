@@ -1,5 +1,6 @@
 ---
 title: "Ice Dwarves"
+type: faction
 tags:
   - faction
   - organization

@@ -1,5 +1,7 @@
 ---
 title: "Skeletal Hand"
+type: faction
+first_seen: "[[Session 28]]"
 tags:
   - faction
   - organization

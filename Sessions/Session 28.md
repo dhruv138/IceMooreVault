@@ -1,5 +1,27 @@
 ---
 title: "Session 28 — 8 April 2026"
+type: session
+session: 28
+date: 2026-04-08
+previous_session: "[[Session 27]]"
+next_session: "[[Session 29]]"
+party:
+  - "[[Riffle]]"
+  - "[[WISC]]"
+  - "[[Furgus]]"
+  - "[[Deanira]]"
+npcs:
+  - "[[Talir Rengavi]]"
+  - "[[Zeke]]"
+  - "[[Ambria]]"
+  - "[[Wolf]]"
+locations:
+  - "[[Venburg]]"
+factions:
+  - "[[Skeletal Hand]]"
+quests: []
+items:
+  - "[[Grey Bag of Tricks]]"
 tags:
   - session
   - actual-play
@@ -9,6 +31,10 @@ aliases:
   - "Session 28"
 ---
 # Session 28 — 8 April 2026
+
+> [!summary] TL;DR
+> Past an illusory door and rune-bound minotaur skeletons, they kill four [[Skeletal Hand]] members. They find captives from Venburg, including [[Zeke]], [[Ambria]] and [[Wolf]].
+
 
 [[Riffle]] casts sending to send a message to that bugbear who shares [[WISC]]’s eyes. We’re calling him [[WISC]]’s secret cousin brother lover uncle father. They ask for his name and if he is from [[Venburg]], but he refuses.
 We have arrived at the tomb and a giant circular stone closes the entrance. It is overgrown with no signs of disturbance or having been entered in a very, very long time. As [[WISC]] is exploring, he almost steps in a pile of horseshit. There are hoof tracks which appear to be out of and leading away from the tomb down the mountain, a though they approached the entrance and then went back down the way they came.

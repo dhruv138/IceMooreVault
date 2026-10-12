@@ -1,5 +1,24 @@
 ---
 title: "Session 12 — 12 August 2025"
+type: session
+session: 12
+date: 2025-08-12
+previous_session: "[[Session 11]]"
+next_session: "[[Session 13]]"
+party:
+  - "[[WISC]]"
+  - "[[Riffle]]"
+npcs:
+  - "[[Uthal]]"
+  - "[[Oswald]]"
+locations:
+  - "[[Unfinished Business]]"
+factions: []
+quests: []
+items:
+  - "[[Helm of the Summer Moon]]"
+  - "[[Immovable Rod]]"
+  - "[[Staff of Ham]]"
 tags:
   - session
   - actual-play
@@ -9,6 +28,10 @@ aliases:
   - "Session 12"
 ---
 # Session 12 — 12 August 2025
+
+> [!summary] TL;DR
+> The night raid goes chaotically: a hopeless Uthal ends up stabbed by Riffle, but survives on a lucky death save without knowing who did it. Loot includes the [[Staff of Ham]], [[Immovable Rod]], [[Helm of the Summer Moon]] and Oswald's wife's pocketwatch.
+
 
 During the very early morning, as [[WISC]] and [[Uthal]] keep watch, they see a single light bobbing down the mountain and towards our encampment. [[Uthal]] says that twice a day two people have to come down the mountain to the stream to gather water. It’s usually two, one with a yolk and the other carries a yolk. Seeing as it’s the early morning and our position is so close, we can ambush them and take them out. We sneak up on them and take them by surprise. We make short work of them. We give the torch to [[Uthal]] and instruct him to head up to the camp, hoping it’ll buy us some time. [[WISC]] decides to put on the Goliath’s cloak and carry the yolk, posing as the second Goliath. The rest of us will sneak ahead. We make our way up in two groups, take out two of the braziers. Due to rolls, [[Uthal]] ends up being absolutely useless. [[Riffle]] ends up killing him. The end.
 Epilogue: [[Uthal]] rolls death saves and rolls spectacularly, popping up with one hit point. Because [[Riffle]] stabbed him from behind, he’s unaware of who killed him, so we are still allies.

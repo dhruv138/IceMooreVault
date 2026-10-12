@@ -1,5 +1,8 @@
 ---
 title: "Academy Gala"
+type: quest
+status: upcoming
+first_seen: "[[Session 37]]"
 tags:
   - quest
   - upcoming

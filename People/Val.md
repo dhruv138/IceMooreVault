@@ -1,5 +1,7 @@
 ---
 title: "Val"
+type: npc
+first_seen: "[[Session 07]]"
 tags:
   - person
   - npc

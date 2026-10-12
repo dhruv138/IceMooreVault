@@ -2,10 +2,12 @@
 type: session
 session:
 date:
-locations: []
+party: []
 npcs: []
+locations: []
 factions: []
 quests: []
+items: []
 previous_session:
 next_session:
 tags:
@@ -13,6 +15,9 @@ tags:
 ---
 
 # Session {{session}}
+
+> [!summary] TL;DR
+> Two or three sentences: what happened and what changed.
 
 ## Summary
 

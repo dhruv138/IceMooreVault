@@ -1,5 +1,6 @@
 ---
 title: "Truemetal Dwarves"
+type: faction
 tags:
   - faction
   - organization

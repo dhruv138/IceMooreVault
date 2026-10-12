@@ -38,3 +38,11 @@ Describe the NPC's involvement in this session.
 ## Secrets / DM Knowledge
 
 Information about this NPC that has **not** been revealed to the players.
+
+## Appearances
+
+```dataview
+LIST FROM "Sessions"
+WHERE contains(file.outlinks, this.file.link)
+SORT session ASC
+```

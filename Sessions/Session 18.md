@@ -1,5 +1,29 @@
 ---
 title: "Session 18 — 25 October 2025"
+type: session
+session: 18
+date: 2025-10-25
+previous_session: "[[Session 17]]"
+next_session: "[[Session 19]]"
+party:
+  - "[[Riffle]]"
+  - "[[WISC]]"
+  - "[[Furgus]]"
+  - "[[Deanira]]"
+npcs:
+  - "[[Tiny]]"
+  - "[[Sana Valxia]]"
+  - "[[Mittens]]"
+locations:
+  - "[[Wren Nalore]]"
+  - "[[Living Bloom]]"
+  - "[[Golden Sea]]"
+  - "[[Amberhold]]"
+  - "[[Temple of the Wild Mother and Lawbringer]]"
+factions:
+  - "[[Cult of the Destroyer]]"
+quests: []
+items: []
 tags:
   - session
   - actual-play
@@ -9,6 +33,10 @@ aliases:
   - "Session 18"
 ---
 # Session 18 — 25 October 2025
+
+> [!summary] TL;DR
+> In Wren Nalore they leave the goblin child with [[Sana Valxia]] and research flesh golems. Deanira has a vision of a satyr drowning at sea before a webbed hand grabs her, and they hear of [[Gauntlet|The Gauntlet]].
+
 
 We emerge into the city of [[Wren Nalore]], a series of [[Tiny]] islands connected by bridges. Our quest directs us to meet the apothecary supplier at a shop called the [[Living Bloom]]. [[Riffle]] is looking for a post office so they can post the goblin baby. We walk into the [[Living Bloom]] and see two Elves that act in unison, a man and a woman who look similar. We introduce ourselves and hand them the list given to us from Morgren Ironoak. They say they will need 3 days to gather the materials for transport. In the meantime, we ask if there are any basilisks in the area for hunting. They have been pushed back and reside deeper in the swamps. They warn us to not look at them or we will turn to stone. They assure us that they have several vials of cure, so we can bring the stone person back to them if needed. We must make sure no parts of the stone person break off or they will return without these parts. We move on and search for a post office, but there isn’t one per se. We are right by the [[Golden Sea]] so caravans come through on their journeys. We can pay one of them to take the baby to [[Amberhold]], but this journey will take over a month of journey-time. We decide the better option is to leave the child at the [[Temple of the Wild Mother and Lawbringer]]. We go to the temple and approach a woman who seems to be in charge. She is wearing robes that seem half-and-half. One side emulates the beauty and chaos of nature. The other side represents the beauty of order. She introduces herself as [[Sana Valxia]]. She agrees to take the child. She tells us that the temple is dedicated to the contrast and union between chaos and order and how they come together in nature. She recommends checking out the racetrack in town where water buffalo race. People waterski behind the buffalo on a mud track (there are mechanics to bet). [[Riffle]] goes to the library area looking for information on necromancy or the “Miner’s Death Lode”, [[WISC]] and [[Furgus]] go to the general store to look for a mirror or anything reflective for the basilisk hunt, and [[Deanira]] meditates in the temple.
 [[Riffle]] finds books contemplating necromancy and the ethics of it, as well as some information on flesh golems. It takes some time to create a flesh golem, and it is an intensive process. Theoretically, the process could be sped up through divine or intraplanar intervention. Only very rare books can teach the combining of several people’s magical energies to create a flesh golem. It also requires a large monetary investment to make animation possible. [[Riffle]] doesn’t find much helpful information on the Miner’s Death Lode, which [[Riffle]] attributes to us being a bit removed from the region (we are a little too far south). There are some mentions of the dragon cult, [[Cult of the Destroyer]] (where the dam was we passed by) attempting to mine it, but they eventually closed down because it was not financially feasible due to the cost involved with so many slaves dying of the poison in the mine. [[WISC]] and [[Furgus]] buy a few handheld steel mirrors.

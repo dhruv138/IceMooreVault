@@ -1,7 +1,11 @@
 ---
 title: "Floating Island Mystery"
+type: quest
+status: active
+first_seen: "[[Session 37]]"
 tags:
   - quest
+  - mystery
   - active
   - dnd
 ---
@@ -9,7 +13,24 @@ tags:
 
 **Status:** active
 
+## Objective
+
 Find [[Val]] and the mysterious floating island whose location changes and whose map markings disappear.
 
+## Clues & findings
+
+[[Val]] searched for a floating island whose position constantly changes. Attempts to map it cause the mark to disappear.
+
+Val believed ruins on the island could explain:
+- the origin of the world
+- why the stars change
+
+Val disappeared while searching for it.
+
+[[Deanira]] continues to pursue this mystery.
+
 ## Recent developments
-- [[Session 37]]: [[Deanira]] gathered sailors' sightings. See the [[Floating Island Mystery|mystery note]].
+- [[Session 37]]: An [[Amberhold]] cartography shop has charted nothing in the Feywild and knows of no unchartable island.
+- [[Session 37]]: Sailors near the Barren Toll saw lights that looked like they were coming into port, though they were days from any port. By sunrise nothing was there.
+- [[Session 37]]: Two days out from Wellview Helm, sailors saw an island in the distance that was gone the next day.
+- [[Session 37]]: The reported locations are wildly scattered across the map.

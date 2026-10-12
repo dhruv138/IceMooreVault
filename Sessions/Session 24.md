@@ -1,5 +1,31 @@
 ---
 title: "Session 24 — 9 February 2026"
+type: session
+session: 24
+date: 2026-02-09
+previous_session: "[[Session 23]]"
+next_session: "[[Session 25]]"
+party:
+  - "[[Riffle]]"
+  - "[[WISC]]"
+  - "[[Deanira]]"
+  - "[[Furgus]]"
+npcs:
+  - "[[Bianca Onyxcrest]]"
+  - "[[Talir Rengavi]]"
+  - "[[Hana Goldfirm]]"
+  - "[[Hector]]"
+  - "[[Gunther Rockhammer]]"
+  - "[[Daddy Dildo Daggins]]"
+locations:
+  - "[[The Warhammer]]"
+  - "[[Amberhold]]"
+  - "[[Wren Nalore]]"
+factions:
+  - "[[Elementalist Syndicate]]"
+  - "[[Fire Dwarves]]"
+quests: []
+items: []
 tags:
   - session
   - actual-play
@@ -9,6 +35,10 @@ aliases:
   - "Session 24"
 ---
 # Session 24 — 9 February 2026
+
+> [!summary] TL;DR
+> The stone is revealed as a fragment of the Lord of Fire ([[Lords of the Elements]]) and sold to the Library. Talir offers to sponsor the party in the Gauntlet. A teen posing as "Hector" poisons them, and they find Daggins murdered with "RI…F" in blood and black feathers.
+
 
 We all take a seat in an adjoining room on couches surrounding a massive black stone. The black stone was our little river stone. It was under a shrinking spell. This is its true form. The wizard introduces us to [[Bianca Onyxcrest]], a colleague of his. They have an idea of what our smooth black stone could be.
 The Lords of the Elements:

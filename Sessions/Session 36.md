@@ -1,5 +1,45 @@
 ---
 title: "Session 36 — 31 August 2026"
+type: session
+session: 36
+date: 2026-08-31
+previous_session: "[[Session 35]]"
+next_session: "[[Session 37]]"
+party:
+  - "[[Riffle]]"
+  - "[[Deanira]]"
+  - "[[Furgus]]"
+  - "[[Philip]]"
+  - "[[Theo'din Corvis]]"
+  - "[[WISC]]"
+npcs:
+  - "[[Ester]]"
+  - "[[Talir Rengavi]]"
+  - "[[Evelyn Keep]]"
+  - "[[Peter Owens]]"
+  - "[[Cam Jergins]]"
+  - "[[Bianca Onyxcrest]]"
+  - "[[Hana Goldfirm]]"
+  - "[[Daddy Dildo Daggins]]"
+locations:
+  - "[[The Two Tits]]"
+  - "[[Cock and Pig]]"
+  - "[[Merchant District]]"
+  - "[[The Three Candles]]"
+  - "[[Mine District]]"
+  - "[[Savehaven]]"
+  - "[[Evermeet]]"
+  - "[[Decanter 3 Table]]"
+  - "[[Venburg]]"
+  - "[[Axeholm]]"
+  - "[[Truemetal Halls]]"
+  - "[[Amberhold]]"
+factions:
+  - "[[Skeletal Hand]]"
+  - "[[Dragon League]]"
+quests: []
+items:
+  - "[[Sending Stones]]"
 tags:
   - session
   - actual-play
@@ -10,6 +50,10 @@ aliases:
 ---
 # Session 36 — 31 August 2026
 
+> [!summary] TL;DR
+> The party arrives at the Library and lodges around Amberhold. They meet [[Cam Jergins]], whose [[Skeletal Hand]] tattoo was copied from a blond youth. [[Bianca Onyxcrest]] arranges the were-bear cure and explains the [[Gauntlet]], and a messenger delivers the last copy of the journal pages.
+
+
 We all buy [[Sending Stones]] and then follow [[Riffle]] to the Library.
 The Mage’s District surrounds the Library and the Academy. We are introduced to [[Ester]], the Chief Archivist, who is sitting at a check out desk. After exchanging (somewhat) pleasantries we head to see [[Riffle]]’s pseudo-father, [[Talir Rengavi]], Director of the Library. As we walk, [[Riffle]] chatters and gives us a tour of the regions we are passing. We have never heard them talk so much. We arrive at [[Talir Rengavi]]’s office and enter. It’s a nice office filled with clutter of maps, texts, papers, scrolls, a random pastry and the like. We reintroduce ourselves and he welcomes us. [[Riffle]] attempts to look through the top few papers of his inbox. [[Talir Rengavi]] stops him, apparently this is a normal thing. Due to the Festival, the city is inundated with people and we all will be staying at different locations:
 [[Deanira]]: [[The Two Tits]] (Western side of market square)
@@ -17,11 +61,11 @@ The Mage’s District surrounds the Library and the Academy. We are introduced t
 We make our way to the market square, and to [[Deanira]]’s great delight, they are selling fish sticks! She buys two battered fish on skewers and then gets settled in her Inn on the Western side. We continue to walk around and head to the [[Mine District]]. This region is filled with buildings that are so close together and each story is built progressively off centre, to the point that it gives the feeling of being in a tunnel or underground. The Inn is very dimly lit, lit only by three candles, which is where it gets its name. [[WISC]] and [[Theo'din Corvis]] drop off their things and we continue on. Making our way to the [[Merchant District]], we see a sort of Boardwalk leading up to the docks. Merchant vessels and fishing ships fill the sea. Inside the [[Cock and Pig]], it is FULL of people. It is crowded with sailors and the bar is completely filled. [[Furgus]] and [[Philip]] check in with the Innkeeper. A group of sailors surrounds a thirteen year old and calls out, “Hey everyone! The young pup just got
 his anchor!” The crowd cheers and the young teen reveals an anchor tattoo on his upper arm. Someone erupts, “to the Pelican!” Everyone cheers and toasts. The bartender/Innkeeper is [[Evelyn Keep]]. She says that the sailors have been stuck in port due to some inability to unload their ship. A sailor named [[Alex]] explains that they just got back from [[Savehaven]] and the owner of the ship died so they can’t unload the ship into his warehouse until everything is sorted out. The owner’s name is (the late) Lord Richard Owens. [[Riffle]] has heard of him, a wealthy merchant family. Nothing too significant. [[Riffle]] heard that his son Philip?[[Peter Owens|Peter]]? (Something with a P) Owens was studying at the School of Conjuration at the Academy. They’ve been stuck here for a week.
 Looking around, we see a very large Goaliath sailor covered in tattoos. In particular he is one of the few sailors who has a dragon skull tattoo. He also has a tattoo on the other arm of a [[Skeletal Hand]]. [[Deanira]] finds an older man with a dragon skull tattoo and asks him of its meaning. She gets him talking about his sea stories. It signifies his fight in the war between the Ambercrown kingdom and the [[Dragon League]], located across the sea on a continent to the East. The [[Dragon League]] were worshipers of Tiamat and through her blessing they were able to control dragons and use them (think dragon riders from Eragon). 100 years or so ago, there was a battle amongst the deities themselves, and Tiamat was put down. Their ability to control dragons vanished. Since then, they had been trying to regain power in various ways, including going to war with the Ambercrown Kingdom. Around 15-20 years ago the war was fought, shortly after King Xavier had ascended to the throne. The [[Dragon League]] lost, it lasted only a few months.
-The three swallows on his chest signify how far he has sailed - each swallow is 5,000 nautical miles. He tells us that the Anchor tattoo means that they had been to [[Safehaven]] or [[Evermeet]]. [[Deanira]] continues talking to the sailor for another hour, hearing his stories. Meanwhile, [[WISC]] and [[Furgus]] head to one of the tables where there’s some gambling going on. [[Furgus]] convinces [[WISC]] to take on the Goliath in an arm wrestling match. The Goliath seems to be the only one of the sailors who
+The three swallows on his chest signify how far he has sailed - each swallow is 5,000 nautical miles. He tells us that the Anchor tattoo means that they had been to [[Savehaven|Safehaven]] or [[Evermeet]]. [[Deanira]] continues talking to the sailor for another hour, hearing his stories. Meanwhile, [[WISC]] and [[Furgus]] head to one of the tables where there’s some gambling going on. [[Furgus]] convinces [[WISC]] to take on the Goliath in an arm wrestling match. The Goliath seems to be the only one of the sailors who
 Has a [[Skeletal Hand]] tattoo. [[WISC]] wins the arm wrestling match and chats with the Goliath [[Cam Jergins]]. He learns that he saw the [[Skeletal Hand]] tattoo on a tiny blonde young “kid” an thought it looked cool so got one. That’s all.
 [[Riffle]] reminds us that we have dinner with [[Bianca Onyxcrest]] in her dining room at 6:30, and then makes their way to their favourite wine shop The Vine’s Bounty. To their shock, it is boarded up and closed. There are slight signs of broken glass. They head to another wine shop [[Decanter 3 Table]] and buy a medium grade bottle of wine. There is a sort of bouncer or guard hanging out at the front with a sword at his side. [[Riffle]] nods to him and leaves with their purchase. They go to [[Bianca Onyxcrest]]’s office with the wine. The office itself is lovely and bigger than [[Talir Rengavi]]’s. It’s filled with shelves of books and notably a jewelled silver goblet on her desk.
 [[Bianca Onyxcrest]] says hello and [[Riffle]] pours the mid-range wine for both of them. They take a seat and [[Riffle]] asks how things have been. They discuss the gauntlet, Gavin Gosling’s passing and [[Bianca Onyxcrest]]’s transition to Headmistress (a month or so ago when [[Hana Goldfirm]] and [[Talir Rengavi]] visited), [[Talir Rengavi]] has given the Academy access to the stone from the belly of the ram.
-[[Riffle]] shares that we went to [[Venberg]] and then we got attacked by an encampment of Stone Giant Werebears. [[Riffle]] ASKS [[Bianca Onyxcrest]] FOR HELP (and ONLY mentions [[WISC]] and [[Furgus]], not [[Philip]]). She is more than happy to help and sends a message to the Head Cleric of Mistra to prepare the spells to reverse the condition tomorrow. She names no price, it is complementary. [[Riffle]] then MAKES SMALL TALK. [[Bianca Onyxcrest]] mentions that [[Talir Rengavi]] said that [[Riffle]] is looking for [[Axeholm]] and she asks how it’s going. [[Riffle]] honestly shares that there isn’t much of any progress. ([[Bianca Onyxcrest]] is not acting suspicious, at least to my knowledge). [[Riffle]] asks [[Bianca Onyxcrest]] not to tell [[WISC]] or [[Furgus]] that they came to her for help. They don’t want them to know just how important they are to them. ([[Deanira]] is also subsequently unaware)
+[[Riffle]] shares that we went to [[Venburg|Venberg]] and then we got attacked by an encampment of Stone Giant Werebears. [[Riffle]] ASKS [[Bianca Onyxcrest]] FOR HELP (and ONLY mentions [[WISC]] and [[Furgus]], not [[Philip]]). She is more than happy to help and sends a message to the Head Cleric of Mistra to prepare the spells to reverse the condition tomorrow. She names no price, it is complementary. [[Riffle]] then MAKES SMALL TALK. [[Bianca Onyxcrest]] mentions that [[Talir Rengavi]] said that [[Riffle]] is looking for [[Axeholm]] and she asks how it’s going. [[Riffle]] honestly shares that there isn’t much of any progress. ([[Bianca Onyxcrest]] is not acting suspicious, at least to my knowledge). [[Riffle]] asks [[Bianca Onyxcrest]] not to tell [[WISC]] or [[Furgus]] that they came to her for help. They don’t want them to know just how important they are to them. ([[Deanira]] is also subsequently unaware)
 We meet for dinner and the hall is lovely. [[Riffle]] is stuttering around [[Hana Goldfirm]] like crazy, obviously smitten.
 [[Bianca Onyxcrest]] takes time to explain the Gauntlet to us. It will begin in a week and a half.
 Rules of the Gauntlet:

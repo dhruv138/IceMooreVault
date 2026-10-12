@@ -1,5 +1,7 @@
 ---
 title: "Heaven's Touch Enchantment"
+type: mystery
+status: unresolved
 tags:
   - mystery
   - lore

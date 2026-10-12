@@ -1,5 +1,8 @@
 ---
 title: "Truemetal Halls"
+type: location
+location_type: major_city
+first_seen: "[[Session 05]]"
 tags:
   - place
   - major_city

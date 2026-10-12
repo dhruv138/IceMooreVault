@@ -1,5 +1,8 @@
 ---
 title: "The Forge"
+type: location
+location_type: religious_district
+first_seen: "[[Session 15]]"
 tags:
   - place
   - religious_district

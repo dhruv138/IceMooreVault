@@ -1,5 +1,35 @@
 ---
 title: "Session 7 — 1 June 2025"
+type: session
+session: 7
+date: 2025-06-01
+previous_session: "[[Session 06]]"
+next_session: "[[Session 08]]"
+party:
+  - "[[Furgus]]"
+  - "[[Deanira]]"
+  - "[[WISC]]"
+npcs:
+  - "[[Oswald]]"
+  - "[[Glasses]]"
+  - "[[Anton]]"
+  - "[[Mary Salter]]"
+  - "[[Elzock Emberstone]]"
+  - "[[Gunther Rockhammer]]"
+  - "[[Val]]"
+locations:
+  - "[[Black Dragon Inn]]"
+  - "[[Truemetal Halls]]"
+  - "[[Tryborne Pass]]"
+  - "[[First Star]]"
+  - "[[Unfinished Business]]"
+  - "[[Lakeshire]]"
+  - "[[Ring of Gold]]"
+  - "[[The Warhammer]]"
+  - "[[The Shooting Star]]"
+factions: []
+quests: []
+items: []
 tags:
   - session
   - actual-play
@@ -9,6 +39,10 @@ aliases:
   - "Session 7"
 ---
 # Session 7 — 1 June 2025
+
+> [!summary] TL;DR
+> In [[Tryborne Pass]] they find a slaughtered caravan and fight ravens and dire wolves. The ghost of [[Oswald]] leads them to [[Unfinished Business]], a tavern for lingering souls, and asks them to tell [[Mary Salter]] of his death. Elzock is returned to the [[Ring of Gold]].
+
 
 We leave the [[Black Dragon Inn]] at 11 am to head back towards [[Truemetal Halls]]. As we travel along the mountainous canyon [[Tryborne Pass]], we hear a cacophony of ravens around a curve in the distance. [[Furgus]] sneaks ahead and looks around the curve. He sees bashed carts and Cuban fedora hats surrounded by ravens picking at the bodies of the Cubans. We approach carefully and investigate the method in which the animals and Cubans were slain. They are covered in arrows and the occasional slashes.
 [[Furgus]] notices that the arrows are larger than the ones you’d typically see. As we approach one of the carts to investigate it, the ravens attack. After a few rounds, the ravens are scared off by 3 approaching dire wolves, who are lured to us by the smell of blood. They attack. After defeating the dire wolves, we rummage through the carts and find the oxen butchered with all of the choice cuts taken. On one of the bodies shielding a dead teenaged boy is a bloodstained note (on the following page).

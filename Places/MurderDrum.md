@@ -1,5 +1,7 @@
 ---
 title: "MurderDrum"
+type: location
+location_type: mountain
 tags:
   - place
   - mountain

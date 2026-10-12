@@ -1,5 +1,8 @@
 ---
 title: "The Shooting Star"
+type: location
+location_type: magic_shop
+first_seen: "[[Session 07]]"
 tags:
   - place
   - magic_shop

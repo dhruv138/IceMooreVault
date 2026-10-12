@@ -1,5 +1,7 @@
 ---
 title: "Court"
+type: faction
+first_seen: "[[Session 08]]"
 tags:
   - faction
   - organization

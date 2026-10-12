@@ -1,5 +1,8 @@
 ---
 title: "Western Point"
+type: location
+location_type: city
+first_seen: "[[Session 13]]"
 tags:
   - place
   - city

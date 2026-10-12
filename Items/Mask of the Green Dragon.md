@@ -1,5 +1,8 @@
 ---
 title: "Mask of the Green Dragon"
+type: item
+item_type: magic_item
+first_seen: "[[Session 21]]"
 tags:
   - item
   - magic_item

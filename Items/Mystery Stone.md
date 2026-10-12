@@ -1,5 +1,7 @@
 ---
 title: "Mystery Stone"
+type: item
+item_type: artifact
 tags:
   - item
   - artifact
@@ -11,3 +13,5 @@ A smooth black river stone initially small enough to carry. [[Hambrick Onyxcrest
 
 ## Recent developments
 - [[Session 36]]–38: The stone will be showcased at the [[Academy Gala]].
+
+See also: [[Mystery Stone Investigation]]

@@ -1,5 +1,8 @@
 ---
 title: "Crystalline Glacier"
+type: location
+location_type: landmark
+first_seen: "[[Session 14]]"
 tags:
   - place
   - landmark

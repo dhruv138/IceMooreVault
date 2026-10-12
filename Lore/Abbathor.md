@@ -1,5 +1,6 @@
 ---
 title: "Abbathor"
+type: lore
 tags:
   - god
   - lore

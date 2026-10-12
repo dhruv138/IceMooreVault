@@ -1,5 +1,7 @@
 ---
 title: "Great Chamber"
+type: location
+location_type: district
 tags:
   - place
   - district

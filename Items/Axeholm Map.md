@@ -1,5 +1,7 @@
 ---
 title: "Axeholm Map"
+type: item
+item_type: map
 tags:
   - item
   - map

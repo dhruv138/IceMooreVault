@@ -1,5 +1,7 @@
 ---
 title: "Bog's Rest"
+type: location
+location_type: inn
 tags:
   - place
   - inn

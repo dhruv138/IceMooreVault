@@ -1,5 +1,7 @@
 ---
 title: "Daddy Dildo Daggins"
+type: npc
+first_seen: "[[Session 09]]"
 tags:
   - person
   - npc

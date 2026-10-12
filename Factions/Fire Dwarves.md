@@ -1,5 +1,7 @@
 ---
 title: "Fire Dwarves"
+type: faction
+first_seen: "[[Session 24]]"
 tags:
   - faction
   - organization

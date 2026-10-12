@@ -1,5 +1,8 @@
 ---
 title: "Junk in the Trunk"
+type: location
+location_type: shop
+first_seen: "[[Session 09]]"
 tags:
   - place
   - shop

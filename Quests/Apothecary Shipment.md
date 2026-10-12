@@ -1,5 +1,7 @@
 ---
 title: "Apothecary Shipment"
+type: quest
+status: completed
 tags:
   - quest
   - completed

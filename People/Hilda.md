@@ -1,5 +1,7 @@
 ---
 title: "Hilda"
+type: npc
+first_seen: "[[Session 06]]"
 tags:
   - person
   - npc

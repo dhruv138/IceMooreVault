@@ -1,5 +1,8 @@
 ---
 title: "Amberhold"
+type: location
+location_type: major_city
+first_seen: "[[Session 13]]"
 tags:
   - place
   - major_city

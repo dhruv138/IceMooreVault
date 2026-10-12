@@ -1,5 +1,7 @@
 ---
 title: "Mage's District"
+type: location
+location_type: district
 tags:
   - place
   - district

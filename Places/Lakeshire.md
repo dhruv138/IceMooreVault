@@ -1,5 +1,8 @@
 ---
 title: "Lakeshire"
+type: location
+location_type: town
+first_seen: "[[Session 06]]"
 tags:
   - place
   - town

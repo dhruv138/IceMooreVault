@@ -1,5 +1,8 @@
 ---
 title: "Gauntlet"
+type: quest
+status: upcoming
+first_seen: "[[Session 38]]"
 tags:
   - quest
   - upcoming
