@@ -9,4 +9,6 @@ tags:
 ---
 # Hall of the Four Clans
 
-Place referenced in the campaign notes. Further detail may appear in the session notes.
+Hall in [[Truemetal Halls]] where the four major Dwarven clans are represented (see [[Iron Dwarves]] and [[Great Chamber]]). [[Session 04]] mentions clan statues in the city that leave out the [[Duergar]], who aren't considered true Dwarves.
+
+The session notes don't describe the hall itself; this note came from the original campaign document.

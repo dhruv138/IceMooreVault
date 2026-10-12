@@ -14,3 +14,11 @@ Brothel in [[Amberhold]] where the party accidentally arrived after magical tran
 
 ## Recent developments
 - [[Session 38]]: Losing workers such as [[Zelda]] to [[Heaven's Touch]]. [[Sabrina]] reported a young blond man named [[Andrew]] seeing a worker named Angela.
+
+%% session-history:start %%
+## Session history
+
+> [!info]- 2 sessions · first [[Session 35]] · last [[Session 38]]
+> - [[Session 35]]: According to Riffle, we have arrived inside the Velvet Glove Brothel.
+> - [[Session 38]]: After shopping, Riffle wants to go speak to Sabrina, the bartender at the Velvet Glove.
+%% session-history:end %%

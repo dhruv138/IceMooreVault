@@ -25,3 +25,10 @@ Religious order whose members follow many deities of fertility and love, includi
 ## History
 - [[Session 37]]: [[Deanira]] noticed people with a staff and phallic pins pairing off into the inn's basement and suspected a link to Daggins.
 - [[Session 38]]: Deanira met them, confirmed Daggins was a member, and showed Atheela the silver dildo Daggins entrusted to her.
+
+%% session-history:start %%
+## Session history
+
+> [!info]- 1 session · [[Session 38]]
+> - [[Session 38]]: She explains that their order is called The union of Many.
+%% session-history:end %%

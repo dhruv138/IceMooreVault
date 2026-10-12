@@ -14,3 +14,10 @@ Backup wine shop in [[Amberhold]] used by Riffle before dinner with [[Bianca Ony
 
 ## Recent developments
 - [[Session 37]]: Many alcohol shops now post visible security because of attacks by the [[Sect of Torm]].
+
+%% session-history:start %%
+## Session history
+
+> [!info]- 1 session · [[Session 36]]
+> - [[Session 36]]: They head to another wine shop Decanter 3 Table and buy a medium grade bottle of wine.
+%% session-history:end %%

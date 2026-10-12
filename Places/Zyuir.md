@@ -11,3 +11,10 @@ tags:
 # Zyuir
 
 Drow outpost. [[Agatha]] identified it as the key to finding the route to [[Axeholm]]. The name appeared in [[Daddy Dildo Daggins]]'s deciphered notes.
+
+%% session-history:start %%
+## Session history
+
+> [!info]- 1 session · [[Session 21]]
+> - [[Session 21]]: Zyuir.
+%% session-history:end %%

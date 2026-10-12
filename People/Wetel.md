@@ -12,3 +12,10 @@ aliases:
 # Wetel
 
 Pixie who gave [[Deanira]] a bag for generating more [[Cornhusk Dolls]] as a prank.
+
+%% session-history:start %%
+## Session history
+
+> [!info]- 1 session · [[Session 17]]
+> - [[Session 17]]: She meets a Pixie who introduces himself as Wetel.
+%% session-history:end %%

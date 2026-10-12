@@ -34,3 +34,11 @@ He appeared at an extraction rendezvous expecting Christolf and complained that 
 
 ## Recent developments
 - [[Session 37]]: Possible lead on Skeletal Hand recruitment in Amberhold: [[Blond Skeletal Hand Recruiter]].
+
+%% session-history:start %%
+## Session history
+
+> [!info]- 2 sessions · first [[Session 30]] · last [[Session 35]]
+> - [[Session 30]]: “Who is the Master of Death?”
+> - [[Session 35]]: Riffle’S RULES FOR CITY ETIQUETTE •	Be suspicious of people who “know you” but you don’t know them •	Don’t scream about Axeholm or necromancy or “Master of Death” or “Skeletal Hand”
+%% session-history:end %%

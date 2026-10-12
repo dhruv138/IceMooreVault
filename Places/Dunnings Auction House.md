@@ -11,3 +11,10 @@ tags:
 # Dunnings Auction House
 
 Auction house in [[Western Point]]. A future auction was expected to include a [[Quill of Deneir]].
+
+%% session-history:start %%
+## Session history
+
+> [!info]- 1 session · [[Session 13]]
+> - [[Session 13]]: On Dante, Riffle found some letters, one of which speaking of The Dunnings Auction House and an upcoming auction the first Monday after the Beaver Moon.
+%% session-history:end %%

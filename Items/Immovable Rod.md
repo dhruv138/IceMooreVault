@@ -11,3 +11,11 @@ tags:
 # Immovable Rod
 
 Magic item used creatively by the party, including helping restrain a basilisk in a hunting-trap setup.
+
+%% session-history:start %%
+## Session history
+
+> [!info]- 2 sessions · first [[Session 12]] · last [[Session 22]]
+> - [[Session 12]]: Our loot includes: Helm of the Summer Moon (headband of intellect), an Immovable Rod, a staff that smells faintly smoky (the Staff of Ham), 228 gold, 156 silver, 222 copper, assorted gems worth 129 gold, diamonds…
+> - [[Session 22]]: We are slipping the Immovable Rod through the end of the hunting trap chains and sticking it vertically so the basilisks are stuck in space despite their strength.
+%% session-history:end %%

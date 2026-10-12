@@ -11,3 +11,10 @@ tags:
 # Pipes of the Sewers
 
 Magical pipes that attracted rats when played.
+
+%% session-history:start %%
+## Session history
+
+> [!info]- 1 session · [[Session 33]]
+> - [[Session 33]]: It is The Pipes of the Sewers.
+%% session-history:end %%

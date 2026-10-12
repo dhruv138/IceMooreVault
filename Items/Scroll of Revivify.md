@@ -11,3 +11,10 @@ tags:
 # Scroll of Revivify
 
 Spell scroll found inside the map case in the Dragon League vault.
+
+%% session-history:start %%
+## Session history
+
+> [!info]- 1 session · [[Session 21]]
+> - [[Session 21]]: Deanira and Riffle open the map case and find inside a Scroll of Revivify.
+%% session-history:end %%

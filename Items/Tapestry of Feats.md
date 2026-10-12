@@ -11,3 +11,10 @@ tags:
 # Tapestry of Feats
 
 Magical tapestry that weaves itself to depict the holder's greatest feat. [[WISC]] saw the party's encounter with [[Agatha]] depicted on it.
+
+%% session-history:start %%
+## Session history
+
+> [!info]- 1 session · [[Session 29]]
+> - [[Session 29]]: It is the Tapestry of Feats.
+%% session-history:end %%

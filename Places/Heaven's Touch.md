@@ -16,3 +16,11 @@ A warehouse by the waterfront, recently converted, and beautiful inside, compara
 
 ## Recent developments
 - [[Session 38]]: The party visited and were offered a free drink. [[Theo'din Corvis]] sensed an enchantment over the people inside, and former Velvet Glove worker [[Zelda]] seemed enchanted. The party was asked to leave after Theo tried to cast Dispel Magic. See [[Heaven's Touch Enchantment]].
+
+%% session-history:start %%
+## Session history
+
+> [!info]- 2 sessions · first [[Session 37]] · last [[Session 38]]
+> - [[Session 37]]: shop for the Gala - Find the missing sanitation workers - Riffle want to go to Heaven's Touch (the brothel competition) - Riffle to see Esther (Head Archivist of the Library)(Done)
+> - [[Session 38]]: Sabrina had agreed to meet Riffle outside of the brothel. for a drink and to talk about the competition between the Velvet Glove and Heaven's Touch.
+%% session-history:end %%

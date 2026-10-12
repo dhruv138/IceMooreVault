@@ -10,3 +10,11 @@ tags:
 # Black Hand Dwarves
 
 Dwarven group operating [[Kohlemine]] and producing [[Anthracite]]. Their sudden price increase may indicate a hidden buyer.
+
+%% session-history:start %%
+## Session history
+
+> [!info]- 2 sessions · first [[Session 10]] · last [[Session 17]]
+> - [[Session 10]]: At the market, we notice a quiet but heated conversation between two Dwarves, and they mention mithril and anthracite (a type of coal predominantly mined by the Black Hand Dwarves of Kohlenmine.
+> - [[Session 17]]: It is mined in Kohlemine, to the East, by the Black Hand Dwarves.
+%% session-history:end %%

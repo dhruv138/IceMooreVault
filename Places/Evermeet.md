@@ -11,3 +11,10 @@ tags:
 # Evermeet
 
 Port/island destination represented by an anchor tattoo among sailors in [[Amberhold]].
+
+%% session-history:start %%
+## Session history
+
+> [!info]- 1 session · [[Session 36]]
+> - [[Session 36]]: He tells us that the Anchor tattoo means that they had been to Safehaven or Evermeet.
+%% session-history:end %%

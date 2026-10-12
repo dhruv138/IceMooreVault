@@ -16,3 +16,12 @@ aliases:
 
 - [[Session 31]]: WISC dreamt she cast Finger of Death on Riffle, then brought the party home for real.
 - [[Session 35]]: WISC left her a letter and 100 gold with [[Uthal]], to be delivered only if he doesn't return.
+
+%% session-history:start %%
+## Session history
+
+> [!info]- 3 sessions · first [[Session 31]] · last [[Session 35]]
+> - [[Session 31]]: WISC knocks on the doorframe, “Oma!
+> - [[Session 32]]: A bunch of people including Oma run in to see what’s going on, “WISCCHENZO WHAT HAS Furgus GOTTEN YOU INTO THIS TIME?”
+> - [[Session 35]]: WISC gave Riffle a letter and a hundred gold for Oma.
+%% session-history:end %%

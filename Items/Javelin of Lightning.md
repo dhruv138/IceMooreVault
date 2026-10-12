@@ -11,3 +11,10 @@ tags:
 # Javelin of Lightning
 
 Magical javelin found among the Stone Giant were-bears' possessions.
+
+%% session-history:start %%
+## Session history
+
+> [!info]- 1 session · [[Session 33]]
+> - [[Session 33]]: Loot: we find a large mammoth fur pelt, a granite stone carving of a 6 ft bear that is incomplete, a giant bone club, giant carving tools, and a javelin that makes our fur stand on end (Javelin of Lightning), and a set…
+%% session-history:end %%

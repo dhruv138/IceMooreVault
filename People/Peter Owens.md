@@ -21,3 +21,11 @@ The notes spell the family name both **Owens** ([[Session 36]]) and **Owen** ([[
 - [[Session 38]]: Both his parents recently died, and he has taken a leave of absence. Students say he has been visiting the [[Owens Family Mausoleum]] more often, which they find strange because he wasn't close to his parents. They describe him as strange, with "icky weird vibes". He lives in an apartment off campus. See [[Owens Family Deaths]].
 
 **Possible link (unconfirmed):** the [[Skeletal Hand]] recruiter in [[Session 30]] was described as a blond youth named Peter. See [[Blond Skeletal Hand Recruiter]].
+
+%% session-history:start %%
+## Session history
+
+> [!info]- 2 sessions · first [[Session 36]] · last [[Session 38]]
+> - [[Session 36]]: Riffle heard that his son Philip?Peter?
+> - [[Session 38]]: We head to the Academy to see about a graduate student named Peter.
+%% session-history:end %%

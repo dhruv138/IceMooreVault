@@ -10,4 +10,11 @@ tags:
 ---
 # Kicking Ass
 
-Pub in the miner's district where [[Elzock Emberstone]] frequented.
+Pub in the miners' area of [[Truemetal Halls]]. [[Elzock Emberstone]] mentioned he'd been frequenting it ([[Session 16]]).
+
+%% session-history:start %%
+## Session history
+
+> [!info]- 1 session · [[Session 16]]
+> - [[Session 16]]: Elzock Emberstone tells us that he’s been frequenting a pub down in the miner’s area called Kicking Ass.
+%% session-history:end %%

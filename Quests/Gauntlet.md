@@ -27,3 +27,10 @@ Competition at [[Mistra's Academy]] in [[Amberhold]]. The party will compete on 
 [[Riffle]] glimpsed these in [[Karyn]]'s office:
 - Four teams in total.
 - Five themed rounds: Beasts, Celestials, Fiends, Elementals, and Fey.
+
+%% session-history:start %%
+## Session history
+
+> [!info]- 1 session · [[Session 38]]
+> - [[Session 38]]: Both (separately) are very stressed and overworked preparing the Gala and the Gauntlet.
+%% session-history:end %%

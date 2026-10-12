@@ -11,3 +11,10 @@ tags:
 # Golden Sea
 
 Sea route near [[Wren Nalore]] used by caravans and travelers.
+
+%% session-history:start %%
+## Session history
+
+> [!info]- 1 session · [[Session 18]]
+> - [[Session 18]]: We are right by the Golden Sea so caravans come through on their journeys.
+%% session-history:end %%
