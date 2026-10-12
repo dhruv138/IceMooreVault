@@ -15,3 +15,6 @@ Notes establish:
 - A [[Wolfsbane Potion]] may be possible.
 - Possible ingredients include wolfsbane, a stabilizing agent, powdered moonstone/moon seed, lycanthrope blood, and purified/blessed water.
 - [[Bianca Onyxcrest]] eventually agreed to arrange magical treatment.
+
+## Recent developments
+- [[Session 37]]: The lycanthropy was cured at the [[Temple of Mistra]]. **Status:** resolved.

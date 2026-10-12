@@ -25,3 +25,10 @@ Deanira now travels the Icemoor region, improving her cartography skills and sea
 - Experienced a vision involving a ship, changing stars, a storm, and a mysterious webbed hand.
 - Has repeatedly encountered [[Cornhusk Dolls]].
 - Was bitten by the were-bears but did not develop the same persistent symptoms as WISC/Furgus.
+
+## Recent developments
+- [[Session 37]]: [[Samuel Patel]] found a minor curse on her. At the Student Health Clinic the [[Mask of the Green Dragon]] was removed, and she suddenly felt much better about [[WISC]].
+- [[Session 37]]: Bought maps of four other continents from a cartography shop. The shop had charted nothing in the Feywild and knew nothing of an unchartable island, so she questioned sailors (see [[Floating Island Mystery]]).
+- [[Session 37]]: Wants to continue Daggins's work collecting fertility statues from around the world.
+- [[Session 38]]: Met the [[Union of Many]] in the basement of [[The Two Tits]] and confirmed [[Daddy Dildo Daggins]] was a member. Showed [[Atheela]] the silver dildo Daggins entrusted to her.
+- [[Session 38]]: Bought a gold and blue feathered ballgown and a collar of fine jewels for the [[Academy Gala]].

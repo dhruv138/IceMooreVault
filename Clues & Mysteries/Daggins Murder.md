@@ -19,3 +19,8 @@ The party determined:
 - [[Sherlock Gnomes]] believes someone was trying to impersonate and frame Riffle.
 
 **Status:** unresolved.
+
+## Recent developments
+- [[Session 37]]: [[Ester]] dates the change from red to purple robes to **50–60 years ago**, not about 20 years as recorded above. The source notes conflict, so both are kept. She also says some people may have kept their old robes.
+- [[Session 38]]: Daggins was "Brother Daggins" of the [[Union of Many]].
+- [[Session 38]]: Riffle is again accused of a theft on the word of a witness. See [[Talir's Stolen Documents]].

@@ -33,3 +33,6 @@ tags:
 - Identity and origin of the golden-eyed bugbear.
 - WISC's missing father.
 - Whether the golden-eyed bugbear is related to WISC.
+
+## Recent developments
+- [[Session 37]]: Cured of lycanthropy at the [[Temple of Mistra]] ([[Werebear Curse]]).

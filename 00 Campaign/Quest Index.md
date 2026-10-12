@@ -22,5 +22,8 @@ tags:
 - [[Daggins Murder]] — **active**
 - [[Golden-Eyed Bugbear Mystery]] — **active**
 - [[Anthracite Trade Mystery]] — **active**
-- [[Werebear Curse]] — **partially resolved**
+- [[Werebear Curse]] — **resolved**
 - [[Floating Island Mystery]] — **active**
+- [[Missing Sanitation Workers]] — **active**
+- [[Academy Gala]] — **upcoming**
+- [[Gauntlet]] — **upcoming**
