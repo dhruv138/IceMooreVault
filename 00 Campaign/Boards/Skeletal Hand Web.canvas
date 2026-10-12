@@ -1,0 +1,310 @@
+{
+ "nodes": [
+  {
+   "id": "g1",
+   "type": "group",
+   "label": "Recruiting in Amberhold",
+   "x": 380,
+   "y": -40,
+   "width": 800,
+   "height": 1000,
+   "color": "3"
+  },
+  {
+   "id": "g0",
+   "type": "group",
+   "label": "Necromancy in Truemetal Halls & the north",
+   "x": -880,
+   "y": -240,
+   "width": 820,
+   "height": 960,
+   "color": "1"
+  },
+  {
+   "id": "n0",
+   "type": "file",
+   "file": "Quests/Master of Death.md",
+   "x": 0,
+   "y": 0,
+   "width": 300,
+   "height": 170,
+   "color": "1"
+  },
+  {
+   "id": "n1",
+   "type": "file",
+   "file": "Factions/Skeletal Hand.md",
+   "x": 0,
+   "y": 260,
+   "width": 300,
+   "height": 170,
+   "color": "1"
+  },
+  {
+   "id": "n2",
+   "type": "file",
+   "file": "People/Christolf Nightfall.md",
+   "x": -420,
+   "y": 0,
+   "width": 300,
+   "height": 170
+  },
+  {
+   "id": "n3",
+   "type": "file",
+   "file": "People/Nastil.md",
+   "x": -840,
+   "y": -200,
+   "width": 300,
+   "height": 170
+  },
+  {
+   "id": "n4",
+   "type": "file",
+   "file": "People/Dagin Tillmore.md",
+   "x": -840,
+   "y": 60,
+   "width": 300,
+   "height": 170
+  },
+  {
+   "id": "n5",
+   "type": "file",
+   "file": "Quests/Flesh Golems and Poison Mine.md",
+   "x": -840,
+   "y": 320,
+   "width": 300,
+   "height": 170
+  },
+  {
+   "id": "n6",
+   "type": "file",
+   "file": "People/Quithos the Breaker.md",
+   "x": -420,
+   "y": 260,
+   "width": 300,
+   "height": 170
+  },
+  {
+   "id": "n7",
+   "type": "file",
+   "file": "People/Corthos.md",
+   "x": -420,
+   "y": 520,
+   "width": 300,
+   "height": 170
+  },
+  {
+   "id": "n8",
+   "type": "file",
+   "file": "Clues & Mysteries/Blond Skeletal Hand Recruiter.md",
+   "x": 420,
+   "y": 260,
+   "width": 300,
+   "height": 170,
+   "color": "3"
+  },
+  {
+   "id": "n9",
+   "type": "file",
+   "file": "People/Cam Jergins.md",
+   "x": 840,
+   "y": 60,
+   "width": 300,
+   "height": 170
+  },
+  {
+   "id": "n10",
+   "type": "file",
+   "file": "People/Andrew.md",
+   "x": 840,
+   "y": 320,
+   "width": 300,
+   "height": 170
+  },
+  {
+   "id": "n11",
+   "type": "file",
+   "file": "People/Peter Owens.md",
+   "x": 420,
+   "y": 520,
+   "width": 300,
+   "height": 170,
+   "color": "3"
+  },
+  {
+   "id": "n12",
+   "type": "file",
+   "file": "Clues & Mysteries/Owens Family Deaths.md",
+   "x": 840,
+   "y": 580,
+   "width": 300,
+   "height": 170
+  },
+  {
+   "id": "n13",
+   "type": "file",
+   "file": "Places/Owens Family Mausoleum.md",
+   "x": 420,
+   "y": 780,
+   "width": 300,
+   "height": 170
+  },
+  {
+   "id": "n14",
+   "type": "file",
+   "file": "Factions/Mistra's Academy.md",
+   "x": 0,
+   "y": 520,
+   "width": 300,
+   "height": 170
+  },
+  {
+   "id": "n15",
+   "type": "file",
+   "file": "Factions/Library of Deneir.md",
+   "x": 0,
+   "y": 780,
+   "width": 300,
+   "height": 170
+  },
+  {
+   "id": "n16",
+   "type": "text",
+   "text": "**Session 30** \u2014 cultist recruited by \"a blond youth named Peter\" at an Amberhold inn, because he couldn't afford the Academy",
+   "x": 420,
+   "y": 0,
+   "width": 300,
+   "height": 110
+  }
+ ],
+ "edges": [
+  {
+   "id": "e0",
+   "fromNode": "n0",
+   "toNode": "n2",
+   "toEnd": "arrow",
+   "label": "expected him at the rendezvous"
+  },
+  {
+   "id": "e1",
+   "fromNode": "n0",
+   "toNode": "n1",
+   "toEnd": "arrow",
+   "label": "appears to direct"
+  },
+  {
+   "id": "e2",
+   "fromNode": "n2",
+   "toNode": "n3",
+   "toEnd": "arrow",
+   "label": "his Greater Zombie assistant"
+  },
+  {
+   "id": "e3",
+   "fromNode": "n2",
+   "toNode": "n4",
+   "toEnd": "arrow",
+   "label": "stole the body"
+  },
+  {
+   "id": "e4",
+   "fromNode": "n4",
+   "toNode": "n5",
+   "toEnd": "arrow",
+   "label": "arm used in a golem"
+  },
+  {
+   "id": "e5",
+   "fromNode": "n2",
+   "toNode": "n7",
+   "toEnd": "arrow",
+   "label": "reanimated"
+  },
+  {
+   "id": "e6",
+   "fromNode": "n7",
+   "toNode": "n6",
+   "toEnd": "arrow",
+   "label": "entombed in his tomb"
+  },
+  {
+   "id": "e7",
+   "fromNode": "n1",
+   "toNode": "n6",
+   "toEnd": "arrow",
+   "label": "held captives here"
+  },
+  {
+   "id": "e8",
+   "fromNode": "n1",
+   "toNode": "n14",
+   "toEnd": "arrow",
+   "label": "once part of, banned"
+  },
+  {
+   "id": "e9",
+   "fromNode": "n1",
+   "toNode": "n15",
+   "toEnd": "arrow",
+   "label": "once part of, banned"
+  },
+  {
+   "id": "e10",
+   "fromNode": "n8",
+   "toNode": "n1",
+   "toEnd": "arrow",
+   "label": "recruits for"
+  },
+  {
+   "id": "e11",
+   "fromNode": "n16",
+   "toNode": "n8",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e12",
+   "fromNode": "n9",
+   "toNode": "n8",
+   "toEnd": "arrow",
+   "label": "copied tattoo from a blond kid"
+  },
+  {
+   "id": "e13",
+   "fromNode": "n10",
+   "toNode": "n8",
+   "toEnd": "arrow",
+   "label": "same person?",
+   "color": "3"
+  },
+  {
+   "id": "e14",
+   "fromNode": "n11",
+   "toNode": "n8",
+   "toEnd": "arrow",
+   "label": "the \"Peter\"?",
+   "color": "3"
+  },
+  {
+   "id": "e15",
+   "fromNode": "n11",
+   "toNode": "n12",
+   "toEnd": "arrow",
+   "label": "parents just died"
+  },
+  {
+   "id": "e16",
+   "fromNode": "n11",
+   "toNode": "n13",
+   "toEnd": "arrow",
+   "label": "visiting often"
+  },
+  {
+   "id": "e17",
+   "fromNode": "n11",
+   "toNode": "n14",
+   "toEnd": "arrow",
+   "label": "grad student, on leave"
+  }
+ ]
+}

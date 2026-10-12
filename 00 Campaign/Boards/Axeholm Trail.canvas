@@ -1,0 +1,222 @@
+{
+ "nodes": [
+  {
+   "id": "n0",
+   "type": "file",
+   "file": "Places/Axeholm.md",
+   "x": 0,
+   "y": 0,
+   "width": 300,
+   "height": 170,
+   "color": "4"
+  },
+  {
+   "id": "n1",
+   "type": "file",
+   "file": "Quests/Mystery of Axeholm.md",
+   "x": 0,
+   "y": -260,
+   "width": 300,
+   "height": 170,
+   "color": "4"
+  },
+  {
+   "id": "n2",
+   "type": "file",
+   "file": "Places/Zyuir.md",
+   "x": -420,
+   "y": 0,
+   "width": 300,
+   "height": 170
+  },
+  {
+   "id": "n3",
+   "type": "file",
+   "file": "Places/Crystalline Glacier.md",
+   "x": 420,
+   "y": 0,
+   "width": 300,
+   "height": 170
+  },
+  {
+   "id": "n4",
+   "type": "file",
+   "file": "Places/Coal Caster River.md",
+   "x": 420,
+   "y": 260,
+   "width": 300,
+   "height": 170
+  },
+  {
+   "id": "n5",
+   "type": "file",
+   "file": "Items/Daggins's Journal.md",
+   "x": -420,
+   "y": 260,
+   "width": 300,
+   "height": 170
+  },
+  {
+   "id": "n6",
+   "type": "file",
+   "file": "Items/Axeholm Map.md",
+   "x": 0,
+   "y": 260,
+   "width": 300,
+   "height": 170
+  },
+  {
+   "id": "n7",
+   "type": "file",
+   "file": "People/Daddy Dildo Daggins.md",
+   "x": -840,
+   "y": 260,
+   "width": 300,
+   "height": 170
+  },
+  {
+   "id": "n8",
+   "type": "file",
+   "file": "People/Agatha.md",
+   "x": -840,
+   "y": 0,
+   "width": 300,
+   "height": 170
+  },
+  {
+   "id": "n9",
+   "type": "file",
+   "file": "People/Hana Goldfirm.md",
+   "x": -420,
+   "y": 520,
+   "width": 300,
+   "height": 170
+  },
+  {
+   "id": "n10",
+   "type": "file",
+   "file": "Factions/Dragon League.md",
+   "x": 0,
+   "y": 520,
+   "width": 300,
+   "height": 170
+  },
+  {
+   "id": "n11",
+   "type": "text",
+   "text": "**Session 05** \u2014 the coded journal of a dead Halfling adventurer first names \"Axeholm\"",
+   "x": -840,
+   "y": 520,
+   "width": 300,
+   "height": 110
+  },
+  {
+   "id": "n12",
+   "type": "text",
+   "text": "**Session 17** \u2014 a water genasi claimed to be the only survivor of a group that reached Axeholm; undead roamed its streets",
+   "x": 420,
+   "y": 520,
+   "width": 300,
+   "height": 110
+  },
+  {
+   "id": "n13",
+   "type": "text",
+   "text": "**Session 09** \u2014 ruled by the Axeforge family; sealed after a supernatural greed and buried by a legendary blizzard",
+   "x": 420,
+   "y": -260,
+   "width": 300,
+   "height": 110
+  }
+ ],
+ "edges": [
+  {
+   "id": "e0",
+   "fromNode": "n1",
+   "toNode": "n0",
+   "toEnd": "arrow",
+   "label": "goal"
+  },
+  {
+   "id": "e1",
+   "fromNode": "n2",
+   "toNode": "n0",
+   "toEnd": "arrow",
+   "label": "Drow outpost: the key"
+  },
+  {
+   "id": "e2",
+   "fromNode": "n8",
+   "toNode": "n2",
+   "toEnd": "arrow",
+   "label": "told the party"
+  },
+  {
+   "id": "e3",
+   "fromNode": "n3",
+   "toNode": "n0",
+   "toEnd": "arrow",
+   "label": "rumoured landmark"
+  },
+  {
+   "id": "e4",
+   "fromNode": "n4",
+   "toNode": "n0",
+   "toEnd": "arrow",
+   "label": "city lay along it"
+  },
+  {
+   "id": "e5",
+   "fromNode": "n5",
+   "toNode": "n2",
+   "toEnd": "arrow",
+   "label": "\"Coal Caster = Zyvuir\""
+  },
+  {
+   "id": "e6",
+   "fromNode": "n7",
+   "toNode": "n5",
+   "toEnd": "arrow",
+   "label": "deciphered"
+  },
+  {
+   "id": "e7",
+   "fromNode": "n9",
+   "toNode": "n5",
+   "toEnd": "arrow",
+   "label": "holds the last copy"
+  },
+  {
+   "id": "e8",
+   "fromNode": "n6",
+   "toNode": "n0",
+   "toEnd": "arrow",
+   "label": "inside the mountain"
+  },
+  {
+   "id": "e9",
+   "fromNode": "n10",
+   "toNode": "n6",
+   "toEnd": "arrow",
+   "label": "found in their vault"
+  },
+  {
+   "id": "e10",
+   "fromNode": "n11",
+   "toNode": "n5",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e11",
+   "fromNode": "n12",
+   "toNode": "n0",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e12",
+   "fromNode": "n13",
+   "toNode": "n0",
+   "toEnd": "arrow"
+  }
+ ]
+}

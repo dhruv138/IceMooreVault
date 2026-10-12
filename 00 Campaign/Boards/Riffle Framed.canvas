@@ -1,0 +1,233 @@
+{
+ "nodes": [
+  {
+   "id": "n0",
+   "type": "file",
+   "file": "People/Riffle.md",
+   "x": 0,
+   "y": 0,
+   "width": 300,
+   "height": 170,
+   "color": "6"
+  },
+  {
+   "id": "n1",
+   "type": "file",
+   "file": "Quests/Daggins Murder.md",
+   "x": -420,
+   "y": 260,
+   "width": 300,
+   "height": 170,
+   "color": "1"
+  },
+  {
+   "id": "n2",
+   "type": "file",
+   "file": "Clues & Mysteries/Talir's Stolen Documents.md",
+   "x": 420,
+   "y": 260,
+   "width": 300,
+   "height": 170,
+   "color": "1"
+  },
+  {
+   "id": "n3",
+   "type": "file",
+   "file": "People/Daddy Dildo Daggins.md",
+   "x": -840,
+   "y": 260,
+   "width": 300,
+   "height": 170
+  },
+  {
+   "id": "n4",
+   "type": "file",
+   "file": "Factions/Union of Many.md",
+   "x": -840,
+   "y": 520,
+   "width": 300,
+   "height": 170
+  },
+  {
+   "id": "n5",
+   "type": "file",
+   "file": "Items/Daggins's Journal.md",
+   "x": -840,
+   "y": 0,
+   "width": 300,
+   "height": 170
+  },
+  {
+   "id": "n6",
+   "type": "file",
+   "file": "People/Sherlock Gnomes.md",
+   "x": -420,
+   "y": 520,
+   "width": 300,
+   "height": 170
+  },
+  {
+   "id": "n7",
+   "type": "file",
+   "file": "People/Ester.md",
+   "x": -420,
+   "y": 780,
+   "width": 300,
+   "height": 170
+  },
+  {
+   "id": "n8",
+   "type": "file",
+   "file": "People/Hector.md",
+   "x": -420,
+   "y": -260,
+   "width": 300,
+   "height": 170
+  },
+  {
+   "id": "n9",
+   "type": "file",
+   "file": "People/Siobhan.md",
+   "x": 420,
+   "y": 520,
+   "width": 300,
+   "height": 170
+  },
+  {
+   "id": "n10",
+   "type": "file",
+   "file": "People/Talir Rengavi.md",
+   "x": 840,
+   "y": 260,
+   "width": 300,
+   "height": 170
+  },
+  {
+   "id": "n11",
+   "type": "file",
+   "file": "People/Hana Goldfirm.md",
+   "x": 420,
+   "y": -260,
+   "width": 300,
+   "height": 170
+  },
+  {
+   "id": "n12",
+   "type": "text",
+   "text": "**Session 25** \u2014 a witness saw someone like Riffle in **red vestments** enter Daggins's house at midnight. Riffle wears purple and gold, and was nursing the party then.",
+   "x": -1260,
+   "y": 520,
+   "width": 300,
+   "height": 110
+  },
+  {
+   "id": "n13",
+   "type": "text",
+   "text": "**Session 25** \u2014 the black feathers were bought from a fletcher by an androgynous human with long blonde hair",
+   "x": -1260,
+   "y": 260,
+   "width": 300,
+   "height": 110
+  },
+  {
+   "id": "n14",
+   "type": "text",
+   "text": "**Robes:** Hana says red Library robes were destroyed 20 years ago (S26); Ester says they changed 50\u201360 years ago and some were kept (S37)",
+   "x": -420,
+   "y": 1040,
+   "width": 300,
+   "height": 110
+  }
+ ],
+ "edges": [
+  {
+   "id": "e0",
+   "fromNode": "n1",
+   "toNode": "n0",
+   "toEnd": "arrow",
+   "label": "framed: blood letters RI\u2026F, black feathers"
+  },
+  {
+   "id": "e1",
+   "fromNode": "n2",
+   "toNode": "n0",
+   "toEnd": "arrow",
+   "label": "accused: Siobhan's sighting"
+  },
+  {
+   "id": "e2",
+   "fromNode": "n3",
+   "toNode": "n1",
+   "toEnd": "arrow",
+   "label": "victim"
+  },
+  {
+   "id": "e3",
+   "fromNode": "n1",
+   "toNode": "n5",
+   "toEnd": "arrow",
+   "label": "Axeholm research taken"
+  },
+  {
+   "id": "e4",
+   "fromNode": "n3",
+   "toNode": "n4",
+   "toEnd": "arrow",
+   "label": "\"Brother Daggins\""
+  },
+  {
+   "id": "e5",
+   "fromNode": "n6",
+   "toNode": "n1",
+   "toEnd": "arrow",
+   "label": "concluded Riffle is being framed"
+  },
+  {
+   "id": "e6",
+   "fromNode": "n8",
+   "toNode": "n1",
+   "toEnd": "arrow",
+   "label": "impostor poisoned the party that night"
+  },
+  {
+   "id": "e7",
+   "fromNode": "n9",
+   "toNode": "n2",
+   "toEnd": "arrow",
+   "label": "witness"
+  },
+  {
+   "id": "e8",
+   "fromNode": "n10",
+   "toNode": "n2",
+   "toEnd": "arrow",
+   "label": "victim"
+  },
+  {
+   "id": "e9",
+   "fromNode": "n11",
+   "toNode": "n2",
+   "toEnd": "arrow",
+   "label": "her office was also burgled?",
+   "color": "3"
+  },
+  {
+   "id": "e10",
+   "fromNode": "n7",
+   "toNode": "n14",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e11",
+   "fromNode": "n12",
+   "toNode": "n1",
+   "toEnd": "arrow"
+  },
+  {
+   "id": "e12",
+   "fromNode": "n13",
+   "toNode": "n1",
+   "toEnd": "arrow"
+  }
+ ]
+}

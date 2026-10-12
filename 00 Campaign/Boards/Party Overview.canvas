@@ -1,0 +1,323 @@
+{
+ "nodes": [
+  {
+   "id": "g0",
+   "type": "group",
+   "label": "The party",
+   "x": -940,
+   "y": -40,
+   "width": 2630,
+   "height": 250,
+   "color": "6"
+  },
+  {
+   "id": "n0",
+   "type": "file",
+   "file": "People/WISC.md",
+   "x": -900,
+   "y": 0,
+   "width": 300,
+   "height": 170,
+   "color": "6"
+  },
+  {
+   "id": "n1",
+   "type": "file",
+   "file": "People/Furgus.md",
+   "x": -450,
+   "y": 0,
+   "width": 300,
+   "height": 170,
+   "color": "6"
+  },
+  {
+   "id": "n2",
+   "type": "file",
+   "file": "People/Deanira.md",
+   "x": 0,
+   "y": 0,
+   "width": 300,
+   "height": 170,
+   "color": "6"
+  },
+  {
+   "id": "n3",
+   "type": "file",
+   "file": "People/Riffle.md",
+   "x": 450,
+   "y": 0,
+   "width": 300,
+   "height": 170,
+   "color": "6"
+  },
+  {
+   "id": "n4",
+   "type": "file",
+   "file": "People/Theo'din Corvis.md",
+   "x": 900,
+   "y": 0,
+   "width": 300,
+   "height": 170,
+   "color": "6"
+  },
+  {
+   "id": "n5",
+   "type": "file",
+   "file": "People/Philip.md",
+   "x": 1350,
+   "y": 0,
+   "width": 300,
+   "height": 170,
+   "color": "6"
+  },
+  {
+   "id": "n6",
+   "type": "file",
+   "file": "Quests/Golden-Eyed Bugbear Mystery.md",
+   "x": -900,
+   "y": 300,
+   "width": 300,
+   "height": 170
+  },
+  {
+   "id": "n7",
+   "type": "file",
+   "file": "People/Oma.md",
+   "x": -900,
+   "y": 560,
+   "width": 300,
+   "height": 170
+  },
+  {
+   "id": "n8",
+   "type": "file",
+   "file": "People/Uthal.md",
+   "x": -450,
+   "y": 300,
+   "width": 300,
+   "height": 170
+  },
+  {
+   "id": "n9",
+   "type": "file",
+   "file": "People/Bad.md",
+   "x": -450,
+   "y": 560,
+   "width": 300,
+   "height": 170
+  },
+  {
+   "id": "n10",
+   "type": "file",
+   "file": "Quests/Floating Island Mystery.md",
+   "x": 0,
+   "y": 300,
+   "width": 300,
+   "height": 170
+  },
+  {
+   "id": "n11",
+   "type": "file",
+   "file": "People/Val.md",
+   "x": 0,
+   "y": 560,
+   "width": 300,
+   "height": 170
+  },
+  {
+   "id": "n12",
+   "type": "file",
+   "file": "Factions/Union of Many.md",
+   "x": 0,
+   "y": 820,
+   "width": 300,
+   "height": 170
+  },
+  {
+   "id": "n13",
+   "type": "file",
+   "file": "People/Talir Rengavi.md",
+   "x": 450,
+   "y": 300,
+   "width": 300,
+   "height": 170
+  },
+  {
+   "id": "n14",
+   "type": "file",
+   "file": "People/Hana Goldfirm.md",
+   "x": 450,
+   "y": 560,
+   "width": 300,
+   "height": 170
+  },
+  {
+   "id": "n15",
+   "type": "file",
+   "file": "Clues & Mysteries/Talir's Stolen Documents.md",
+   "x": 450,
+   "y": 820,
+   "width": 300,
+   "height": 170
+  },
+  {
+   "id": "n16",
+   "type": "file",
+   "file": "Lore/Raven Queen.md",
+   "x": 900,
+   "y": 300,
+   "width": 300,
+   "height": 170
+  },
+  {
+   "id": "n17",
+   "type": "file",
+   "file": "Factions/Raven Queen's servants.md",
+   "x": 900,
+   "y": 560,
+   "width": 300,
+   "height": 170
+  },
+  {
+   "id": "n18",
+   "type": "file",
+   "file": "Places/Venburg.md",
+   "x": 1350,
+   "y": 300,
+   "width": 300,
+   "height": 170
+  },
+  {
+   "id": "n19",
+   "type": "file",
+   "file": "Quests/Werebear Curse.md",
+   "x": -675,
+   "y": 820,
+   "width": 300,
+   "height": 170
+  },
+  {
+   "id": "n20",
+   "type": "file",
+   "file": "Quests/Gauntlet.md",
+   "x": 1125,
+   "y": 820,
+   "width": 300,
+   "height": 170
+  }
+ ],
+ "edges": [
+  {
+   "id": "e0",
+   "fromNode": "n0",
+   "toNode": "n6",
+   "toEnd": "arrow",
+   "label": "shares the rare eyes"
+  },
+  {
+   "id": "e1",
+   "fromNode": "n0",
+   "toNode": "n7",
+   "toEnd": "arrow",
+   "label": "grandmother"
+  },
+  {
+   "id": "e2",
+   "fromNode": "n1",
+   "toNode": "n8",
+   "toEnd": "arrow",
+   "label": "complicated\u2026"
+  },
+  {
+   "id": "e3",
+   "fromNode": "n1",
+   "toNode": "n9",
+   "toEnd": "arrow",
+   "label": "brother"
+  },
+  {
+   "id": "e4",
+   "fromNode": "n2",
+   "toNode": "n10",
+   "toEnd": "arrow",
+   "label": "searching"
+  },
+  {
+   "id": "e5",
+   "fromNode": "n2",
+   "toNode": "n11",
+   "toEnd": "arrow",
+   "label": "missing mentor"
+  },
+  {
+   "id": "e6",
+   "fromNode": "n2",
+   "toNode": "n12",
+   "toEnd": "arrow",
+   "label": "carrying on Daggins's work"
+  },
+  {
+   "id": "e7",
+   "fromNode": "n3",
+   "toNode": "n13",
+   "toEnd": "arrow",
+   "label": "father figure"
+  },
+  {
+   "id": "e8",
+   "fromNode": "n3",
+   "toNode": "n14",
+   "toEnd": "arrow",
+   "label": "best friend, smitten"
+  },
+  {
+   "id": "e9",
+   "fromNode": "n3",
+   "toNode": "n15",
+   "toEnd": "arrow",
+   "label": "accused"
+  },
+  {
+   "id": "e10",
+   "fromNode": "n4",
+   "toNode": "n16",
+   "toEnd": "arrow",
+   "label": "patron"
+  },
+  {
+   "id": "e11",
+   "fromNode": "n4",
+   "toNode": "n17",
+   "toEnd": "arrow",
+   "label": "Order of the Black Feathers"
+  },
+  {
+   "id": "e12",
+   "fromNode": "n5",
+   "toNode": "n18",
+   "toEnd": "arrow",
+   "label": "hunter from"
+  },
+  {
+   "id": "e13",
+   "fromNode": "n0",
+   "toNode": "n19",
+   "toEnd": "arrow",
+   "label": "cured S37"
+  },
+  {
+   "id": "e14",
+   "fromNode": "n1",
+   "toNode": "n19",
+   "toEnd": "arrow",
+   "label": "cured S37"
+  },
+  {
+   "id": "e15",
+   "fromNode": "n3",
+   "toNode": "n20",
+   "toEnd": "arrow",
+   "label": "competing for the Library"
+  }
+ ]
+}

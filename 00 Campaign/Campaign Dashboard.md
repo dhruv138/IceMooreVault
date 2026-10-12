@@ -15,6 +15,13 @@ tags:
 - [[Philip]]
 - [[Theo'din Corvis]]
 
+## Boards
+Canvas maps of the big threads. Yellow arrows are suspicions, not established facts.
+- [[Party Overview.canvas|Party Overview]]: each character and their personal threads
+- [[Skeletal Hand Web.canvas|Skeletal Hand Web]]: necromancy in the north and recruiting in Amberhold
+- [[Riffle Framed.canvas|Riffle Framed]]: the Daggins murder and Talir's stolen documents
+- [[Axeholm Trail.canvas|Axeholm Trail]]: every clue toward the lost city
+
 ## Where we left off
 *Live tables; need the Dataview plugin. Full set in [[Dataview Queries]].*
 
