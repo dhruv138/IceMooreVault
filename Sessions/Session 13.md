@@ -22,8 +22,10 @@ locations:
   - "[[The Warhammer]]"
 factions:
   - "[[Library of Deneir]]"
-quests: []
-items: []
+quests:
+  - "[[Southern Auction]]"
+items:
+  - "[[Music Box]]"
 tags:
   - session
   - actual-play

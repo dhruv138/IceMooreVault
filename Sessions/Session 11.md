@@ -13,6 +13,7 @@ party:
 npcs:
   - "[[Uthal]]"
   - "[[Ilkan]]"
+  - "[[Alkan]]"
 locations:
   - "[[Tryborne Pass]]"
 factions: []

@@ -11,10 +11,10 @@ party:
   - "[[Furgus]]"
   - "[[Deanira]]"
 npcs:
-  - "[[Talir Rengavi]]"
   - "[[Zeke]]"
   - "[[Ambria]]"
   - "[[Wolf]]"
+  - "[[Talir Rengavi]]"
 locations:
   - "[[Venburg]]"
 factions:

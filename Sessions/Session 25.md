@@ -11,16 +11,17 @@ party:
   - "[[Furgus]]"
   - "[[WISC]]"
 npcs:
+  - "[[Sherlock Gnomes]]"
+  - "[[Olga]]"
   - "[[Daddy Dildo Daggins]]"
   - "[[Hector]]"
   - "[[Gunther Rockhammer]]"
-  - "[[Sherlock Gnomes]]"
   - "[[Lord Ivan Deepshaft]]"
   - "[[Christolf Nightfall]]"
 locations:
+  - "[[Venburg]]"
   - "[[Axeholm]]"
   - "[[The Warhammer]]"
-  - "[[Venburg]]"
 factions: []
 quests: []
 items: []

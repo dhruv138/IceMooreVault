@@ -2,6 +2,7 @@
 title: "Hawk's Nest"
 type: location
 location_type: landmark
+first_seen: "[[Session 33]]"
 tags:
   - place
   - landmark

@@ -11,11 +11,11 @@ party:
   - "[[Deanira]]"
   - "[[Furgus]]"
 npcs:
+  - "[[Christolf Nightfall]]"
+  - "[[Corthos]]"
   - "[[Wolf]]"
   - "[[Ambria]]"
   - "[[Zeke]]"
-  - "[[Christolf Nightfall]]"
-  - "[[Corthos]]"
 locations:
   - "[[Amberhold]]"
   - "[[Venburg]]"
@@ -23,9 +23,9 @@ locations:
 factions: []
 quests: []
 items:
-  - "[[Tapestry of Feats]]"
   - "[[Dread Helm]]"
   - "[[Blade of the Ancestors]]"
+  - "[[Tapestry of Feats]]"
 tags:
   - session
   - actual-play

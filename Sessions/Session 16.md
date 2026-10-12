@@ -10,15 +10,17 @@ party:
   - "[[Riffle]]"
   - "[[WISC]]"
 npcs:
-  - "[[Elzock Emberstone]]"
   - "[[Christolf Nightfall]]"
+  - "[[Elzock Emberstone]]"
   - "[[Vistra]]"
+  - "[[Nastil]]"
 locations:
   - "[[The Forge]]"
   - "[[Kicking Ass]]"
   - "[[Amberhold]]"
 factions: []
-quests: []
+quests:
+  - "[[Miner's Death Lode]]"
 items: []
 tags:
   - session

@@ -13,17 +13,19 @@ party:
   - "[[WISC]]"
   - "[[Deanira]]"
 npcs:
+  - "[[Sabrina]]"
   - "[[Bianca Onyxcrest]]"
   - "[[Talir Rengavi]]"
   - "[[Jane Pedimore]]"
   - "[[Uthal]]"
+  - "[[Oma]]"
   - "[[Klaus]]"
-  - "[[Sabrina]]"
 locations:
+  - "[[Velvet Glove Brothel]]"
+  - "[[Heaven's Touch]]"
   - "[[Amberhold]]"
   - "[[Venburg]]"
   - "[[Western Point]]"
-  - "[[Velvet Glove Brothel]]"
   - "[[Axeholm]]"
 factions:
   - "[[Skeletal Hand]]"

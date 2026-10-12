@@ -14,11 +14,11 @@ npcs:
   - "[[Daddy Dildo Daggins]]"
   - "[[Gunther Rockhammer]]"
 locations:
+  - "[[Crystalline Glacier]]"
+  - "[[Wren Nalore]]"
   - "[[Baptism by Fire]]"
   - "[[Axeholm]]"
-  - "[[Crystalline Glacier]]"
   - "[[The Warhammer]]"
-  - "[[Wren Nalore]]"
 factions: []
 quests: []
 items: []

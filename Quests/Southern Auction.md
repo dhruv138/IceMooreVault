@@ -2,6 +2,7 @@
 title: "Southern Auction"
 type: quest
 status: upcoming
+first_seen: "[[Session 13]]"
 tags:
   - quest
   - upcoming

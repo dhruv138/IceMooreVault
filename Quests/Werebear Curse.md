@@ -2,6 +2,7 @@
 title: "Werebear Curse"
 type: quest
 status: resolved
+first_seen: "[[Session 34]]"
 tags:
   - quest
   - mystery

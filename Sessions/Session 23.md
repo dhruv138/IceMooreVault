@@ -11,19 +11,20 @@ party:
   - "[[Deanira]]"
   - "[[Furgus]]"
 npcs:
+  - "[[Hambrick Onyxcrest]]"
+  - "[[Talir Rengavi]]"
+  - "[[Hana Goldfirm]]"
   - "[[Tiny]]"
   - "[[The Bastard]]"
   - "[[Glasses]]"
   - "[[The Poet]]"
-  - "[[Hambrick Onyxcrest]]"
-  - "[[Talir Rengavi]]"
-  - "[[Hana Goldfirm]]"
 locations:
   - "[[Wren Nalore]]"
   - "[[Living Bloom]]"
   - "[[Truemetal Halls]]"
   - "[[Emerald Glade]]"
-factions: []
+factions:
+  - "[[The Bastard's Band]]"
 quests: []
 items:
   - "[[Staff of Ham]]"

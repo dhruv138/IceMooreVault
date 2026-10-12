@@ -1,6 +1,7 @@
 ---
 title: "Miner's Death Lode"
 type: mystery
+first_seen: "[[Session 16]]"
 tags:
   - mystery
   - lore

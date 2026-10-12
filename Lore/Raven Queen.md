@@ -1,7 +1,7 @@
 ---
 title: "Raven Queen"
 type: lore
-first_seen: "[[Session 37]]"
+first_seen: "[[Session 32]]"
 tags:
   - god
   - lore

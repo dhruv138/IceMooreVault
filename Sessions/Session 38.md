@@ -10,19 +10,19 @@ party:
   - "[[Theo'din Corvis]]"
 npcs:
   - "[[Daddy Dildo Daggins]]"
+  - "[[Peter Owens]]"
+  - "[[Talir Rengavi]]"
   - "[[Atheela]]"
   - "[[Sabrina]]"
   - "[[Andrew]]"
   - "[[Zelda]]"
-  - "[[Peter Owens]]"
-  - "[[Talir Rengavi]]"
   - "[[Karyn]]"
   - "[[Bianca Onyxcrest]]"
   - "[[Siobhan]]"
 locations:
+  - "[[Heaven's Touch]]"
   - "[[The Two Tits]]"
   - "[[Velvet Glove Brothel]]"
-  - "[[Heaven's Touch]]"
   - "[[Owens Family Mausoleum]]"
 factions:
   - "[[Union of Many]]"

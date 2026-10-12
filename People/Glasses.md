@@ -1,7 +1,7 @@
 ---
 title: "Glasses"
 type: npc
-first_seen: "[[Session 07]]"
+first_seen: "[[Session 23]]"
 tags:
   - person
   - npc

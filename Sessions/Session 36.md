@@ -13,12 +13,13 @@ party:
   - "[[Theo'din Corvis]]"
   - "[[WISC]]"
 npcs:
+  - "[[Cam Jergins]]"
+  - "[[Bianca Onyxcrest]]"
   - "[[Ester]]"
   - "[[Talir Rengavi]]"
   - "[[Evelyn Keep]]"
+  - "[[Alex]]"
   - "[[Peter Owens]]"
-  - "[[Cam Jergins]]"
-  - "[[Bianca Onyxcrest]]"
   - "[[Hana Goldfirm]]"
   - "[[Daddy Dildo Daggins]]"
 locations:
@@ -37,7 +38,8 @@ locations:
 factions:
   - "[[Skeletal Hand]]"
   - "[[Dragon League]]"
-quests: []
+quests:
+  - "[[Gauntlet]]"
 items:
   - "[[Sending Stones]]"
 tags:

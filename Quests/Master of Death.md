@@ -27,7 +27,7 @@ An unidentified male humanoid / human-Elf figure connected to the [[Skeletal Han
 - Clean shaven with slight sideburns.
 - Green eyes.
 - Appeared extremely annoyed when the party interfered with [[Christolf Nightfall]]'s plans.
-- Uses advanced magic including [[Sending]] and portals/rifts through reality.
+- Uses advanced magic including Sending and portals/rifts through reality.
 
 ### Known statement
 He appeared at an extraction rendezvous expecting Christolf and complained that the party had interfered. He then opened a rift and disappeared.

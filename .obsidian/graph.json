@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:Session -path:Resources  ",
+  "search": "-path:Session -path:Resources -path:\"AI Chats\"",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,

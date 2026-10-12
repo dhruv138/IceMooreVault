@@ -2,7 +2,7 @@
 title: "Cornhusk Dolls"
 type: item
 item_type: fae_object
-first_seen: "[[Session 17]]"
+first_seen: "[[Session 15]]"
 tags:
   - item
   - fae_object

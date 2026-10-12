@@ -19,13 +19,14 @@ npcs:
   - "[[Bianca Onyxcrest]]"
   - "[[The Bastard]]"
 locations:
+  - "[[Amberhold]]"
   - "[[Moaning Gorge]]"
   - "[[Venburg]]"
   - "[[Kriptin Forest]]"
   - "[[Emerald Glade]]"
-  - "[[Amberhold]]"
 factions: []
-quests: []
+quests:
+  - "[[Werebear Curse]]"
 items:
   - "[[Cornhusk Dolls]]"
 tags:

@@ -1,6 +1,7 @@
 ---
 title: "Lords of the Elements"
 type: mystery
+first_seen: "[[Session 24]]"
 tags:
   - mystery
   - lore

@@ -1,6 +1,7 @@
 ---
 title: "Abbathor"
 type: lore
+first_seen: "[[Session 04]]"
 tags:
   - god
   - lore

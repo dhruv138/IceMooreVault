@@ -16,9 +16,9 @@ locations:
 factions: []
 quests: []
 items:
-  - "[[Helm of the Summer Moon]]"
-  - "[[Immovable Rod]]"
   - "[[Staff of Ham]]"
+  - "[[Immovable Rod]]"
+  - "[[Helm of the Summer Moon]]"
 tags:
   - session
   - actual-play

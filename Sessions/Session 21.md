@@ -14,8 +14,8 @@ npcs:
   - "[[Agatha]]"
   - "[[Daddy Dildo Daggins]]"
 locations:
-  - "[[Axeholm]]"
   - "[[Zyuir]]"
+  - "[[Axeholm]]"
 factions:
   - "[[Dragon League]]"
 quests: []

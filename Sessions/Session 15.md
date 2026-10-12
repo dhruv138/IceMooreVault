@@ -11,6 +11,7 @@ party:
   - "[[WISC]]"
   - "[[Furgus]]"
 npcs:
+  - "[[Ea]]"
   - "[[Fizz]]"
   - "[[Ugly]]"
 locations:
@@ -22,6 +23,7 @@ locations:
 factions: []
 quests: []
 items:
+  - "[[Cornhusk Dolls]]"
   - "[[Dream Weed]]"
   - "[[Unbreakable Vial]]"
 tags:

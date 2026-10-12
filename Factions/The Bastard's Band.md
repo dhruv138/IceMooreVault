@@ -1,6 +1,7 @@
 ---
 title: "The Bastard's Band"
 type: faction
+first_seen: "[[Session 23]]"
 tags:
   - faction
   - organization

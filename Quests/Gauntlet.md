@@ -2,7 +2,7 @@
 title: "Gauntlet"
 type: quest
 status: upcoming
-first_seen: "[[Session 38]]"
+first_seen: "[[Session 18]]"
 tags:
   - quest
   - upcoming

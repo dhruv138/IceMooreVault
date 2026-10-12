@@ -10,18 +10,18 @@ party:
   - "[[Furgus]]"
   - "[[Deanira]]"
 npcs:
+  - "[[Lord Ivan Deepshaft]]"
   - "[[Wolf]]"
   - "[[Gunther Rockhammer]]"
   - "[[Earl Emberstone]]"
-  - "[[Lord Ivan Deepshaft]]"
   - "[[Elzock Emberstone]]"
 locations:
   - "[[The Shooting Star]]"
   - "[[Ring of Gold]]"
   - "[[Murderhorn]]"
 factions:
-  - "[[Iron Dwarves]]"
   - "[[Court]]"
+  - "[[Iron Dwarves]]"
 quests: []
 items:
   - "[[Reaper]]"

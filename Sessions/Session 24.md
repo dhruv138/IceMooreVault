@@ -16,6 +16,7 @@ npcs:
   - "[[Hana Goldfirm]]"
   - "[[Hector]]"
   - "[[Gunther Rockhammer]]"
+  - "[[Olga]]"
   - "[[Daddy Dildo Daggins]]"
 locations:
   - "[[The Warhammer]]"
@@ -24,7 +25,8 @@ locations:
 factions:
   - "[[Elementalist Syndicate]]"
   - "[[Fire Dwarves]]"
-quests: []
+quests:
+  - "[[Lords of the Elements]]"
 items: []
 tags:
   - session

@@ -11,16 +11,18 @@ party:
   - "[[Furgus]]"
   - "[[Deanira]]"
 npcs:
+  - "[[Oma]]"
   - "[[Daddy Dildo Daggins]]"
   - "[[Uthal]]"
   - "[[Klaus]]"
+  - "[[Bad]]"
   - "[[Annika]]"
   - "[[Queen]]"
 locations:
-  - "[[Truemetal Halls]]"
   - "[[Venburg]]"
-  - "[[Valley of Fire]]"
   - "[[Eisenberg]]"
+  - "[[Truemetal Halls]]"
+  - "[[Valley of Fire]]"
 factions: []
 quests: []
 items:
@@ -48,7 +50,7 @@ Eventually they all end up loading up the cart for the trip to [[Venburg]]. The 
 We come across a pond and try to fish. We roll terribly, but [[Uthal]] catches several bluegill fish. [[Deanira]] rolls a Nat20 on tripping [[Uthal]] and he faceplants into the pond. When [[Deanira]] flirts with [[Uthal]], they notice that he looks at [[Furgus]] longingly. We all decide to ship and conspire to get [[Uthal]] and [[Furgus]] together. [[Oma]] is in on the plan.
 Eventually the path opens up into a valley, referred to colloquially as the [[Valley of Fire]]. Partway down the slope is where [[Venburg]] is located.
 The meadow above is loaded with low bush blueberries. A local story is that long ago, a Druid worked their magic as aid to make the blueberries thrive and plentiful. The leaves turned from green to a vibrant orange, making the meadow look like it’s on fire. [[Venburg|Venberg]] looks like a ringed fort more than a town. It has palisade walls 15 ft high to protect both from wind and wild animals/raiders. Inside are 4 long houses that are communal living spaces for the winter, in addition to smaller outer buildings like smokehouses, blacksmiths, barns, butchers, etc. A single gate opens into the town. As we approach the gate, [[Deanira]] and [[Riffle]]
-Notice that there are names carved into the pillars of the gate. It’s covered in the names of everyone who has been born in [[Venburg]]. [[Furgus]] and [[WISC]] see a lot of new people that they don’t recognise, far more than normal. They are also in the process of adding on to the outer wall to make it larger and potentially add another longhouse. The town is bustling with preparations for winter. A Hill Dwarf named [[Claus]] is in his 27th year of being the elected [[Klaus]] of [[Venburg]] and he does a good job keeping things running. He seems very stressed, more so than any time before. We seek out [[Furgus]]’s family who are preparing the festival for next week. They are building the pit to roast the pig in.
+Notice that there are names carved into the pillars of the gate. It’s covered in the names of everyone who has been born in [[Venburg]]. [[Furgus]] and [[WISC]] see a lot of new people that they don’t recognise, far more than normal. They are also in the process of adding on to the outer wall to make it larger and potentially add another longhouse. The town is bustling with preparations for winter. A Hill Dwarf named [[Klaus|Claus]] is in his 27th year of being the elected [[Klaus]] of [[Venburg]] and he does a good job keeping things running. He seems very stressed, more so than any time before. We seek out [[Furgus]]’s family who are preparing the festival for next week. They are building the pit to roast the pig in.
 We meet [[Furgus]]’s parents, brother ([[Bad]]), sister in law ([[Annika]]), and his two baby nieces and nephews (James and Julia). [[Deanira]] meets a large Maine Coon type cat and picks it up, holding it awkwardly in the longcat pose. Her name is [[Queen]], the chief mouser, and she hisses. [[Deanira]] smiles proudly, holding her up, and then lets her go.
 [[Furgus]] asks his dad why there are so many new people here this year. He says that the new people are from [[Eisenberg]] and surrounding areas, as there is something going on in that region. [[WISC]] is playing with Julia while [[Deanira]] tries to get this one or two month old baby say “DaDa”. [[Furgus]] asks his mother why all these people are coming from [[Eisenberg]]. She said there’s an uprising or type of civil war within the city. She tells [[Furgus]] to ask the new people and then starts giving him grief for not settling down.
-We decide to leave the [[Staff of Ham]] with the family to supply them, and the supplies as payment from Deepshaft will be arriving soon. We go to talk to [[Claus]]. We tell him about the supplies due to arrive soon, and ask about the refugees. He is so happy about the supplies that he begins to yodel extensively and the scene fades to black.
+We decide to leave the [[Staff of Ham]] with the family to supply them, and the supplies as payment from Deepshaft will be arriving soon. We go to talk to [[Klaus|Claus]]. We tell him about the supplies due to arrive soon, and ask about the refugees. He is so happy about the supplies that he begins to yodel extensively and the scene fades to black.

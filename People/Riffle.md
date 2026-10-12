@@ -2,7 +2,7 @@
 title: "Riffle"
 type: pc
 party_member: true
-first_seen: "[[Session 10]]"
+first_seen: "[[Session 09]]"
 tags:
   - person
   - character

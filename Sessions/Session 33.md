@@ -15,6 +15,7 @@ party:
 npcs:
   - "[[Klaus]]"
 locations:
+  - "[[Hawk's Nest]]"
   - "[[Venburg]]"
   - "[[Wren Nalore]]"
   - "[[Amberhold]]"

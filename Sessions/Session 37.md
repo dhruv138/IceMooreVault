@@ -25,9 +25,9 @@ locations:
   - "[[The Two Tits]]"
   - "[[Heaven's Touch]]"
 factions:
+  - "[[Skeletal Hand]]"
   - "[[Mistra's Academy]]"
   - "[[Sect of Torm]]"
-  - "[[Skeletal Hand]]"
   - "[[Raven Queen's servants]]"
   - "[[Library of Deneir]]"
 quests:

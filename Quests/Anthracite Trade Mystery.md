@@ -2,6 +2,7 @@
 title: "Anthracite Trade Mystery"
 type: quest
 status: active
+first_seen: "[[Session 10]]"
 tags:
   - quest
   - mystery

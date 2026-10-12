@@ -13,8 +13,8 @@ npcs:
   - "[[Hilda]]"
   - "[[Elzock Emberstone]]"
 locations:
-  - "[[Truemetal Halls]]"
   - "[[Black Dragon Inn]]"
+  - "[[Truemetal Halls]]"
   - "[[Lakeshire]]"
 factions: []
 quests: []

@@ -10,9 +10,9 @@ party:
   - "[[Furgus]]"
   - "[[Deanira]]"
 npcs:
+  - "[[Wetel]]"
   - "[[Gunther Rockhammer]]"
   - "[[Daddy Dildo Daggins]]"
-  - "[[Wetel]]"
 locations:
   - "[[The Warhammer]]"
   - "[[Kohlemine]]"
@@ -27,6 +27,7 @@ factions:
   - "[[Cult of the Destroyer]]"
 quests: []
 items:
+  - "[[Silver Pie Cutter]]"
   - "[[Cornhusk Dolls]]"
   - "[[Staff of Ham]]"
 tags:
