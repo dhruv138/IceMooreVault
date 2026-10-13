@@ -50,8 +50,7 @@ These power the tables in [[Dataview Queries]] and the live sections of the [[Ca
 Appearance counts and "last seen" aren't stored. Dataview works them out from which sessions link to a note, so **linking names in a new session note is all it takes** to keep those tables current.
 
 ### Adding a new session
-1. Name it `Session NN.md` (two digits).
-2. Add the frontmatter fields above and a `> [!summary] TL;DR` callout under the heading.
-3. Link people, places, factions, quests and items with `[[ ]]`.
-4. Run `python3 scripts/update_session_history.py` from the vault folder. It refreshes the collapsed **Session history** box at the bottom of every note. Only the text between its `%% session-history %%` markers is rewritten, so your own edits elsewhere are safe.
-5. Run `python3 scripts/build_dashboard.py` to rebuild `dashboard/Icemoor Dashboard.html`, the standalone campaign dashboard (latest recap, open threads, who appears in which session, session log and directory). It opens in any browser; it doesn't need Obsidian.
+Step-by-step instructions, written for non-technical users, are in `scripts/README.md`. In short:
+1. Paste the session into a new note in `Sessions/`, with the session number and date on the first lines.
+2. Link people, places, factions, quests and items with `[[ ]]`.
+3. Double-click **Update Vault (Mac).command** or **Update Vault (Windows).bat** in the `scripts` folder, or run `python3 scripts/update_all.py`. This sets up the new note, refreshes every note's metadata and **Session history** box, and rebuilds `dashboard/Icemoor Dashboard.html`.

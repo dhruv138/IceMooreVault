@@ -1,0 +1,9 @@
+# Python packages needed by the vault scripts.
+#
+# There are none right now: every script uses only the standard library that comes with
+# Python 3.8 or newer. This file is here so the usual install command works and so any
+# package added later has one obvious place to go:
+#
+#     python3 -m pip install -r scripts/requirements.txt
+#
+# (On Windows: py -m pip install -r scripts\requirements.txt)

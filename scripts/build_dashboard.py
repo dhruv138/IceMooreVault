@@ -98,7 +98,7 @@ def main():
             "name": sp.stem,
             "date": fm.get("date") or "",
             "dateNote": fm.get("date_note") or "",
-            "tldr": marked(tl.group(1)) if tl else "",
+            "tldr": marked(tl.group(1)) if tl else marked(" ".join(sentences(body_of(t))[:2]))[:360],
             "where": [link_name(x) for x in fm.get("locations", []) if link_name(x)],
         })
 
