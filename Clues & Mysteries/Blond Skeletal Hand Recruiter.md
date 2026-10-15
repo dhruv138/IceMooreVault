@@ -2,6 +2,7 @@
 title: "Blond Skeletal Hand Recruiter"
 type: mystery
 status: unresolved
+first_seen: "[[Session 39]]"
 tags:
   - mystery
   - lore
@@ -29,3 +30,14 @@ A blond young man who appears to recruit for the [[Skeletal Hand]] in [[Amberhol
 - [[Riffle]] is considering ordering the drinks again after several days to see whether they are approached.
 
 **Status:** unresolved.
+
+## Recent developments
+- [[Session 39]]: The acolyte captured under the Owens mausoleum had dark hair, so he is not the recruiter.
+- [[Session 39]]: [[Angela]], the Velvet Glove worker "Andrew" had been seeing, has vanished, leaving all her things.
+
+%% session-history:start %%
+## Session history
+
+> [!info]- 1 session · [[Session 39]]
+> - [[Session 39]]: Furgus shoots him in the shoulder and his hood falls back: it's a young man with dark hair and a Skeletal Hand tattoo on his wrist, NOT the blond guy.
+%% session-history:end %%

@@ -40,3 +40,4 @@ tags:
 - [[Temple of Mistra]]
 - [[Temple of the Raven Queen]]
 - [[Owens Family Mausoleum]]
+- [[Storeroom B]]

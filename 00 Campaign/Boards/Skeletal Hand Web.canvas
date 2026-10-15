@@ -7,7 +7,7 @@
    "x": 380,
    "y": -40,
    "width": 800,
-   "height": 1000,
+   "height": 1280,
    "color": "3"
   },
   {
@@ -176,6 +176,43 @@
    "y": 0,
    "width": 300,
    "height": 110
+  },
+  {
+   "id": "n17",
+   "type": "file",
+   "file": "Clues & Mysteries/Man in the Grey Mask.md",
+   "x": 0,
+   "y": -300,
+   "width": 300,
+   "height": 170,
+   "color": "1"
+  },
+  {
+   "id": "n18",
+   "type": "file",
+   "file": "People/Skeletal Hand Acolyte.md",
+   "x": 0,
+   "y": 1040,
+   "width": 300,
+   "height": 170
+  },
+  {
+   "id": "n19",
+   "type": "file",
+   "file": "Quests/Missing Sanitation Workers.md",
+   "x": 420,
+   "y": 1040,
+   "width": 300,
+   "height": 170
+  },
+  {
+   "id": "n20",
+   "type": "file",
+   "file": "Quests/Academy Gala.md",
+   "x": 420,
+   "y": -300,
+   "width": 300,
+   "height": 170
   }
  ],
  "edges": [
@@ -305,6 +342,50 @@
    "toNode": "n14",
    "toEnd": "arrow",
    "label": "grad student, on leave"
+  },
+  {
+   "id": "e18",
+   "fromNode": "n17",
+   "toNode": "n1",
+   "toEnd": "arrow",
+   "label": "captives were taken to him"
+  },
+  {
+   "id": "e19",
+   "fromNode": "n17",
+   "toNode": "n0",
+   "toEnd": "arrow",
+   "label": "same person?",
+   "color": "3"
+  },
+  {
+   "id": "e20",
+   "fromNode": "n17",
+   "toNode": "n20",
+   "toEnd": "arrow",
+   "label": "\"the night of the stone\"?",
+   "color": "3"
+  },
+  {
+   "id": "e21",
+   "fromNode": "n18",
+   "toNode": "n1",
+   "toEnd": "arrow",
+   "label": "member, captured S39"
+  },
+  {
+   "id": "e22",
+   "fromNode": "n18",
+   "toNode": "n19",
+   "toEnd": "arrow",
+   "label": "held them, raised ghouls"
+  },
+  {
+   "id": "e23",
+   "fromNode": "n13",
+   "toNode": "n19",
+   "toEnd": "arrow",
+   "label": "hidden stair to their prison"
   }
  ]
 }

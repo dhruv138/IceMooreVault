@@ -15,6 +15,7 @@ Inn in the [[Mine District]] of [[Amberhold]], lit only by three candles, hence 
 %% session-history:start %%
 ## Session history
 
-> [!info]- 1 session · [[Session 36]]
+> [!info]- 2 sessions · first [[Session 36]] · last [[Session 39]]
 > - [[Session 36]]: Due to the Festival, the city is inundated with people and we all will be staying at different locations: Deanira: The Two Tits (Western side of market square) Furgus and Philip: Cock and Pig (Merchant District close to…
+> - [[Session 39]]: On the way back to The Three Candles, WISC and Theo pass a wine shop where four men in white tabards are smashing bottles.
 %% session-history:end %%

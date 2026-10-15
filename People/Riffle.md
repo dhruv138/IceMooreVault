@@ -43,11 +43,13 @@ Riffle is highly inquisitive, prone to theft and mischief, and has accumulated a
 - [[Session 38]]: Upset with Theo for getting the party thrown out of [[Heaven's Touch]].
 - [[Session 38]]: Helped [[Karyn]] and glimpsed details of the [[Gauntlet]].
 - [[Session 38]]: Accused by Talir, via Sending, of stealing documents from his safe. See [[Talir's Stolen Documents]].
+- [[Session 39]]: Cleared of the theft from Talir's safe, with [[Karyn]] as alibi. Showed Talir the [[Red Robes Ledger Page]] and confirmed a robe is missing from [[Storeroom B]].
+- [[Session 39]]: [[Sabrina]] sent word that [[Angela]] has disappeared.
 
 %% session-history:start %%
 ## Session history
 
-> [!info]- 29 sessions · first [[Session 10]] · last [[Session 38]]
+> [!info]- 30 sessions · first [[Session 10]] · last [[Session 39]]
 > - [[Session 10]]: Anita: Riffle Taylor: WISC Dhruv: Furgus As we walk into The Warhammer, Gunther Rockhammer waves us over.
 > - [[Session 11]]: Riffle sends their familiar to scout and get a lay of the land. 3 big guys, 3 archers, 1 sleeping Druid, and 1 leader. 4 tents are also there and perhaps occupied.
 > - [[Session 12]]: Riffle ends up killing him.
@@ -77,4 +79,5 @@ Riffle is highly inquisitive, prone to theft and mischief, and has accumulated a
 > - [[Session 36]]: We all buy Sending Stones and then follow Riffle to the Library.
 > - [[Session 37]]: She gets a mixed berry turnover on her way to the temple to see the Cleric that riffle screamed about in the middle of the night.
 > - [[Session 38]]: After shopping, Riffle wants to go speak to Sabrina, the bartender at the Velvet Glove.
+> - [[Session 39]]: Standing in the rain outside the mausoleum, Riffle sends a message back to Talir: "Was not me.
 %% session-history:end %%

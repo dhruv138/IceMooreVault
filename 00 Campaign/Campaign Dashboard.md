@@ -52,7 +52,7 @@ SORT reverse(sort(filter(file.inlinks, (l) => startswith(meta(l).path, "Sessions
 | Axeholm | unresolved | [[Axeholm]], [[Zyuir]], [[Daggins's Journal]], [[Axeholm Map]] |
 | Skeletal Hand / Master of Death | unresolved | [[Skeletal Hand]], [[Master of Death]], [[Christolf Nightfall]], [[Blond Skeletal Hand Recruiter]] |
 | Daggins murder | unresolved | [[Daddy Dildo Daggins]], [[Daggins Murder]], [[Union of Many]] |
-| Riffle framed again | unresolved | [[Talir's Stolen Documents]], [[Siobhan]], [[Talir Rengavi]] |
+| Riffle framed again | unresolved (Riffle cleared S39) | [[Talir's Stolen Documents]], [[Missing Red Robe]], [[Siobhan]], [[Talir Rengavi]] |
 | Necromancy in the North | unresolved | [[Skeletal Hand]], [[Christolf Nightfall]], [[Axeholm]] |
 | Golden-eyed bugbear | unresolved | [[WISC]], [[Golden-Eyed Bugbear Mystery]], [[Jane Pedimore]] |
 | Were-bear curse | resolved | [[Werebear Curse]], [[Bianca Onyxcrest]], [[Samuel Patel]] |
@@ -60,9 +60,11 @@ SORT reverse(sort(filter(file.inlinks, (l) => startswith(meta(l).path, "Sessions
 | Anthracite / Mithril supply | unresolved | [[Black Hand Dwarves]], [[Kohlemine]], [[Anthracite Trade Mystery]] |
 | Floating island / Val | unresolved | [[Deanira]], [[Val]], [[Floating Island Mystery]] |
 | Owens family deaths | unresolved | [[Owens Family Deaths]], [[Peter Owens]], [[Owens Family Mausoleum]] |
+| Man in the grey mask | unresolved | [[Man in the Grey Mask]], [[Hollis]], [[Academy Gala]] |
+| Angela's disappearance | unresolved | [[Angela]], [[Andrew]], [[Velvet Glove Brothel]] |
 | Heaven's Touch enchantment | unresolved | [[Heaven's Touch Enchantment]], [[Heaven's Touch]], [[Zelda]] |
 | Gala & Gauntlet | upcoming | [[Academy Gala]], [[Gauntlet]], [[Mistra's Academy]] |
-| Missing sanitation workers | active | [[Missing Sanitation Workers]] |
+| Missing sanitation workers | partially resolved (Hollis still missing) | [[Missing Sanitation Workers]], [[Hollis]], [[Skeletal Hand Acolyte]] |
 
 ## Key organizations
 - [[Library of Deneir]]

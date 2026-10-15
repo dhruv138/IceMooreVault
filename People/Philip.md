@@ -16,12 +16,16 @@ Hunter from [[Venburg]], helped to bring food for the village, first to be attac
 
 Philip appears in later campaign notes as part of the adventuring party, including the journey to [[Amberhold]] and the [[Gauntlet]] preparations. Earlier notes do not establish a detailed biography.
 
+## Recent developments
+- [[Session 39]]: Spotted the [[Man in the Grey Mask]] on the graveyard wall. Heard [[Bertram]]'s vanishing-island story at the Cock and Pig. A cornhusk doll of him appeared.
+
 %% session-history:start %%
 ## Session history
 
-> [!info]- 4 sessions · first [[Session 33]] · last [[Session 36]]
+> [!info]- 5 sessions · first [[Session 33]] · last [[Session 39]]
 > - [[Session 33]]: One of the hunters, Philip, collapses from exhaustion.
 > - [[Session 34]]: We get back to Venburg and check on Hanz and Philip and speak with Klaus about them doomed to transform into were-bears.
 > - [[Session 35]]: Philip is coming to Amberhold with us.
 > - [[Session 36]]: Due to the Festival, the city is inundated with people and we all will be staying at different locations: Deanira: The Two Tits (Western side of market square) Furgus and Philip: Cock and Pig (Merchant District close to…
+> - [[Session 39]]: On the way out Philip spots someone watching us from the graveyard wall, a tall cloaked figure in a grey mask.
 %% session-history:end %%

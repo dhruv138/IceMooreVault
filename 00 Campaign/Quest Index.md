@@ -24,6 +24,6 @@ tags:
 - [[Anthracite Trade Mystery]] — **active**
 - [[Werebear Curse]] — **resolved**
 - [[Floating Island Mystery]] — **active**
-- [[Missing Sanitation Workers]] — **active**
+- [[Missing Sanitation Workers]] — **partially resolved**
 - [[Academy Gala]] — **upcoming**
 - [[Gauntlet]] — **upcoming**

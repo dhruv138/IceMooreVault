@@ -19,6 +19,7 @@ Religious network opposing necromancy. [[Theo'din Corvis]] serves the Raven Quee
 %% session-history:start %%
 ## Session history
 
-> [!info]- 1 session · [[Session 37]]
+> [!info]- 2 sessions · first [[Session 37]] · last [[Session 39]]
 > - [[Session 37]]: He remembers the tenets of the order of Black Feathers.
+> - [[Session 39]]: Theo feels a cold prickle along his arms, the kind the Raven Queen's servants are taught to recognise.
 %% session-history:end %%

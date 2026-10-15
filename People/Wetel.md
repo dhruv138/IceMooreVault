@@ -16,6 +16,7 @@ Pixie who gave [[Deanira]] a bag for generating more [[Cornhusk Dolls]] as a pra
 %% session-history:start %%
 ## Session history
 
-> [!info]- 1 session · [[Session 17]]
+> [!info]- 2 sessions · first [[Session 17]] · last [[Session 39]]
 > - [[Session 17]]: She meets a Pixie who introduces himself as Wetel.
+> - [[Session 39]]: Find out who took the missing red robe - Tell Bianca about the stolen warding plans before the Gala - Find Angela - Deanira: plan for the Dunnings auction - Ask Wetel why Philip has a doll now
 %% session-history:end %%

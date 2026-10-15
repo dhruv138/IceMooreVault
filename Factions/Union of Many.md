@@ -26,9 +26,13 @@ Religious order whose members follow many deities of fertility and love, includi
 - [[Session 37]]: [[Deanira]] noticed people with a staff and phallic pins pairing off into the inn's basement and suspected a link to Daggins.
 - [[Session 38]]: Deanira met them, confirmed Daggins was a member, and showed Atheela the silver dildo Daggins entrusted to her.
 
+## Recent developments
+- [[Session 39]]: [[Atheela]] told Deanira about a fertility statue from the old Dragon League continent coming up at the [[Dunnings Auction House]].
+
 %% session-history:start %%
 ## Session history
 
-> [!info]- 1 session · [[Session 38]]
+> [!info]- 2 sessions · first [[Session 38]] · last [[Session 39]]
 > - [[Session 38]]: She explains that their order is called The union of Many.
+> - [[Session 39]]: Atheela says the Union of Many has heard that a fertility statue from the old Dragon League continent is going to be sold at the Dunnings auction in Western Point.
 %% session-history:end %%

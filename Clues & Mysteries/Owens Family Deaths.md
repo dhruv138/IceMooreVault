@@ -2,6 +2,7 @@
 title: "Owens Family Deaths"
 type: mystery
 status: unresolved
+first_seen: "[[Session 39]]"
 tags:
   - mystery
   - lore
@@ -21,3 +22,14 @@ Lord Richard Owens, a wealthy [[Amberhold]] merchant, and his wife recently died
 - A cloaked, hooded figure entered the mausoleum and vanished as the party arrived.
 
 **Status:** unresolved.
+
+## Recent developments
+- [[Session 39]]: The two new coffins in the family mausoleum are Lord Richard Owens and Lady Margaret Owens, with fresh white lilies on both. Theo sensed recent necromancy in the mausoleum, but both bodies are untouched.
+- [[Session 39]]: A hidden stair under great-grandfather Bartholomew Owens's coffin leads to old tunnels where the [[Missing Sanitation Workers]] were held. Who uses the family crypt this way, and whether the family knows, is unknown.
+
+%% session-history:start %%
+## Session history
+
+> [!info]- 1 session · [[Session 39]]
+> - [[Session 39]]: The mausoleum belongs to the Owens family.
+%% session-history:end %%

@@ -19,7 +19,8 @@ Theo's personal history involves a bargain his mother made with the Raven Queen 
 %% session-history:start %%
 ## Session history
 
-> [!info]- 2 sessions · first [[Session 32]] · last [[Session 37]]
+> [!info]- 3 sessions · first [[Session 32]] · last [[Session 39]]
 > - [[Session 32]]: Theo'din Corvis’din reveals that his patron is the Raven Queen, who is very anti-necromancy.
 > - [[Session 37]]: They suggest that he reach out to the Raven Queen and ask her himself (through prayer).
+> - [[Session 39]]: Theo calls on the Raven Queen and both ghouls crumble to ash.
 %% session-history:end %%

@@ -2,6 +2,7 @@
 title: "Mystery Stone"
 type: item
 item_type: artifact
+first_seen: "[[Session 39]]"
 tags:
   - item
   - artifact
@@ -15,3 +16,11 @@ A smooth black river stone initially small enough to carry. [[Hambrick Onyxcrest
 - [[Session 36]]–38: The stone will be showcased at the [[Academy Gala]].
 
 See also: [[Mystery Stone Investigation]]
+- [[Session 39]]: The warding plans for its Gala display vault were stolen from [[Talir Rengavi]]'s safe.
+
+%% session-history:start %%
+## Session history
+
+> [!info]- 1 session · [[Session 39]]
+> - [[Session 39]]: He finally tells us what was stolen: the plans for the warding glyphs on the display vault where the stone will be shown at the Gala.
+%% session-history:end %%

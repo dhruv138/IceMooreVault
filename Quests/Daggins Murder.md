@@ -33,3 +33,4 @@ The party determined:
 - [[Session 37]]: [[Ester]] dates the change from red to purple robes to **50–60 years ago**, not about 20 years as recorded above. The source notes conflict, so both are kept. She also says some people may have kept their old robes, so the red-robed figure need not be Library staff.
 - [[Session 38]]: Daggins was "Brother Daggins" of the [[Union of Many]].
 - [[Session 38]]: Riffle is again accused of a theft on the word of a witness. See [[Talir's Stolen Documents]].
+- [[Session 39]]: One of the 12 old red robes is missing from the Library's [[Storeroom B]], and a [[Skeletal Hand]] acolyte carried the ledger page listing them. See [[Missing Red Robe]].

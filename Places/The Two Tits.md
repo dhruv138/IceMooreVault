@@ -19,8 +19,9 @@ Inn on the western side of the market square in [[Amberhold]].
 %% session-history:start %%
 ## Session history
 
-> [!info]- 3 sessions · first [[Session 36]] · last [[Session 38]]
+> [!info]- 4 sessions · first [[Session 36]] · last [[Session 39]]
 > - [[Session 36]]: Due to the Festival, the city is inundated with people and we all will be staying at different locations: Deanira: The Two Tits (Western side of market square) Furgus and Philip: Cock and Pig (Merchant District close to…
 > - [[Session 37]]: Deanira returns to the The Two Tits Inn for dinner and finds it particularly busy.
 > - [[Session 38]]: She says that they come to the Two Tits about once a week to "worship".
+> - [[Session 39]]: Meanwhile, Deanira goes back to the Two Tits to see Atheela.
 %% session-history:end %%
