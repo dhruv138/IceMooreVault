@@ -32,6 +32,10 @@ aliases:
 ---
 # Session 9 — 17 July 2025 Anita: Riﬄe
 
+%% card:start %%
+**Session:** 9 · Played 17 July 2025 (real-world date of the game night, not an in-world date) · **Previous:** [[Session 08]] · **Next:** [[Session 10]]
+%% card:end %%
+
 > [!summary] TL;DR
 > [[Riffle]] joins after pickpocketing and copying the journal. The party meets [[Daddy Dildo Daggins]], who tells them the legend of Axeholm and agrees to crack the cipher. Deanira keeps his silver dildo as collateral.
 

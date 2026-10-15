@@ -9,6 +9,12 @@ tags:
 ---
 # Cult of the Destroyer
 
+%% card:start %%
+**Type:** Faction · **First seen:** [[Session 17]]
+%% card:end %%
+
+## Summary
+
 Historical cult that rose under [[Cidis]], accumulated wealth through taxation and mining, and used slaves. Their operations around the [[Miner's Death Lode]] were abandoned because the poison killed too many workers.
 
 %% session-history:start %%

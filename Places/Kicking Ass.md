@@ -10,6 +10,12 @@ tags:
 ---
 # Kicking Ass
 
+%% card:start %%
+**Type:** Place (pub) · **First seen:** [[Session 16]]
+%% card:end %%
+
+## Summary
+
 Pub in the miners' area of [[Truemetal Halls]]. [[Elzock Emberstone]] mentioned he'd been frequenting it ([[Session 16]]).
 
 %% session-history:start %%

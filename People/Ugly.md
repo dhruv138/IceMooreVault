@@ -11,6 +11,12 @@ aliases:
 ---
 # Ugly
 
+%% card:start %%
+**Type:** Non-player character · **First seen:** [[Session 15]]
+%% card:end %%
+
+## Summary
+
 Large half-giant/ogre-like companion of [[Fizz]] and proprietor of the travelling interdimensional shop.
 
 %% session-history:start %%

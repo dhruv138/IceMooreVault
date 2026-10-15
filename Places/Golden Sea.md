@@ -10,6 +10,12 @@ tags:
 ---
 # Golden Sea
 
+%% card:start %%
+**Type:** Place (sea) · **First seen:** [[Session 18]]
+%% card:end %%
+
+## Summary
+
 Sea route near [[Wren Nalore]] used by caravans and travelers.
 
 %% session-history:start %%

@@ -36,6 +36,10 @@ aliases:
 ---
 # Session 29 — 15 April 2026
 
+%% card:start %%
+**Session:** 29 · Played 15 April 2026 (real-world date of the game night, not an in-world date) · **Previous:** [[Session 28]] · **Next:** [[Session 30]]
+%% card:end %%
+
 > [!summary] TL;DR
 > Freed prisoners describe an "extraction point" and "work below". In the honey-entombed chamber, the party kills [[Christolf Nightfall]] and the reanimated Goliath hero [[Corthos]], gaining the [[Dread Helm]] and [[Blade of the Ancestors]].
 

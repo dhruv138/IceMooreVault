@@ -34,6 +34,10 @@ aliases:
 ---
 # Session 33 — 20 July 2026
 
+%% card:start %%
+**Session:** 33 · Played 20 July 2026 (real-world date of the game night, not an in-world date) · **Previous:** [[Session 32]] · **Next:** [[Session 34]]
+%% card:end %%
+
 > [!summary] TL;DR
 > Hunters return from a bear attack near [[Hawk's Nest]]. The party kills three Stone Giant were-bears and loots the [[Javelin of Lightning]] and the [[Pipes of the Sewers]].
 

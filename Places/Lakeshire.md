@@ -10,6 +10,12 @@ tags:
 ---
 # Lakeshire
 
+%% card:start %%
+**Type:** Place (town) · **First seen:** [[Session 06]]
+%% card:end %%
+
+## Summary
+
 Hometown of [[Oswald]] and destination for the message to [[Mary Salter]].
 
 %% session-history:start %%

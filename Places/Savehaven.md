@@ -12,6 +12,12 @@ aliases:
 ---
 # Savehaven
 
+%% card:start %%
+**Type:** Place (port) · **Also called:** Safehaven · **First seen:** [[Session 36]]
+%% card:end %%
+
+## Summary
+
 Port mentioned by sailors in [[Amberhold]].
 
 Also written **Safehaven** in [[Session 36]], where sailors say an anchor tattoo means they've been to Safehaven or [[Evermeet]]. The notes treat this as possibly the same port; it isn't confirmed.

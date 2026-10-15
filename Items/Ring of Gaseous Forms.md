@@ -10,6 +10,12 @@ tags:
 ---
 # Ring of Gaseous Forms
 
+%% card:start %%
+**Type:** Item (ring) · **First seen:** [[Session 21]]
+%% card:end %%
+
+## Summary
+
 Ring engraved with animals and imbued with transmutation magic; found in the Dragon League vault.
 
 %% session-history:start %%

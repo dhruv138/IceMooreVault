@@ -10,6 +10,10 @@ tags:
 ---
 # Southern Auction
 
-**Status:** upcoming
+%% card:start %%
+**Type:** Quest · **Status:** upcoming · **First seen:** [[Session 13]]
+%% card:end %%
+
+## Summary
 
 Travel to [[Western Point]] for the [[Dunnings Auction House]] auction, especially the [[Quill of Deneir]].

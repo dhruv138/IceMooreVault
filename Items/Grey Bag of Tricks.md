@@ -10,6 +10,12 @@ tags:
 ---
 # Grey Bag of Tricks
 
+%% card:start %%
+**Type:** Item (wondrous item) · **First seen:** [[Session 10]]
+%% card:end %%
+
+## Summary
+
 Produces animals including giant badgers, giant rats, boars, and repeatedly a giant elk. The elk repeatedly became a source of chaotic accidents.
 
 %% session-history:start %%

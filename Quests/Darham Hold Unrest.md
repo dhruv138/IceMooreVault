@@ -9,6 +9,10 @@ tags:
 ---
 # Darham Hold Unrest
 
-**Status:** unresolved
+%% card:start %%
+**Type:** Quest · **Status:** unresolved
+%% card:end %%
+
+## Summary
 
 Understand why [[Darham Hold]] militarized, why the Eisenberg authorities lost legitimacy, and whether this connects to the wider necromantic disturbances.

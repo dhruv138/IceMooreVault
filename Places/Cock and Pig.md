@@ -10,6 +10,12 @@ tags:
 ---
 # Cock and Pig
 
+%% card:start %%
+**Type:** Place (inn) · **First seen:** [[Session 36]]
+%% card:end %%
+
+## Summary
+
 Busy sailor inn in the Merchant District of [[Amberhold]].
 
 %% session-history:start %%

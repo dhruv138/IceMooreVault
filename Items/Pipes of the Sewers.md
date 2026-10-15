@@ -10,6 +10,12 @@ tags:
 ---
 # Pipes of the Sewers
 
+%% card:start %%
+**Type:** Item (wondrous item) · **First seen:** [[Session 33]]
+%% card:end %%
+
+## Summary
+
 Magical pipes that attracted rats when played.
 
 %% session-history:start %%

@@ -10,6 +10,12 @@ tags:
 ---
 # Unbreakable Vial
 
+%% card:start %%
+**Type:** Item (wondrous item) · **First seen:** [[Session 15]]
+%% card:end %%
+
+## Summary
+
 Small glass vial demonstrated to be extremely resistant to damage. Used to contain the ashes of a [[Flame Skull]].
 
 %% session-history:start %%

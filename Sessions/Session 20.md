@@ -27,6 +27,10 @@ aliases:
 ---
 # Session 20 — 22 November 2025
 
+%% card:start %%
+**Session:** 20 · Played 22 November 2025 (real-world date of the game night, not an in-world date) · **Previous:** [[Session 19]] · **Next:** [[Session 21]]
+%% card:end %%
+
 > [!summary] TL;DR
 > Inside the sunken fortress they fight a flame skull and bottle its ashes. They find Dragon Cult blackmail documents and a map of Axeholm. WISC's fish stick stand plans are revealed.
 

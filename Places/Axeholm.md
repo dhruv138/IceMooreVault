@@ -10,7 +10,23 @@ tags:
 ---
 # Axeholm
 
+%% card:start %%
+**Type:** Place (lost city) · **First seen:** [[Session 05]]
+%% card:end %%
+
+## Summary
+
 Ancient Dwarven city lost beneath the glacier. Once wealthy from gold and jewels. A supernatural greed event preceded the city's sealing and disappearance. The party has several maps, journal fragments, and clues but has not yet reached it.
+
+%% connections:start %%
+## Connections
+
+- [[Mystery of Axeholm]] —goal→ [[Axeholm]]
+- [[Zyuir]] —Drow outpost: the key→ [[Axeholm]]
+- [[Crystalline Glacier]] —rumoured landmark→ [[Axeholm]]
+- [[Coal Caster River]] —city lay along it→ [[Axeholm]]
+- [[Axeholm Map]] —inside the mountain→ [[Axeholm]]
+%% connections:end %%
 
 %% session-history:start %%
 ## Session history
@@ -23,7 +39,7 @@ Ancient Dwarven city lost beneath the glacier. Once wealthy from gold and jewels
 > - [[Session 20]]: We also find a map of Axeholm itself.
 > - [[Session 21]]: We find a map case (unopened, necromantic magic) and a map of Axeholm.
 > - [[Session 25]]: All of his research and material on Axeholm is gone.
-> - [[Session 32]]: Theo'din Corvis’din heard that someone had a prophecy of the ancient city of Axeholm and the undead horrors within.
+> - [[Session 32]]: Theo’din heard that someone had a prophecy of the ancient city of Axeholm and the undead horrors within.
 > - [[Session 35]]: Riffle’S RULES FOR CITY ETIQUETTE •	Be suspicious of people who “know you” but you don’t know them •	Don’t scream about Axeholm or necromancy or “Master of Death” or “Skeletal Hand”
 > - [[Session 36]]: Bianca Onyxcrest mentions that Talir Rengavi said that Riffle is looking for Axeholm and she asks how it’s going.
 %% session-history:end %%

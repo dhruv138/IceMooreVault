@@ -40,6 +40,10 @@ aliases:
 ---
 # Session 17 — 16 October 2025
 
+%% card:start %%
+**Session:** 17 · Played 16 October 2025 (real-world date of the game night, not an in-world date) · **Previous:** [[Session 16]] · **Next:** [[Session 18]]
+%% card:end %%
+
 > [!summary] TL;DR
 > The party confirms the anthracite price spike and receives a journal transcription about a survivor of undead-haunted Axeholm. The pixie [[Wetel]] recruits Deanira into his doll pranks. Darham Hold is under new rule, and they rescue a goblin baby from a burned village.
 

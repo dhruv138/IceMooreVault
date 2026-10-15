@@ -39,6 +39,10 @@ aliases:
 ---
 # Session 34 — 27 July 2026
 
+%% card:start %%
+**Session:** 34 · Played 27 July 2026 (real-world date of the game night, not an in-world date) · **Previous:** [[Session 33]] · **Next:** [[Session 35]]
+%% card:end %%
+
 > [!summary] TL;DR
 > Speak with Dead explains lycanthropy and its full-moon deadline. WISC and Furgus's bites won't heal, so the [[Werebear Curse]] clock starts. Theo gets his first cornhusk doll, and the party plans a cure via [[Amberhold]].
 

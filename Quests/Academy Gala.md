@@ -13,7 +13,11 @@ aliases:
 ---
 # Academy Gala
 
-**Status:** upcoming
+%% card:start %%
+**Type:** Quest · **Status:** upcoming · **Also called:** Gala, The Gala · **First seen:** [[Session 37]]
+%% card:end %%
+
+## Summary
 
 Gala at [[Mistra's Academy]] to show off the stone from the belly of the ram (the [[Mystery Stone]]) and to kick off the [[Gauntlet]]. It is drawing many alumni donations and much scholarly interest. The party has been asked to represent both the Academy and the [[Library of Deneir]].
 

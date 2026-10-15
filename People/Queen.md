@@ -11,6 +11,12 @@ aliases:
 ---
 # Queen
 
+%% card:start %%
+**Type:** Non-player character · **Also called:** Queen the mouser · **First seen:** [[Session 31]]
+%% card:end %%
+
+## Summary
+
 Large Maine Coon-type cat and chief mouser in [[Venburg]].
 
 %% session-history:start %%

@@ -11,6 +11,12 @@ aliases:
 ---
 # Ilkan
 
+%% card:start %%
+**Type:** Non-player character · **First seen:** [[Session 11]]
+%% card:end %%
+
+## Summary
+
 Leader of the Goliath raiders in the mountains. Replaced Uthal's father and turned the group toward raiding. Worked with a scouting druid named [[Alkan]].
 
 %% session-history:start %%

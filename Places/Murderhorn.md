@@ -10,6 +10,12 @@ tags:
 ---
 # Murderhorn
 
+%% card:start %%
+**Type:** Place (mountain region) · **First seen:** [[Session 08]]
+%% card:end %%
+
+## Summary
+
 Mountain region north of [[Truemetal Halls]]; maps are unreliable because weather closes passes.
 
 %% session-history:start %%

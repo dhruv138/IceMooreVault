@@ -10,6 +10,12 @@ tags:
 ---
 # Javelin of Lightning
 
+%% card:start %%
+**Type:** Item (weapon) · **First seen:** [[Session 33]]
+%% card:end %%
+
+## Summary
+
 Magical javelin found among the Stone Giant were-bears' possessions.
 
 %% session-history:start %%

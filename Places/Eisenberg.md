@@ -10,7 +10,21 @@ tags:
 ---
 # Eisenberg
 
+%% card:start %%
+**Type:** Place (city) · **First seen:** [[Session 15]]
+%% card:end %%
+
+## Summary
+
 Major Iron Dwarf city/region. Notes mention an uprising or civil war causing refugees to travel toward [[Venburg]].
+
+%% connections:start %%
+## Connections
+
+- [[Iron Dwarves]] —connected to→ [[Eisenberg]]
+- [[Darham Hold]] —broke from the Eisenberg lords→ [[Eisenberg]]
+- [[Eisenberg]] —unrest sends refugees to→ [[Venburg]]
+%% connections:end %%
 
 %% session-history:start %%
 ## Session history

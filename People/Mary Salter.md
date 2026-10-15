@@ -11,6 +11,12 @@ aliases:
 ---
 # Mary Salter
 
+%% card:start %%
+**Type:** Non-player character · **First seen:** [[Session 07]]
+%% card:end %%
+
+## Summary
+
 Oswald's partner/wife and the person the party was asked to contact after his death.
 
 %% session-history:start %%

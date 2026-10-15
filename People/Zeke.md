@@ -11,6 +11,12 @@ aliases:
 ---
 # Zeke
 
+%% card:start %%
+**Type:** Non-player character · **First seen:** [[Session 28]]
+%% card:end %%
+
+## Summary
+
 Goblin mercenary from [[Venburg]] who was captured and transported to [[Quithos the Breaker]]'s tomb.
 
 %% session-history:start %%

@@ -12,10 +12,22 @@ aliases:
 ---
 # Ester
 
+%% card:start %%
+**Type:** Non-player character · **Also called:** Esther · **First seen:** [[Session 36]]
+%% card:end %%
+
+## Summary
+
 Chief Archivist at the [[Library of Deneir]] in [[Amberhold]].
 
-## Recent developments
-- [[Session 37]]: Told [[Riffle]] the robes were changed from red to purple 50–60 years ago, because the Headmaster at the time preferred a different colour. Some people may have kept their old red robes. (Relevant to the [[Daggins Murder]].)
+## Facts by session
+- [[Session 37]]: [suspicion] Told [[Riffle]] the robes were changed from red to purple 50–60 years ago, because the Headmaster at the time preferred a different colour. Some people may have kept their old red robes. (Relevant to the [[Daggins Murder]].)
+
+%% connections:start %%
+## Connections
+
+- [[Ester]] —Chief Archivist→ [[Library of Deneir]]
+%% connections:end %%
 
 %% session-history:start %%
 ## Session history

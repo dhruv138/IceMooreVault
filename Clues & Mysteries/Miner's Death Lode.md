@@ -9,6 +9,12 @@ tags:
 ---
 # Miner's Death Lode
 
+%% card:start %%
+**Type:** Mystery · **First seen:** [[Session 16]]
+%% card:end %%
+
+## Summary
+
 A legendary / highly dangerous mithril mine containing naturally occurring poisonous gas. Even Dwarves' natural poison resistance is insufficient.
 
 Historical records indicate the [[Cult of the Destroyer]] attempted to mine it but abandoned the project because too many enslaved workers died.

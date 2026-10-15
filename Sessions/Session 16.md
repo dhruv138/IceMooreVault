@@ -32,6 +32,10 @@ aliases:
 ---
 # Session 16 — 9 October 2025
 
+%% card:start %%
+**Session:** 16 · Played 9 October 2025 (real-world date of the game night, not an in-world date) · **Previous:** [[Session 15]] · **Next:** [[Session 17]]
+%% card:end %%
+
 > [!summary] TL;DR
 > At [[The Forge]], Riffle traces the stolen bodies to undertaker [[Christolf Nightfall]]. His undead assistant fights them, Christolf escapes, and a half-burned letter mentions the poisonous [[Miner's Death Lode]].
 

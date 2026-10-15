@@ -34,6 +34,10 @@ aliases:
 ---
 # Session 10 — 22 July 2025 Lyra: Deanira
 
+%% card:start %%
+**Session:** 10 · Played 22 July 2025 (real-world date of the game night, not an in-world date) · **Previous:** [[Session 09]] · **Next:** [[Session 11]]
+%% card:end %%
+
 > [!summary] TL;DR
 > [[Hambrick Onyxcrest]] dispels the stone, revealing a giant "onion" of layered spells. The party hears of the [[Anthracite Trade Mystery|anthracite price hike]], takes a job clearing the grain route, and gains the horse Dante and the [[Grey Bag of Tricks]].
 

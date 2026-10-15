@@ -10,6 +10,12 @@ tags:
 ---
 # Emerald Glade
 
+%% card:start %%
+**Type:** Place (region) · **First seen:** [[Session 23]]
+%% card:end %%
+
+## Summary
+
 Region containing the [[Kriptin Forest|Krypton Forest]] / [[Kriptin Forest]] and a rumored holy pool. [[The Bastard's Band]] headed here seeking help for [[The Poet]] and later may be relevant to the [[Werebear Curse]].
 
 %% session-history:start %%

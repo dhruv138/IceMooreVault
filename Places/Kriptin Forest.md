@@ -12,6 +12,12 @@ aliases:
 ---
 # Kriptin Forest
 
+%% card:start %%
+**Type:** Place (forest) · **Also called:** Krypton Forest · **First seen:** [[Session 34]]
+%% card:end %%
+
+## Summary
+
 Forest in the [[Emerald Glade]] containing one of the holy pools identified by [[Hana Goldfirm]].
 
 %% session-history:start %%

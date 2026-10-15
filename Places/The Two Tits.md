@@ -10,9 +10,15 @@ tags:
 ---
 # The Two Tits
 
+%% card:start %%
+**Type:** Place (inn) · **First seen:** [[Session 36]]
+%% card:end %%
+
+## Summary
+
 Inn on the western side of the market square in [[Amberhold]].
 
-## Recent developments
+## Facts by session
 - [[Session 37]]: Busy at dinner, with people quietly slipping away in pairs to the basement.
 - [[Session 38]]: The basement is where the [[Union of Many]] worship about once a week.
 

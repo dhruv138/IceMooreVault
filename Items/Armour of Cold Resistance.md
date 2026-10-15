@@ -10,6 +10,12 @@ tags:
 ---
 # Armour of Cold Resistance
 
+%% card:start %%
+**Type:** Item (magic armor) · **First seen:** [[Session 21]]
+%% card:end %%
+
+## Summary
+
 Studded leather armor with abjuration magic, found in the Dragon League vault.
 
 %% session-history:start %%

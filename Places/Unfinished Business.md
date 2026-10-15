@@ -10,6 +10,12 @@ tags:
 ---
 # Unfinished Business
 
+%% card:start %%
+**Type:** Place (planar tavern) · **First seen:** [[Session 07]]
+%% card:end %%
+
+## Summary
+
 A shifting tavern for souls who have died but are not ready to pass on. The party met [[Anton]] and [[Oswald]] here.
 
 %% session-history:start %%

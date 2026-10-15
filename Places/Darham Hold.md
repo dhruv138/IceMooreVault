@@ -10,9 +10,22 @@ tags:
 ---
 # Darham Hold
 
+%% card:start %%
+**Type:** Place (town) · **First seen:** [[Session 15]]
+%% card:end %%
+
+## Summary
+
 Fortified settlement under [[Countess Opal Darham]] after the Eisenberg lords allegedly failed to protect the region. Uses an ice-axe banner.
 
 See also: [[Darham Hold Unrest]]
+
+%% connections:start %%
+## Connections
+
+- [[Darham Hold]] —broke from the Eisenberg lords→ [[Eisenberg]]
+- [[Countess Opal Darham]] —rules→ [[Darham Hold]]
+%% connections:end %%
 
 %% session-history:start %%
 ## Session history

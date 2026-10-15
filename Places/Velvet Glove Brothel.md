@@ -10,10 +10,16 @@ tags:
 ---
 # Velvet Glove Brothel
 
+%% card:start %%
+**Type:** Place (brothel) · **First seen:** [[Session 35]]
+%% card:end %%
+
+## Summary
+
 Brothel in [[Amberhold]] where the party accidentally arrived after magical transportation went slightly off target.
 
-## Recent developments
-- [[Session 38]]: Losing workers such as [[Zelda]] to [[Heaven's Touch]]. [[Sabrina]] reported a young blond man named [[Andrew]] seeing a worker named Angela.
+## Facts by session
+- [[Session 38]]: [reported] Losing workers such as [[Zelda]] to [[Heaven's Touch]]. [[Sabrina]] reported a young blond man named [[Andrew]] seeing a worker named Angela.
 
 %% session-history:start %%
 ## Session history

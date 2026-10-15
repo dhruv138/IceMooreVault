@@ -10,6 +10,12 @@ tags:
 ---
 # Helm of the Summer Moon
 
+%% card:start %%
+**Type:** Item (magic item) · **First seen:** [[Session 12]]
+%% card:end %%
+
+## Summary
+
 Identified in the notes as a headband of intellect. Recovered after the Goliath raider encounter.
 
 %% session-history:start %%

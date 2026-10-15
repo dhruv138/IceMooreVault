@@ -29,6 +29,10 @@ aliases:
 ---
 # Session 6 — 2 May 2025
 
+%% card:start %%
+**Session:** 6 · Played 2 May 2025 (real-world date of the game night, not an in-world date) · **Previous:** [[Session 05]] · **Next:** [[Session 07]]
+%% card:end %%
+
 > [!summary] TL;DR
 > WISC and Furgus reveal dreams in which Abbathor offered protection (Furgus signed in blood). Freed bugbear Crez guides them to the [[Black Dragon Inn]], where [[Hilda]] can't identify the stone.
 

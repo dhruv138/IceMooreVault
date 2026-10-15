@@ -10,6 +10,12 @@ tags:
 ---
 # Tapestry of Feats
 
+%% card:start %%
+**Type:** Item (wondrous item) · **First seen:** [[Session 29]]
+%% card:end %%
+
+## Summary
+
 Magical tapestry that weaves itself to depict the holder's greatest feat. [[WISC]] saw the party's encounter with [[Agatha]] depicted on it.
 
 %% session-history:start %%

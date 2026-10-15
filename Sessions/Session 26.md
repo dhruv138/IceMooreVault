@@ -26,6 +26,10 @@ aliases:
 ---
 # Session 26 — Missed Session
 
+%% card:start %%
+**Session:** 26 · Missed session · **Previous:** [[Session 25]] · **Next:** [[Session 27]]
+%% card:end %%
+
 > [!summary] TL;DR
 > *Missed session.* On the road they meet hunters, kill two honeymooning hill giants and an owlbear. Hana reports the Academy's head has died and that red Library robes were destroyed 20 years ago.
 

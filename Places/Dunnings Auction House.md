@@ -10,6 +10,12 @@ tags:
 ---
 # Dunnings Auction House
 
+%% card:start %%
+**Type:** Place (auction house) · **First seen:** [[Session 13]]
+%% card:end %%
+
+## Summary
+
 Auction house in [[Western Point]]. A future auction was expected to include a [[Quill of Deneir]].
 
 %% session-history:start %%

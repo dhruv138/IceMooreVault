@@ -12,7 +12,11 @@ aliases:
 ---
 # Missing Sanitation Workers
 
-**Status:** active
+%% card:start %%
+**Type:** Quest · **Status:** active · **Also called:** Sewer missing persons · **First seen:** [[Session 37]]
+%% card:end %%
+
+## Summary
 
 Find three sanitation workers who vanished in the sewers of [[Amberhold]]. Four people sent to look for them have also disappeared. Posted on the city job board for 200 gp ([[Session 36]]).
 

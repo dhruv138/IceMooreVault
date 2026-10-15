@@ -9,7 +9,20 @@ tags:
 ---
 # Black Hand Dwarves
 
+%% card:start %%
+**Type:** Faction · **First seen:** [[Session 10]]
+%% card:end %%
+
+## Summary
+
 Dwarven group operating [[Kohlemine]] and producing [[Anthracite]]. Their sudden price increase may indicate a hidden buyer.
+
+%% connections:start %%
+## Connections
+
+- [[Black Hand Dwarves]] —mine anthracite at→ [[Kohlemine]]
+- [suspicion] [[Black Hand Dwarves]] —doubled the price; another buyer?→ [[Truemetal Halls]]
+%% connections:end %%
 
 %% session-history:start %%
 ## Session history

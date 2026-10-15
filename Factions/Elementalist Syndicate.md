@@ -9,6 +9,12 @@ tags:
 ---
 # Elementalist Syndicate
 
+%% card:start %%
+**Type:** Faction · **First seen:** [[Session 24]]
+%% card:end %%
+
+## Summary
+
 Mage group formed roughly 3,000 years ago to control powerful elementals. Their experiments produced the [[Lords of the Elements]].
 
 %% session-history:start %%

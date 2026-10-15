@@ -10,6 +10,12 @@ tags:
 ---
 # Silver Pie Cutter
 
+%% card:start %%
+**Type:** Item (treasure) · **First seen:** [[Session 17]]
+%% card:end %%
+
+## Summary
+
 Belonged to [[Daddy Dildo Daggins]]. [[Riffle]] secretly slipped it, with some gold, into [[Furgus]]'s bag as a prank, and Furgus refused to sell it ([[Session 17]]).
 
 %% session-history:start %%

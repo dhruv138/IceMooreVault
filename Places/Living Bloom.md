@@ -10,6 +10,12 @@ tags:
 ---
 # Living Bloom
 
+%% card:start %%
+**Type:** Place (apothecary supplier) · **First seen:** [[Session 18]]
+%% card:end %%
+
+## Summary
+
 Apothecary supplier in [[Wren Nalore]]. Provided the ingredients for the party's return trip to [[Truemetal Halls]].
 
 %% session-history:start %%

@@ -11,7 +11,9 @@ tags:
 ---
 # Floating Island Mystery
 
-**Status:** active
+%% card:start %%
+**Type:** Quest · **Status:** active · **First seen:** [[Session 37]]
+%% card:end %%
 
 ## Objective
 
@@ -29,11 +31,17 @@ Val disappeared while searching for it.
 
 [[Deanira]] continues to pursue this mystery.
 
-## Recent developments
+## Facts by session
 - [[Session 37]]: An [[Amberhold]] cartography shop has charted nothing in the Feywild and knows of no unchartable island.
 - [[Session 37]]: Sailors near the Barren Toll saw lights that looked like they were coming into port, though they were days from any port. By sunrise nothing was there.
 - [[Session 37]]: Two days out from Wellview Helm, sailors saw an island in the distance that was gone the next day.
-- [[Session 37]]: The reported locations are wildly scattered across the map.
+- [[Session 37]]: [reported] The reported locations are wildly scattered across the map.
+
+%% connections:start %%
+## Connections
+
+- [[Deanira]] —searching→ [[Floating Island Mystery]]
+%% connections:end %%
 
 %% session-history:start %%
 ## Session history

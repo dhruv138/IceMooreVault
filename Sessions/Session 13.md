@@ -36,6 +36,10 @@ aliases:
 ---
 # Session 13 — 20 August 2025
 
+%% card:start %%
+**Session:** 13 · Played 20 August 2025 (real-world date of the game night, not an in-world date) · **Previous:** [[Session 12]] · **Next:** [[Session 14]]
+%% card:end %%
+
 > [!summary] TL;DR
 > Clearing the camp nets a music box, and Uthal slips away. At the Black Dragon Inn, Riffle reveals they work for the [[Library of Deneir]] and wants the Quill of Deneir at the [[Southern Auction]]. Furgus and WISC are invited to the family festival.
 

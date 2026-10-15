@@ -10,6 +10,12 @@ tags:
 ---
 # Valley of Fire
 
+%% card:start %%
+**Type:** Place (region) · **First seen:** [[Session 31]]
+%% card:end %%
+
+## Summary
+
 Valley containing [[Venburg]]. The surrounding meadow is famous for orange foliage and blueberries.
 
 %% session-history:start %%

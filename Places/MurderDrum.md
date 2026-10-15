@@ -9,4 +9,10 @@ tags:
 ---
 # MurderDrum
 
+%% card:start %%
+**Type:** Place (mountain)
+%% card:end %%
+
+## Summary
+
 Mountain location described as the Matterhorn where a young half-elf died snowboarding.

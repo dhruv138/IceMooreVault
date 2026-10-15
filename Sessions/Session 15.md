@@ -36,6 +36,10 @@ aliases:
 ---
 # Session 15 — 20 September 2025
 
+%% card:start %%
+**Session:** 15 · Played 20 September 2025 (real-world date of the game night, not an in-world date) · **Previous:** [[Session 14]] · **Next:** [[Session 16]]
+%% card:end %%
+
 > [!summary] TL;DR
 > They escort [[Ea]] to [[Darham Hold]] and suspect stolen corpses are being repurposed. They shop at [[Fizz]] and [[Ugly]]'s travelling store, then find the first [[Cornhusk Dolls]] by their fire.
 

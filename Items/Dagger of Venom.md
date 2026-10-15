@@ -10,6 +10,12 @@ tags:
 ---
 # Dagger of Venom
 
+%% card:start %%
+**Type:** Item (weapon) · **First seen:** [[Session 21]]
+%% card:end %%
+
+## Summary
+
 Evocation magic dagger found in the Dragon League vault.
 
 %% session-history:start %%

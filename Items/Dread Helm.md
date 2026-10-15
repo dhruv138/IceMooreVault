@@ -10,6 +10,12 @@ tags:
 ---
 # Dread Helm
 
+%% card:start %%
+**Type:** Item (magic item) · **First seen:** [[Session 29]]
+%% card:end %%
+
+## Summary
+
 Helm worn by the reanimated Goliath [[Corthos]] in the tomb of [[Quithos the Breaker]], taken after the fight along with the [[Blade of the Ancestors]] and two jewelled snake arm rings ([[Session 29]]).
 
 %% session-history:start %%

@@ -9,6 +9,16 @@ tags:
 ---
 # Mystery of Axeholm
 
-**Status:** active
+%% card:start %%
+**Type:** Quest · **Status:** active
+%% card:end %%
+
+## Summary
 
 Find the lost Dwarven city of [[Axeholm]]. Current clues point toward [[Zyuir]] and the [[Crystalline Glacier]].
+
+%% connections:start %%
+## Connections
+
+- [[Mystery of Axeholm]] —goal→ [[Axeholm]]
+%% connections:end %%

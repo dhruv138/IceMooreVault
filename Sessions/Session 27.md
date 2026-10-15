@@ -26,6 +26,10 @@ aliases:
 ---
 # Session 27 — 9 March 2026
 
+%% card:start %%
+**Session:** 27 · Played 9 March 2026 (real-world date of the game night, not an in-world date) · **Previous:** [[Session 26]] · **Next:** [[Session 28]]
+%% card:end %%
+
 > [!summary] TL;DR
 > The party skirts a spore field, kills a troll with a giant snake, and frees WISC from an enchanted fiddle. They reach the cliffs where the tomb is carved.
 

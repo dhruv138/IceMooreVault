@@ -11,7 +11,19 @@ aliases:
 ---
 # Agatha
 
+%% card:start %%
+**Type:** Non-player character · **First seen:** [[Session 21]]
+%% card:end %%
+
+## Summary
+
 Long-armed hag-like figure encountered near the basilisk grounds. Trades information for personal objects and knowledge. Identified the [[Cornhusk Dolls]] as a fae creation associated with a pixie.
+
+%% connections:start %%
+## Connections
+
+- [[Agatha]] —told the party→ [[Zyuir]]
+%% connections:end %%
 
 %% session-history:start %%
 ## Session history

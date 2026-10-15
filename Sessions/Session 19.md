@@ -26,6 +26,10 @@ aliases:
 ---
 # Session 19 — 6 November 2025
 
+%% card:start %%
+**Session:** 19 · Played 6 November 2025 (real-world date of the game night, not an in-world date) · **Previous:** [[Session 18]] · **Next:** [[Session 20]]
+%% card:end %%
+
 > [!summary] TL;DR
 > Cornhusk dolls appear again. Deanira shares her vision through [[Dream Weed]], and Riffle notes a raider bugbear with WISC's rare eye colour. Hunting basilisks, they fall into a sunken fortress with a green dragon statue.
 

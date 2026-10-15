@@ -11,6 +11,12 @@ aliases:
 ---
 # Vistra
 
+%% card:start %%
+**Type:** Non-player character · **First seen:** [[Session 16]]
+%% card:end %%
+
+## Summary
+
 Dwarven priest in [[Truemetal Halls]] who provided information about [[Christolf Nightfall]].
 
 %% session-history:start %%

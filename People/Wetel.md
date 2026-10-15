@@ -11,6 +11,12 @@ aliases:
 ---
 # Wetel
 
+%% card:start %%
+**Type:** Non-player character · **First seen:** [[Session 17]]
+%% card:end %%
+
+## Summary
+
 Pixie who gave [[Deanira]] a bag for generating more [[Cornhusk Dolls]] as a prank.
 
 %% session-history:start %%

@@ -11,6 +11,12 @@ aliases:
 ---
 # Anton
 
+%% card:start %%
+**Type:** Non-player character · **First seen:** [[Session 07]]
+%% card:end %%
+
+## Summary
+
 Ghostly bartender at [[Unfinished Business]], a tavern for souls not ready to pass on.
 
 %% session-history:start %%

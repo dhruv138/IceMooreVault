@@ -11,6 +11,12 @@ aliases:
 ---
 # Fizz
 
+%% card:start %%
+**Type:** Non-player character · **First seen:** [[Session 15]]
+%% card:end %%
+
+## Summary
+
 Goblin proprietor of [[Fizz and Ugly's Travelling Store]].
 
 %% session-history:start %%

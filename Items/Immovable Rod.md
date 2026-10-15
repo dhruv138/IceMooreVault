@@ -10,6 +10,12 @@ tags:
 ---
 # Immovable Rod
 
+%% card:start %%
+**Type:** Item (magic item) · **First seen:** [[Session 12]]
+%% card:end %%
+
+## Summary
+
 Magic item used creatively by the party, including helping restrain a basilisk in a hunting-trap setup.
 
 %% session-history:start %%

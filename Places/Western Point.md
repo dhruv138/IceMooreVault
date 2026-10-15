@@ -10,6 +10,12 @@ tags:
 ---
 # Western Point
 
+%% card:start %%
+**Type:** Place (city) · **First seen:** [[Session 13]]
+%% card:end %%
+
+## Summary
+
 Southern city containing [[Dunnings Auction House]]. The party may eventually travel there for a Deneir quill and other auction items.
 
 %% session-history:start %%

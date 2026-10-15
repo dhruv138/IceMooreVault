@@ -23,12 +23,12 @@ flowchart TB
 
   MA -->|"the Library is an offshoot"| LD
   LD --> DA
-  SH -.->|"banned from"| MA
-  SH -.->|"banned from"| LD
+  SH -->|"banned from"| MA
+  SH -->|"banned from"| LD
   MA --- TM
 
   BO["Bianca Onyxcrest"] -->|"Headmistress"| MA
-  GG["Gavin Gosling"] -.->|"former head, died"| MA
+  GG["Gavin Gosling"] -->|"former head, died"| MA
   KA["Karyn"] -->|"Bianca's assistant"| BO
   PO["Peter Owens"] -->|"grad student, on leave"| MA
   SP["Samuel Patel"] -->|"Head Cleric"| TM
@@ -62,11 +62,11 @@ flowchart LR
   IR["Iron Dwarves"] --- EB["Eisenberg"]
   BH["Black Hand Dwarves"] -->|"mine anthracite at"| KM["Kohlemine"]
   BH -.->|"doubled the price; another buyer?"| TH
-  DU["Duergar"] -.->|"millennia of conflict"| TD
+  DU["Duergar"] -->|"millennia of conflict"| TD
 
-  DH["Darham Hold"] -.->|"broke from the Eisenberg lords"| EB
+  DH["Darham Hold"] -->|"broke from the Eisenberg lords"| EB
   OD["Countess Opal Darham"] -->|"rules"| DH
-  EB -.->|"unrest sends refugees to"| VB["Venburg"]
+  EB -->|"unrest sends refugees to"| VB["Venburg"]
   KL["Klaus"] -->|"elected leader"| VB
   ID -->|"sent supply carts"| VB
 
@@ -81,13 +81,13 @@ flowchart TB
   UT["Uthal"] -->|"works for"| OM
   F["Furgus"] -->|"brother"| BA["Bad"]
   BA -->|"married"| AN["Annika"]
-  F -.->|"complicated"| UT
+  F -->|"complicated"| UT
   D["Deanira"] -->|"mentor, missing"| VA["Val"]
   R["Riffle"] -->|"father figure"| TR["Talir Rengavi"]
   R -->|"best friend"| HG["Hana Goldfirm"]
   T["Theo'din Corvis"] -->|"patron"| RQ["Raven Queen"]
   P["Philip"] -->|"hunter from"| VB["Venburg"]
-  W -.->|"same rare eyes"| GB["Golden-Eyed Bugbear Mystery"]
+  W -->|"same rare eyes"| GB["Golden-Eyed Bugbear Mystery"]
 
   class W,OM,UT,F,BA,AN,D,VA,R,TR,HG,T,RQ,P,VB,GB internal-link
 ```

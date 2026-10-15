@@ -32,6 +32,10 @@ aliases:
 ---
 # Session 30 — 3 June 2026
 
+%% card:start %%
+**Session:** 30 · Played 3 June 2026 (real-world date of the game night, not an in-world date) · **Previous:** [[Session 29]] · **Next:** [[Session 31]]
+%% card:end %%
+
 > [!summary] TL;DR
 > Speak with Dead reveals the cultists were recruited in Amberhold by a blond youth named **Peter**. Following the trail, they find boneless corpses and a trapped rendezvous. They glimpse the [[Master of Death]] before he vanishes through a rift.
 

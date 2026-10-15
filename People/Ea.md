@@ -11,4 +11,10 @@ aliases:
 ---
 # Ea
 
+%% card:start %%
+**Type:** Non-player character · **First seen:** [[Session 15]]
+%% card:end %%
+
+## Summary
+
 Young Tiefling rescued after encountering the flesh golem near [[Darham Hold]].

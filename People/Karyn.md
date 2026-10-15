@@ -11,9 +11,21 @@ aliases:
 ---
 # Karyn
 
+%% card:start %%
+**Type:** Non-player character · **First seen:** [[Session 38]]
+%% card:end %%
+
+## Summary
+
 Staff member at [[Mistra's Academy]] and assistant to [[Bianca Onyxcrest]].
 
 - [[Session 38]]: Stressed and overworked preparing the [[Academy Gala]] and the [[Gauntlet]]. [[Riffle]] brought her a sandwich and coffee and helped tidy her office, and glimpsed details of the Gauntlet while doing so.
+
+%% connections:start %%
+## Connections
+
+- [[Karyn]] —Bianca's assistant→ [[Bianca Onyxcrest]]
+%% connections:end %%
 
 %% session-history:start %%
 ## Session history

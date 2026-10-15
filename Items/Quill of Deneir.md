@@ -9,4 +9,10 @@ tags:
 ---
 # Quill of Deneir
 
+%% card:start %%
+**Type:** Item (artifact)
+%% card:end %%
+
+## Summary
+
 Holy quill of [[Deneir]] to be sold at the [[Dunnings Auction House]] in [[Western Point]] on the first Monday after the Beaver Moon. Riffle badly wants it ([[Session 13]]). See [[Southern Auction]].

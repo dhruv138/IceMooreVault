@@ -10,6 +10,12 @@ tags:
 ---
 # Mine District
 
+%% card:start %%
+**Type:** Place (district) · **First seen:** [[Session 36]]
+%% card:end %%
+
+## Summary
+
 Dense district of [[Amberhold]], where [[The Three Candles]] is located.
 
 %% session-history:start %%

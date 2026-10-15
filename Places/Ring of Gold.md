@@ -10,7 +10,20 @@ tags:
 ---
 # Ring of Gold
 
+%% card:start %%
+**Type:** Place (district) · **First seen:** [[Session 07]]
+%% card:end %%
+
+## Summary
+
 Affluent residential district of [[Truemetal Halls]], associated with [[Elzock Emberstone]]'s family.
+
+%% connections:start %%
+## Connections
+
+- [[Earl Emberstone]] —connected to→ [[Ring of Gold]]
+- [[Ring of Gold]] —connected to→ [[Truemetal Halls]]
+%% connections:end %%
 
 %% session-history:start %%
 ## Session history

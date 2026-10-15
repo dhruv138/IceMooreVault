@@ -134,7 +134,41 @@ The online copy Claude published is a separate snapshot. Ask Claude to republish
 
 ### Step 7. Save to GitHub
 
-Commit and push the changes the way you normally back up the vault. The update changes the new session, the metadata blocks and history boxes of affected notes, and the dashboard file.
+Commit and push the changes the way you normally back up the vault. The update changes the new session, the metadata blocks, header cards and history boxes of affected notes, the files in the `LLM` folder, and the dashboard file.
+
+---
+
+## Part 3: Asking a local AI model about the campaign
+
+`ask_vault.py` sends your question to an AI model running on your own computer through **Ollama**, with **the entire vault** loaded alongside it. The model sees every session and every note, every time; it never has to guess which notes to look at. Why it works this way is explained in `decisions.md` at the top of the vault.
+
+### One-time setup
+
+1. **Install Ollama.** Download it from **ollama.com** and install it like any other app. On a Mac or Windows it runs in the background once installed.
+2. **Download a model with a large memory.** The whole vault is about 80,000 tokens (roughly 60,000 words), so the model must be able to hold at least about **96,000 tokens** at once. Models advertise this as their "context length". Pick one with **128K** or more.
+   - In a terminal, type `ollama pull` followed by the model's name and press Return/Enter. A good starting choice is `ollama pull gpt-oss:20b` (a 14 GB download; holds 128K). `decisions.md` lists other options.
+   - Check how much a model can hold: type `ollama show gpt-oss:20b` and look for **context length**. If it says 40960 (40K), that model is too small for the whole vault. This is true of the `qwen3:8b` and `qwen3:1.7b` models, for example.
+3. **Expect it to need memory.** Holding the whole vault takes several GB of extra memory on top of the model itself, and the first answer can take a few minutes while the model reads everything. Later questions in the same chat are faster.
+
+### Asking questions
+
+1. Run the update first (Part 2, Step 4) so the vault file the model reads is current.
+2. Open a terminal in the vault folder (Part 1, Step 3) and type, using your model's name:
+   - Mac: `python3 scripts/ask_vault.py --model gpt-oss:20b`
+   - Windows: `py scripts\ask_vault.py --model gpt-oss:20b`
+3. Type a question and press Return/Enter. Keep asking follow-up questions in the same chat. Press Return/Enter on an empty line to finish.
+
+You can also ask a single question in one go: `python3 scripts/ask_vault.py --model gpt-oss:20b "Who is Klaus?"`
+
+**Useful extras** (add them after the model name):
+- `--show-thinking` shows the model's reasoning before its answer.
+- `--core` uses a smaller version of the vault (about 36,000 tokens) that keeps every note but only the recap of each session. Use it only if your model can't hold the full vault, because it **will** miss details that only appear in the session text.
+
+If the model is too small for the vault, the script stops before sending anything and tells you what to do. It never sends a vault that's been cut short without saying so.
+
+### Testing the model
+
+`LLM/Test Questions.md` has 20 questions with the answers the vault supports. They range from simple lookups to questions that need the model to reason, notice contradictions, or say "the vault doesn't say". Ask them one at a time and compare. The test file is never sent to the model, so it can't read the answers.
 
 ---
 
@@ -144,10 +178,13 @@ Commit and push the changes the way you normally back up the vault. The update c
 |---|---|
 | `Update Vault (Mac).command` | Double-click shortcut that runs everything on a Mac |
 | `Update Vault (Windows).bat` | Double-click shortcut that runs everything on Windows |
-| `update_all.py` | Runs the three scripts below, in order |
+| `update_all.py` | Runs the five scripts below, in order |
 | `update_metadata.py` | Sets up new session files, refreshes each note's metadata block, and lists the "Things to check" |
+| `structure_notes.py` | Gives every note the standard layout: header card, Summary, Facts by session, evidence labels, Connections |
 | `update_session_history.py` | Rewrites the collapsed **Session history** box at the bottom of each note |
+| `build_llm_context.py` | Rebuilds the files the AI model reads (`LLM/Icemoor Full Context.md` and `Core Context`) and the Aliases note |
 | `build_dashboard.py` | Rebuilds `dashboard/Icemoor Dashboard.html` |
+| `ask_vault.py` | Asks a local Ollama model questions with the whole vault loaded (Part 3) |
 | `dashboard_template.html` | The dashboard's design; `build_dashboard.py` fills it with the vault's data |
 | `requirements.txt` | Extra Python packages to install (none at the moment) |
 
@@ -155,7 +192,9 @@ Commit and push the changes the way you normally back up the vault. The update c
 
 - **Metadata block** (between the `---` lines at the very top of a note): the scripts rewrite only their own fields. On every note those are `type`, `status`, `first_seen`, `party_member`, `location_type` and `item_type`. On sessions they also rewrite `session`, `date`, `previous_session`, `next_session` and the lists of linked people, places, factions, quests and items. Anything else you put in the block stays.
 - **Session history box:** fully rewritten each time, between the `%% session-history:start %%` and `%% session-history:end %%` markers. Don't write inside those markers, because your text would be replaced. Everywhere else in a note is yours.
-- **Your own writing:** never changed. The only exception is a brand-new session note, which gets its title line and metadata added the first time.
+- **Header card and Connections:** rewritten each time, between their `%% card %%` and `%% connections %%` markers, from the metadata and from the canvas boards and Relationships diagrams. Edit the metadata, boards or diagrams instead.
+- **Evidence labels:** `structure_notes.py` adds **[reported]** to bullet points that are hearsay ("said", "told", "claims") and **[suspicion]** to ones containing a guess ("suspects", "might", a question mark). It re-checks these every run. To stop a line being labelled, start it with **[fact]**. To label one yourself in a way the script won't change, use **[inference]**.
+- **Your own writing:** the words are never changed. The layout script does move opening text under a **Summary** heading and renames "Recent developments" to "Facts by session". A brand-new session note also gets its title line and metadata added the first time.
 - **Nothing is ever deleted.** A new session file may be renamed (for example `Session_39.md` to `Session 39.md`). Obsidian doesn't notice renames made outside it, so if you already linked to the old name somewhere, change that link to the new name.
 
 ### Changing who's in the party

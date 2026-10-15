@@ -12,13 +12,29 @@ aliases:
 ---
 # Hana Goldfirm
 
+%% card:start %%
+**Type:** Non-player character · **Also called:** Hannah, Hana · **First seen:** [[Session 23]]
+%% card:end %%
+
+## Summary
+
 Researcher and close friend of [[Riffle]]. Works within the [[Department of Acquisitions]]. Her office in [[Amberhold]] was broken into and some items were stolen.
+
+%% connections:start %%
+## Connections
+
+- [[Riffle]] —best friend, smitten→ [[Hana Goldfirm]]
+- [[Hana Goldfirm]] —holds the last copy→ [[Daggins's Journal]]
+- [suspicion] [[Hana Goldfirm]] —her office was also burgled?→ [[Talir's Stolen Documents]]
+- [[Hana Goldfirm]] —researcher→ [[Department of Acquisitions]]
+- [[Riffle]] —best friend→ [[Hana Goldfirm]]
+%% connections:end %%
 
 %% session-history:start %%
 ## Session history
 
 > [!info]- 6 sessions · first [[Session 23]] · last [[Session 36]]
-> - [[Session 23]]: Talir Rengavi Rengavi the tallest human we’ve ever seen (Riffle’s father figure and the head of the Library) and a small gnome with a pixie cut Hana Goldfirm (Rifffle’s best friend from the Library).
+> - [[Session 23]]: Talir Rengavi the tallest human we’ve ever seen (Riffle’s father figure and the head of the Library) and a small gnome with a pixie cut Hana Goldfirm (Rifffle’s best friend from the Library).
 > - [[Session 24]]: We go to The Warhammer with Hana Goldfirm and Talir Rengavi so Riffle can catch up with them and introduce us.
 > - [[Session 26]]: Riffle uses Sending to speak with Hana Goldfirm about the murder.
 > - [[Session 30]]: Overnight, Riffle sends a message to Hana Goldfirm updating her on what we found in the tomb and that some remaining Skeletal Hand members are heading south.

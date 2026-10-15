@@ -29,6 +29,10 @@ aliases:
 ---
 # Session 11 — 6 August 2025
 
+%% card:start %%
+**Session:** 11 · Played 6 August 2025 (real-world date of the game night, not an in-world date) · **Previous:** [[Session 10]] · **Next:** [[Session 12]]
+%% card:end %%
+
 > [!summary] TL;DR
 > Goliath raiders ambush them, and one, [[Uthal]], defects with intel on [[Ilkan]]'s camp. The party scouts the camp and plans a pre-dawn attack.
 

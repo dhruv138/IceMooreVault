@@ -47,6 +47,10 @@ aliases:
 ---
 # Session 37 — 12 September 2026
 
+%% card:start %%
+**Session:** 37 · Played 12 September 2026 (real-world date of the game night, not an in-world date) · **Previous:** [[Session 36]] · **Next:** [[Session 38]]
+%% card:end %%
+
 > [!summary] TL;DR
 > The were-bear curse is cured and the [[Mask of the Green Dragon]]'s curse is lifted from Deanira. A coded scholarship flyer leads to a blond [[Skeletal Hand]] recruiter, and sailors report vanishing islands. Theo communes with the [[Raven Queen]].
 

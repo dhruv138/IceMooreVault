@@ -10,6 +10,12 @@ tags:
 ---
 # First Star
 
+%% card:start %%
+**Type:** Place (tavern) · **First seen:** [[Session 07]]
+%% card:end %%
+
+## Summary
+
 Alternate/derelict appearance of [[Unfinished Business]].
 
 %% session-history:start %%

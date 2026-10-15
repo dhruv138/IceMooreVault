@@ -10,6 +10,12 @@ tags:
 ---
 # Duck Tape
 
+%% card:start %%
+**Type:** Item (wondrous item) · **First seen:** [[Session 21]]
+%% card:end %%
+
+## Summary
+
 Silvery magical tape found in the Dragon League vault.
 
 %% session-history:start %%

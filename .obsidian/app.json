@@ -1,7 +1,8 @@
 {
   "alwaysUpdateLinks": true,
   "userIgnoredFilters": [
-    "scripts/",
-    "dashboard/"
+    "LLM/",
+    "dashboard/",
+    "scripts/"
   ]
 }

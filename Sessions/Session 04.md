@@ -24,6 +24,10 @@ aliases:
 ---
 # Session 4 — 9 March 2025
 
+%% card:start %%
+**Session:** 4 · Played 9 March 2025 (real-world date of the game night, not an in-world date) · **Previous:** [[Session 03]] · **Next:** [[Session 05]]
+%% card:end %%
+
 > [!summary] TL;DR
 > At the bottom they ambush Duergar hauling ore and spot a large Duergar smelting compound worked by slaves. Across an underground lake, a blood-opened door leads to a temple of [[Abbathor]], where they kill an evil priestess.
 

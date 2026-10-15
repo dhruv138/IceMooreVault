@@ -32,6 +32,10 @@ aliases:
 ---
 # Session 14 — 9 September 2025
 
+%% card:start %%
+**Session:** 14 · Played 9 September 2025 (real-world date of the game night, not an in-world date) · **Previous:** [[Session 13]] · **Next:** [[Session 15]]
+%% card:end %%
+
 > [!summary] TL;DR
 > Daggins decodes "Coal Caster = Zyvuir" and links Axeholm to the [[Crystalline Glacier]]. On the road to [[Wren Nalore]], the party kills a poisonous flesh golem built partly from the arm of the Dwarf who died at the market.
 

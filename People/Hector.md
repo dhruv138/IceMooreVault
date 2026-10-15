@@ -11,7 +11,19 @@ aliases:
 ---
 # Hector
 
+%% card:start %%
+**Type:** Non-player character · **First seen:** [[Session 24]]
+%% card:end %%
+
+## Summary
+
 Young Dwarf from [[Truemetal Halls]] who appeared friendly but was later impersonated in connection with the poisoning mystery.
+
+%% connections:start %%
+## Connections
+
+- [[Hector]] —impostor poisoned the party that night→ [[Daggins Murder]]
+%% connections:end %%
 
 %% session-history:start %%
 ## Session history

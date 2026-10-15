@@ -12,7 +12,20 @@ aliases:
 ---
 # Lord Ivan Deepshaft
 
+%% card:start %%
+**Type:** Non-player character · **Also called:** Lord Deepshaft, Ivar Deepshaft · **First seen:** [[Session 08]]
+%% card:end %%
+
+## Summary
+
 Member of the [[Court]]. Investigated the party's discovery of the Duergar mining operation and later commissioned the delivery of supplies to [[Venburg]].
+
+%% connections:start %%
+## Connections
+
+- [[Lord Ivan Deepshaft]] —member→ [[Court]]
+- [[Lord Ivan Deepshaft]] —sent supply carts→ [[Venburg]]
+%% connections:end %%
 
 %% session-history:start %%
 ## Session history

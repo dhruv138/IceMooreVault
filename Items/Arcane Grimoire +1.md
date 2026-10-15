@@ -9,4 +9,10 @@ tags:
 ---
 # Arcane Grimoire +1
 
+%% card:start %%
+**Type:** Item (magic item)
+%% card:end %%
+
+## Summary
+
 Magic grimoire recovered from [[Christolf Nightfall]].

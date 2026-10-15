@@ -11,7 +11,9 @@ tags:
 ---
 # Anthracite Trade Mystery
 
-**Status:** active
+%% card:start %%
+**Type:** Quest · **Status:** active · **First seen:** [[Session 10]]
+%% card:end %%
 
 ## Objective
 

@@ -10,6 +10,12 @@ tags:
 ---
 # Temple of the Wild Mother and Lawbringer
 
+%% card:start %%
+**Type:** Place (temple) · **First seen:** [[Session 18]]
+%% card:end %%
+
+## Summary
+
 Temple in [[Wren Nalore]] dedicated to the contrast and union of chaos and order in nature. [[Sana Valxia]] accepted the goblin child here.
 
 %% session-history:start %%

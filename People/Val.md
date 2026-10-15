@@ -11,10 +11,23 @@ aliases:
 ---
 # Val
 
+%% card:start %%
+**Type:** Non-player character · **First seen:** [[Session 07]]
+%% card:end %%
+
+## Summary
+
 Deanira's cartographer mentor who disappeared while searching for a shifting floating island.
 
-## Recent developments
+## Facts by session
 - [[Session 37]]: [[Deanira]] gathered sailors' sightings of a vanishing island. See [[Floating Island Mystery]].
+
+%% connections:start %%
+## Connections
+
+- [[Deanira]] —missing mentor→ [[Val]]
+- [[Deanira]] —mentor, missing→ [[Val]]
+%% connections:end %%
 
 %% session-history:start %%
 ## Session history

@@ -11,7 +11,20 @@ aliases:
 ---
 # Earl Emberstone
 
+%% card:start %%
+**Type:** Non-player character · **First seen:** [[Session 08]]
+%% card:end %%
+
+## Summary
+
 Parent of [[Elzock Emberstone]]. His family rewarded the party after Elzock's rescue.
+
+%% connections:start %%
+## Connections
+
+- [[Earl Emberstone]] —father of→ [[Elzock Emberstone]]
+- [[Earl Emberstone]] —connected to→ [[Ring of Gold]]
+%% connections:end %%
 
 %% session-history:start %%
 ## Session history

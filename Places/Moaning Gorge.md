@@ -10,6 +10,12 @@ tags:
 ---
 # Moaning Gorge
 
+%% card:start %%
+**Type:** Place (region) · **First seen:** [[Session 34]]
+%% card:end %%
+
+## Summary
+
 Far-northern volcanic valley, home region of the Stone Giant were-bears encountered near [[Hawk's Nest]].
 
 %% session-history:start %%

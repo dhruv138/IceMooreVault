@@ -13,9 +13,21 @@ aliases:
 ---
 # Owens Family Mausoleum
 
+%% card:start %%
+**Type:** Place (crypt) · **Also called:** Owens Mausoleum, Owen Family Mausoleum · **First seen:** [[Session 38]]
+%% card:end %%
+
+## Summary
+
 Family mausoleum of the Owens family, in a graveyard to the west outside [[Amberhold]].
 
 - [[Session 38]]: [[Peter Owens]] has been seen visiting more often since his parents died. As the party approached in the rain, a cloaked, hooded figure entered the structure and vanished. See [[Owens Family Deaths]].
+
+%% connections:start %%
+## Connections
+
+- [[Peter Owens]] —visiting often→ [[Owens Family Mausoleum]]
+%% connections:end %%
 
 %% session-history:start %%
 ## Session history

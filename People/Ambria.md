@@ -11,6 +11,12 @@ aliases:
 ---
 # Ambria
 
+%% card:start %%
+**Type:** Non-player character · **First seen:** [[Session 28]]
+%% card:end %%
+
+## Summary
+
 Dragonborn from [[Venburg]] rescued from captivity in [[Quithos the Breaker]]'s tomb.
 
 %% session-history:start %%

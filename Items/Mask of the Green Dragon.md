@@ -10,9 +10,15 @@ tags:
 ---
 # Mask of the Green Dragon
 
+%% card:start %%
+**Type:** Item (magic item) · **First seen:** [[Session 21]]
+%% card:end %%
+
+## Summary
+
 Ancient green dragon-shaped wooden mask found in the flooded Dragon League fortress. Transmutation magic.
 
-## Recent developments
+## Facts by session
 - [[Session 37]]: Found to have placed a minor curse on [[Deanira]]. It was removed at the Student Health Clinic of [[Mistra's Academy]], after which she felt much better about [[WISC]].
 
 %% session-history:start %%

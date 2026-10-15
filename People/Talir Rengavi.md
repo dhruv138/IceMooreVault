@@ -13,18 +13,32 @@ aliases:
 ---
 # Talir Rengavi
 
+%% card:start %%
+**Type:** Non-player character · **Also called:** Talir, Tallir · **First seen:** [[Session 23]]
+%% card:end %%
+
+## Summary
+
 Director of the [[Library of Deneir]] and a father figure to [[Riffle]]. He can arrange magical transportation and has access to major institutional resources.
 
-## Recent developments
+## Facts by session
 - [[Session 37]]: Misread Riffle asking him to read a flyer as an admission Riffle can't read, and apologised for failing as a father.
 - [[Session 38]]: Very stressed and overworked preparing the [[Academy Gala]] and [[Gauntlet]].
 - [[Session 38]]: Sent Riffle an angry Sending demanding the return of documents stolen from his safe, citing Archivist [[Siobhan]] as a witness. See [[Talir's Stolen Documents]].
+
+%% connections:start %%
+## Connections
+
+- [[Riffle]] —father figure→ [[Talir Rengavi]]
+- [[Talir Rengavi]] —victim→ [[Talir's Stolen Documents]]
+- [[Talir Rengavi]] —Director→ [[Library of Deneir]]
+%% connections:end %%
 
 %% session-history:start %%
 ## Session history
 
 > [!info]- 9 sessions · first [[Session 23]] · last [[Session 38]]
-> - [[Session 23]]: Talir Rengavi Rengavi the tallest human we’ve ever seen (Riffle’s father figure and the head of the Library) and a small gnome with a pixie cut Hana Goldfirm (Rifffle’s best friend from the Library).
+> - [[Session 23]]: Talir Rengavi the tallest human we’ve ever seen (Riffle’s father figure and the head of the Library) and a small gnome with a pixie cut Hana Goldfirm (Rifffle’s best friend from the Library).
 > - [[Session 24]]: We develop a counter offer of giving it to Talir Rengavi for 2,000 gp.
 > - [[Session 28]]: This was before Riffle’s time, before even Talir Rengavi’s time.
 > - [[Session 30]]: We make camp and Riffle casts sending to Talir Rengavi, telling him about how we found Skeletal Hand Faction members from the academy and that the remaining members are headed south.

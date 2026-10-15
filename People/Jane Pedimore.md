@@ -12,6 +12,12 @@ aliases:
 ---
 # Jane Pedimore
 
+%% card:start %%
+**Type:** Non-player character · **Also called:** Jane · **First seen:** [[Session 32]]
+%% card:end %%
+
+## Summary
+
 Young Halfling from [[Copperhead Hollow]] whose family was murdered after refusing protection demands from a golden-eyed bugbear.
 
 %% session-history:start %%

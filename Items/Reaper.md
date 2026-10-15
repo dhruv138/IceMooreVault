@@ -10,6 +10,12 @@ tags:
 ---
 # Reaper
 
+%% card:start %%
+**Type:** Item (weapon) · **First seen:** [[Session 08]]
+%% card:end %%
+
+## Summary
+
 Bill hook with a Raindrop Damascus pattern, forged by the Iron Dwarves and gifted to [[WISC]] by the Emberstone family.
 
 %% session-history:start %%

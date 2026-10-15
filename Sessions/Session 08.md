@@ -35,6 +35,10 @@ aliases:
 ---
 # Session 8 — 18 June 2025
 
+%% card:start %%
+**Session:** 8 · Played 18 June 2025 (real-world date of the game night, not an in-world date) · **Previous:** [[Session 07]] · **Next:** [[Session 09]]
+%% card:end %%
+
 > [!summary] TL;DR
 > The Emberstones reward the party with [[Reaper]], a chromatic quiver and thunderous handwraps. [[Lord Ivan Deepshaft]] of the [[Court]] debriefs them on the mine in secret and asks them to keep quiet; the city pays 900 gold for the information.
 

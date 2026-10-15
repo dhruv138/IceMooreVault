@@ -38,6 +38,10 @@ aliases:
 ---
 # Session 21 — 8 December 2025
 
+%% card:start %%
+**Session:** 21 · Played 8 December 2025 (real-world date of the game night, not an in-world date) · **Previous:** [[Session 20]] · **Next:** [[Session 22]]
+%% card:end %%
+
 > [!summary] TL;DR
 > They clear the dragon shrine and vault, finding the [[Mask of the Green Dragon]] and other magic items. The hag [[Agatha]] identifies the dolls as a pixie's work and says the Drow outpost of [[Zyuir]] is the key to Axeholm.
 

@@ -2,7 +2,7 @@
 title: "Truemetal Halls"
 type: location
 location_type: major_city
-first_seen: "[[Session 05]]"
+first_seen: "[[Session 02]]"
 tags:
   - place
   - major_city
@@ -10,18 +10,36 @@ tags:
 ---
 # Truemetal Halls
 
+%% card:start %%
+**Type:** Place (major city) · **First seen:** [[Session 02]]
+%% card:end %%
+
+## Summary
+
 Capital of the northern [[Confederation]]. Built within the mountains around major deposits of mithril and adamantine. Home of [[The Warhammer]], [[Baptism by Fire]], [[The Shooting Star]], [[Junk in the Trunk]], and the [[Ring of Gold]].
 
 ## Relationships
 ![[Relationships#Dwarven powers and Venburg]]
 
+%% connections:start %%
+## Connections
+
+- [[Confederation]] —capital→ [[Truemetal Halls]]
+- [[Truemetal Halls]] —connected to→ [[Court]]
+- [[The Warhammer]] —connected to→ [[Truemetal Halls]]
+- [[Ring of Gold]] —connected to→ [[Truemetal Halls]]
+- [[Truemetal Dwarves]] —connected to→ [[Truemetal Halls]]
+- [suspicion] [[Black Hand Dwarves]] —doubled the price; another buyer?→ [[Truemetal Halls]]
+%% connections:end %%
+
 %% session-history:start %%
 ## Session history
 
-> [!info]- 14 sessions · first [[Session 05]] · last [[Session 36]]
+> [!info]- 15 sessions · first [[Session 02]] · last [[Session 36]]
+> - [[Session 02]]: %% card:start %% Session: 2 · Not dated in the source notes · Previous: Session 01 · Next: Session 03 %% card:end %% Luther Trollstumper is directing people who are cued up at the gates of Truemetal Halls, which lies…
 > - [[Session 05]]: One of the Dwarves (Elzock Emberstone) says that if we can get them to Truemetal Halls, he can make it worth our while.
 > - [[Session 06]]: He said he’d protect us if WISC agreed to give out a handful of coins to people back in Truemetal Halls.
-> - [[Session 07]]: We leave the Black Dragon Inn at 11 am to head back towards Truemetal Halls.
+> - [[Session 07]]: %% card:start %% Session: 7 · Played 1 June 2025 (real-world date of the game night, not an in-world date) · Previous: Session 06 · Next: Session 08 %% card:end %% We leave the Black Dragon Inn at 11 am to head back…
 > - [[Session 09]]: It’s NW of Truemetal Halls, ruled by the Axeforge family.
 > - [[Session 10]]: The Dwarves of Truemetal Halls ask what the deal is, as they’re the only buyer.
 > - [[Session 13]]: When we return to Truemetal Halls, we go to The Warhammer.

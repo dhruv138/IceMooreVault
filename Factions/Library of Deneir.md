@@ -9,13 +9,31 @@ tags:
 ---
 # Library of Deneir
 
+%% card:start %%
+**Type:** Faction · **First seen:** [[Session 13]]
+%% card:end %%
+
+## Summary
+
 Organization dedicated to collecting books, knowledge, artifacts, and secrets. [[Riffle]] is a clandestine field agent. Directed by [[Talir Rengavi]].
 
-## Recent developments
-- [[Session 38]]: Documents were stolen from [[Talir Rengavi]]'s safe. Archivist [[Siobhan]] claims she saw [[Riffle]] enter his office. See [[Talir's Stolen Documents]].
+## Facts by session
+- [[Session 38]]: [reported] Documents were stolen from [[Talir Rengavi]]'s safe. Archivist [[Siobhan]] claims she saw [[Riffle]] enter his office. See [[Talir's Stolen Documents]].
 
 ## Relationships
 ![[Relationships#Amberhold institutions]]
+
+%% connections:start %%
+## Connections
+
+- [[Skeletal Hand]] —once part of, banned→ [[Library of Deneir]]
+- [[Mistra's Academy]] —the Library is an offshoot→ [[Library of Deneir]]
+- [[Library of Deneir]] —connected to→ [[Department of Acquisitions]]
+- [[Skeletal Hand]] —banned from→ [[Library of Deneir]]
+- [[Talir Rengavi]] —Director→ [[Library of Deneir]]
+- [[Ester]] —Chief Archivist→ [[Library of Deneir]]
+- [[Siobhan]] —Archivist→ [[Library of Deneir]]
+%% connections:end %%
 
 %% session-history:start %%
 ## Session history

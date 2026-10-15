@@ -10,6 +10,12 @@ tags:
 ---
 # Dragon League
 
+%% card:start %%
+**Type:** Faction · **First seen:** [[Session 21]]
+%% card:end %%
+
+## Summary
+
 Historical dragon-worshiping organization devoted to [[Tiamat]]. They could control dragons and used them in warfare.
 
 The Dragon League fought the [[Ambercrown Kingdom]] around 15–20 years before the campaign. The notes also describe older Dragon League-related ruins containing:
@@ -20,6 +26,12 @@ The Dragon League fought the [[Ambercrown Kingdom]] around 15–20 years before 
 - documents and blackmail materials
 
 The party recovered evidence that may connect ancient Dragon League activity to [[Axeholm]].
+
+%% connections:start %%
+## Connections
+
+- [[Dragon League]] —found in their vault→ [[Axeholm Map]]
+%% connections:end %%
 
 %% session-history:start %%
 ## Session history

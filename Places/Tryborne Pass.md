@@ -12,6 +12,12 @@ aliases:
 ---
 # Tryborne Pass
 
+%% card:start %%
+**Type:** Place (mountain pass) · **Also called:** Triborn Pass · **First seen:** [[Session 07]]
+%% card:end %%
+
+## Summary
+
 Mountain pass where the party discovered the dead [[Oswald]] caravan.
 
 %% session-history:start %%

@@ -10,7 +10,19 @@ tags:
 ---
 # Kohlemine
 
+%% card:start %%
+**Type:** Place (mine town) · **First seen:** [[Session 17]]
+%% card:end %%
+
+## Summary
+
 Eastern mining settlement associated with the [[Black Hand Dwarves]] and production of [[Anthracite]].
+
+%% connections:start %%
+## Connections
+
+- [[Black Hand Dwarves]] —mine anthracite at→ [[Kohlemine]]
+%% connections:end %%
 
 %% session-history:start %%
 ## Session history

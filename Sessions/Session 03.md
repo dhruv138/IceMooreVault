@@ -3,6 +3,7 @@ title: "Session 3 — 29 February 2025"
 type: session
 session: 3
 date_note: "Source notes say 29 February 2025, which isn't a valid date"
+previous_session: "[[Session 02]]"
 next_session: "[[Session 04]]"
 party:
   - "[[Deanira]]"
@@ -22,6 +23,10 @@ aliases:
   - "Session 3"
 ---
 # Session 3 — 29 February 2025
+
+%% card:start %%
+**Session:** 3 · Source notes say 29 February 2025, which isn't a valid date · **Previous:** [[Session 02]] · **Next:** [[Session 04]]
+%% card:end %%
 
 > [!summary] TL;DR
 > Exploring the sealed mine, the party fights shadow Dwarves, gricks and a gelatinous cube, and recovers goggles of night from two dead Halfling miners. Beyond the cave-in they find Knockers mining mithril for "The Great One" and jump down the chute to meet his priests.

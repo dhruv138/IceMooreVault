@@ -12,10 +12,25 @@ aliases:
 ---
 # Venburg
 
+%% card:start %%
+**Type:** Place (town) · **Also called:** Venberg · **First seen:** [[Session 25]]
+%% card:end %%
+
+## Summary
+
 Winter-oriented fortified community associated with [[WISC]] and [[Furgus]]. Community longhouses, palisades, and strong seasonal traditions. Receives refugees from the [[Eisenberg]] region.
 
 ## Relationships
 ![[Relationships#Dwarven powers and Venburg]]
+
+%% connections:start %%
+## Connections
+
+- [[Philip]] —hunter from→ [[Venburg]]
+- [[Eisenberg]] —unrest sends refugees to→ [[Venburg]]
+- [[Klaus]] —elected leader→ [[Venburg]]
+- [[Lord Ivan Deepshaft]] —sent supply carts→ [[Venburg]]
+%% connections:end %%
 
 %% session-history:start %%
 ## Session history

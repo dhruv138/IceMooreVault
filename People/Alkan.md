@@ -9,6 +9,12 @@ tags:
 ---
 # Alkan
 
+%% card:start %%
+**Type:** Non-player character · **First seen:** [[Session 11]]
+%% card:end %%
+
+## Summary
+
 Goliath druid with [[Ilkan]]'s raiders, often sent out as a hawk or owl to scout; that's how the raiders found the party ([[Session 11]]). Ran off after the camp fell ([[Session 13]]).
 
 %% session-history:start %%

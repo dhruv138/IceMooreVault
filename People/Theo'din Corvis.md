@@ -14,11 +14,24 @@ aliases:
 ---
 # Theo'din Corvis
 
-Shadar-kai associated with the [[Raven Queen]]. Joined the party later and investigated northern necromancy. His twin was taken as the price of a deal his mother made with the Raven Queen.
+%% card:start %%
+**Type:** Non-player character · **Party member** · **Also called:** Theo’din Corvis, Theo'din, Theo · **First seen:** [[Session 32]]
+%% card:end %%
 
-## Recent developments
+## Summary
+
+Shadar-kai associated with the [[Raven Queen]]. Joined the party later and investigated northern necromancy. His mother made a deal with the Raven Queen to survive a near-death experience while pregnant with twins. The price was one twin, collected on their first birthday, and that twin was Theo'din himself ([[Session 32]]).
+
+## Facts by session
 - [[Session 37]]: Visited the [[Temple of the Raven Queen]] to confirm he is on the right path. Communed with the [[Raven Queen]], who appeared in a white mask, black dress and cloak of raven feathers, and recalled the tenets of the Order of the Black Feathers (see [[Raven Queen's servants]]). He feels the party, though "pretty whack", shares his goals. Left a [[Cornhusk Dolls|cornhusk doll]] in the temple.
 - [[Session 38]]: Sensed an enchantment over the people in [[Heaven's Touch]]. Tried to Dispel Magic on [[Zelda]] and was escorted out (see [[Heaven's Touch Enchantment]]).
+
+%% connections:start %%
+## Connections
+
+- [[Theo'din Corvis]] —patron→ [[Raven Queen]]
+- [[Theo'din Corvis]] —Order of the Black Feathers→ [[Raven Queen's servants]]
+%% connections:end %%
 
 %% session-history:start %%
 ## Session history

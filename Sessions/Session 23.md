@@ -18,6 +18,7 @@ npcs:
   - "[[The Bastard]]"
   - "[[Glasses]]"
   - "[[The Poet]]"
+  - "[[Bianca Onyxcrest]]"
 locations:
   - "[[Wren Nalore]]"
   - "[[Living Bloom]]"
@@ -39,6 +40,10 @@ aliases:
 ---
 # Session 23 — 5 February 2026
 
+%% card:start %%
+**Session:** 23 · Played 5 February 2026 (real-world date of the game night, not an in-world date) · **Previous:** [[Session 22]] · **Next:** [[Session 24]]
+%% card:end %%
+
 > [!summary] TL;DR
 > WISC bribes their goods back while Riffle pranks the guard tower. They camp with a grieving [[The Bastard's Band]], then [[Hambrick Onyxcrest]] portals them home to meet [[Talir Rengavi]] and [[Hana Goldfirm]].
 
@@ -50,4 +55,4 @@ We all sit down to share a meal and [[Deanira]] asks if [[The Poet]] is here.
 [[The Bastard]] says, “yeah, he’s with us,” and plays with a necklace around his neck with a vial containing some hairs. They were contracted to go down and deal with the Duergar in the mines that we discovered. They were able to disrupt the activities of the Duergar, but [[The Bastard]] asks, “did you guys see that area with the mushrooms?” We did not go that one route. The Duergar were distilling the mushroom extract to create a type of paralytic. [[The Poet]] got attacked and didn’t make it, but they were able to grab some of his hairs. They are heading down to the [[Emerald Glade]] in Emerald Grove to see if the Druids down there can help.
 We all get ready for bed and we set up the [[Cornhusk Dolls]] and the plush water buffalo, but nothing happens to them.
 In the morning, [[The Bastard]]’s Band are gone. [[Deanira]] hears a voice in her head belonging to the Wizard’s assistant in [[Truemetal Halls]], “The Master would like to see you. Are you available now?” We say yes, but we are still a week’s travel away. A portal appears before us, large enough to fit our horse and donkey as well. We go through. We find ourselves in the Wizard’s shop, and the assistant escorts our animals
-away. We see four individuals before us. [[Hambrick Onyxcrest]], a female half-elf wearing robes from Mistra’s Academy of magic. [[Talir Rengavi]] Rengavi the tallest human we’ve ever seen ([[Riffle]]’s father figure and the head of the Library) and a small gnome with a pixie cut [[Hana Goldfirm]] (Rifffle’s best friend from the Library). [[Riffle]]’s Library is an offshoot of Mistra’s Academy. Within the normal library, there is the Department of Aquisitions, which consists of two teams of two, one of which is [[Hana Goldfirm]], [[Riffle]]’s researcher.
+away. We see four individuals before us. [[Bianca Onyxcrest|Onyxcrest]], a female half-elf wearing robes from Mistra’s Academy of magic. [[Talir Rengavi]] the tallest human we’ve ever seen ([[Riffle]]’s father figure and the head of the Library) and a small gnome with a pixie cut [[Hana Goldfirm]] (Rifffle’s best friend from the Library). [[Riffle]]’s Library is an offshoot of Mistra’s Academy. Within the normal library, there is the Department of Aquisitions, which consists of two teams of two, one of which is [[Hana Goldfirm]], [[Riffle]]’s researcher.

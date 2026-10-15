@@ -42,6 +42,10 @@ aliases:
 ---
 # Session 38 — 24 September 2026
 
+%% card:start %%
+**Session:** 38 · Played 24 September 2026 (real-world date of the game night, not an in-world date) · **Previous:** [[Session 37]]
+%% card:end %%
+
 > [!summary] TL;DR
 > Deanira meets [[Daddy Dildo Daggins]]'s fertility order, the [[Union of Many]], and Theo gets the party ejected from enchanted [[Heaven's Touch]]. Rumours surround [[Peter Owens]] and his family's deaths. At his family mausoleum, [[Talir Rengavi]] accuses Riffle of stealing from his safe.
 

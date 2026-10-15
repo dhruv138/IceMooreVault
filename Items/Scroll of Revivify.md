@@ -10,6 +10,12 @@ tags:
 ---
 # Scroll of Revivify
 
+%% card:start %%
+**Type:** Item (spell scroll) · **First seen:** [[Session 21]]
+%% card:end %%
+
+## Summary
+
 Spell scroll found inside the map case in the Dragon League vault.
 
 %% session-history:start %%

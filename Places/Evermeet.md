@@ -10,6 +10,12 @@ tags:
 ---
 # Evermeet
 
+%% card:start %%
+**Type:** Place (island) · **First seen:** [[Session 36]]
+%% card:end %%
+
+## Summary
+
 Port/island destination represented by an anchor tattoo among sailors in [[Amberhold]].
 
 %% session-history:start %%

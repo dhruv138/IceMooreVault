@@ -11,6 +11,12 @@ aliases:
 ---
 # Evelyn Keep
 
+%% card:start %%
+**Type:** Non-player character · **First seen:** [[Session 36]]
+%% card:end %%
+
+## Summary
+
 Innkeeper of the [[Cock and Pig]] in the Merchant District of [[Amberhold]].
 
 %% session-history:start %%

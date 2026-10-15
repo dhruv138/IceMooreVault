@@ -9,6 +9,12 @@ tags:
 ---
 # Bog's Rest
 
+%% card:start %%
+**Type:** Place (inn)
+%% card:end %%
+
+## Summary
+
 Tavern and lodging in [[Wren Nalore]] with a diverse clientele. The party stayed here while waiting on the [[Living Bloom]] ([[Session 18]]).
 
 - [[Session 18]]: Riffle met the Tabaxi [[Mittens]], who brought news of [[Gauntlet|The Gauntlet]] in [[Amberhold]].

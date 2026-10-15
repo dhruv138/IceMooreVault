@@ -11,9 +11,15 @@ aliases:
 ---
 # Sabrina
 
+%% card:start %%
+**Type:** Non-player character · **First seen:** [[Session 35]]
+%% card:end %%
+
+## Summary
+
 Tiefling bartender at the [[Velvet Glove Brothel]] in [[Amberhold]] and acquaintance of [[Riffle]].
 
-## Recent developments
+## Facts by session
 - [[Session 38]]: Met [[Riffle]] outside the brothel to discuss the rivalry with [[Heaven's Touch]]. Mentioned a young blond man named [[Andrew]] who saw a worker named Angela.
 
 %% session-history:start %%

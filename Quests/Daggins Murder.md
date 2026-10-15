@@ -10,7 +10,9 @@ tags:
 ---
 # Daggins Murder
 
-**Status:** active
+%% card:start %%
+**Type:** Quest · **Status:** active
+%% card:end %%
 
 ## Objective
 
@@ -27,9 +29,19 @@ The party determined:
 - Red Library robes had been discontinued/destroyed about 20 years ago.
 - Someone had purchased unusually small black raven feathers from a fletcher.
 - Daggins's Axeholm research disappeared.
-- [[Sherlock Gnomes]] believes someone was trying to impersonate and frame Riffle.
+- [suspicion] [[Sherlock Gnomes]] believes someone was trying to impersonate and frame Riffle.
 
-## Recent developments
-- [[Session 37]]: [[Ester]] dates the change from red to purple robes to **50–60 years ago**, not about 20 years as recorded above. The source notes conflict, so both are kept. She also says some people may have kept their old robes, so the red-robed figure need not be Library staff.
+## Facts by session
+- [[Session 37]]: [suspicion] [[Ester]] dates the change from red to purple robes to **50–60 years ago**, not about 20 years as recorded above. The source notes conflict, so both are kept. She also says some people may have kept their old robes, so the red-robed figure need not be Library staff.
 - [[Session 38]]: Daggins was "Brother Daggins" of the [[Union of Many]].
 - [[Session 38]]: Riffle is again accused of a theft on the word of a witness. See [[Talir's Stolen Documents]].
+
+%% connections:start %%
+## Connections
+
+- [[Daggins Murder]] —framed: blood letters RI…F, black feathers→ [[Riffle]]
+- [[Daddy Dildo Daggins]] —victim→ [[Daggins Murder]]
+- [[Daggins Murder]] —Axeholm research taken→ [[Daggins's Journal]]
+- [[Sherlock Gnomes]] —concluded Riffle is being framed→ [[Daggins Murder]]
+- [[Hector]] —impostor poisoned the party that night→ [[Daggins Murder]]
+%% connections:end %%

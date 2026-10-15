@@ -10,6 +10,12 @@ tags:
 ---
 # Music Box
 
+%% card:start %%
+**Type:** Item (wondrous item) · **First seen:** [[Session 13]]
+%% card:end %%
+
+## Summary
+
 Found in the druid's tent at the Goliath raider camp by [[Deanira]]. It plays Meredith's Lullaby, known in taverns by a ruder name ([[Session 13]]).
 
 %% session-history:start %%

@@ -10,6 +10,12 @@ tags:
 ---
 # Blade of the Ancestors
 
+%% card:start %%
+**Type:** Item (weapon) · **First seen:** [[Session 29]]
+%% card:end %%
+
+## Summary
+
 Halberd associated with [[Corthos]] / the ancient Goliath hero in [[Quithos the Breaker]]'s tomb.
 
 %% session-history:start %%

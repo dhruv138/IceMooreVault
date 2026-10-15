@@ -2,7 +2,7 @@
 title: "The Warhammer"
 type: location
 location_type: inn
-first_seen: "[[Session 07]]"
+first_seen: "[[Session 02]]"
 tags:
   - place
   - inn
@@ -10,15 +10,29 @@ tags:
 ---
 # The Warhammer
 
+%% card:start %%
+**Type:** Place (inn) · **First seen:** [[Session 02]]
+%% card:end %%
+
+## Summary
+
 Inn and adventurer job hub in [[Truemetal Halls]]. Owned by [[Gunther Rockhammer]].
+
+%% connections:start %%
+## Connections
+
+- [[Gunther Rockhammer]] —runs→ [[The Warhammer]]
+- [[The Warhammer]] —connected to→ [[Truemetal Halls]]
+%% connections:end %%
 
 %% session-history:start %%
 ## Session history
 
-> [!info]- 8 sessions · first [[Session 07]] · last [[Session 25]]
+> [!info]- 9 sessions · first [[Session 02]] · last [[Session 25]]
+> - [[Session 02]]: He mentions the Warhammer Inn and the owner Gunther Rockhammer.
 > - [[Session 07]]: We’re not let into the neighbourhood, so we’re promised payment and head to The Warhammer.
 > - [[Session 09]]: Riﬄe goes to a coffee shop and copies several pages of the journal (the page before, the Axeholm page, and the following page.) The rest of us finish shopping and head back to The Warhammer for the evening.
-> - [[Session 10]]: Anita: Riffle Taylor: WISC Dhruv: Furgus As we walk into The Warhammer, Gunther Rockhammer waves us over.
+> - [[Session 10]]: %% card:start %% Session: 10 · Played 22 July 2025 (real-world date of the game night, not an in-world date) · Previous: Session 09 · Next: Session 11 %% card:end %% Anita: Riffle Taylor: WISC Dhruv: Furgus As we walk…
 > - [[Session 13]]: When we return to Truemetal Halls, we go to The Warhammer.
 > - [[Session 14]]: After feeding Daddy Dildo Daggins we leave him to his work and stop by The Warhammer to tell Gunther Rockhammer we’re headed out on a quest for the Alchemist, and to request that one of the barmaids check in on Daddy…
 > - [[Session 17]]: We head back to The Warhammer and speak to Gunther Rockhammer, but he doesn’t know much.

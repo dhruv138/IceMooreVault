@@ -52,6 +52,10 @@ aliases:
 ---
 # Session 36 — 31 August 2026
 
+%% card:start %%
+**Session:** 36 · Played 31 August 2026 (real-world date of the game night, not an in-world date) · **Previous:** [[Session 35]] · **Next:** [[Session 37]]
+%% card:end %%
+
 > [!summary] TL;DR
 > The party arrives at the Library and lodges around Amberhold. They meet [[Cam Jergins]], whose [[Skeletal Hand]] tattoo was copied from a blond youth. [[Bianca Onyxcrest]] arranges the were-bear cure and explains the [[Gauntlet]], and a messenger delivers the last copy of the journal pages.
 

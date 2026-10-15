@@ -11,6 +11,12 @@ aliases:
 ---
 # Sana Valxia
 
+%% card:start %%
+**Type:** Non-player character · **First seen:** [[Session 18]]
+%% card:end %%
+
+## Summary
+
 Religious leader at the [[Temple of the Wild Mother and Lawbringer]] in [[Wren Nalore]]. Accepted the goblin child into the temple.
 
 %% session-history:start %%

@@ -10,6 +10,12 @@ tags:
 ---
 # Dream Weed
 
+%% card:start %%
+**Type:** Item (consumable) · **First seen:** [[Session 15]]
+%% card:end %%
+
+## Summary
+
 Magical substance sold by [[Fizz and Ugly's Travelling Store]]. Smoking it allows people to share memories via dreams.
 
 %% session-history:start %%

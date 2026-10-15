@@ -12,7 +12,11 @@ aliases:
 ---
 # Gauntlet
 
-**Status:** upcoming
+%% card:start %%
+**Type:** Quest · **Status:** upcoming · **Also called:** The Gauntlet · **First seen:** [[Session 18]]
+%% card:end %%
+
+## Summary
 
 Competition at [[Mistra's Academy]] in [[Amberhold]]. The party will compete on behalf of the [[Library of Deneir]], and has also been asked to represent the Academy. Kicked off by the [[Academy Gala]].
 
@@ -27,6 +31,12 @@ Competition at [[Mistra's Academy]] in [[Amberhold]]. The party will compete on 
 [[Riffle]] glimpsed these in [[Karyn]]'s office:
 - Four teams in total.
 - Five themed rounds: Beasts, Celestials, Fiends, Elementals, and Fey.
+
+%% connections:start %%
+## Connections
+
+- [[Riffle]] —competing for the Library→ [[Gauntlet]]
+%% connections:end %%
 
 %% session-history:start %%
 ## Session history

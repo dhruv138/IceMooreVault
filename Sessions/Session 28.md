@@ -32,6 +32,10 @@ aliases:
 ---
 # Session 28 — 8 April 2026
 
+%% card:start %%
+**Session:** 28 · Played 8 April 2026 (real-world date of the game night, not an in-world date) · **Previous:** [[Session 27]] · **Next:** [[Session 29]]
+%% card:end %%
+
 > [!summary] TL;DR
 > Past an illusory door and rune-bound minotaur skeletons, they kill four [[Skeletal Hand]] members. They find captives from Venburg, including [[Zeke]], [[Ambria]] and [[Wolf]].
 

@@ -9,7 +9,20 @@ tags:
 ---
 # Court
 
+%% card:start %%
+**Type:** Faction · **First seen:** [[Session 08]]
+%% card:end %%
+
+## Summary
+
 Political authority within [[Truemetal Halls]]. [[Lord Ivan Deepshaft]] represents this power structure.
+
+%% connections:start %%
+## Connections
+
+- [[Truemetal Halls]] —connected to→ [[Court]]
+- [[Lord Ivan Deepshaft]] —member→ [[Court]]
+%% connections:end %%
 
 %% session-history:start %%
 ## Session history

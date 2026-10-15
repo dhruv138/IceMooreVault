@@ -13,10 +13,25 @@ aliases:
 ---
 # Christolf Nightfall
 
+%% card:start %%
+**Type:** Non-player character · **Also called:** Christolf, Kristoff Nightfall, Kristof · **First seen:** [[Session 16]]
+%% card:end %%
+
+## Summary
+
 Undertaker in [[Truemetal Halls]] secretly involved with necromancy and the [[Skeletal Hand]]. Ultimately encountered in [[Quithos the Breaker]]'s tomb.
 
-## Recent developments
+## Facts by session
 - [[Session 37]]: The party recalled that the cultist questioned with Speak with Dead in the cave where Christolf was killed had been recruited by a young blond man in [[Amberhold]]. See [[Blond Skeletal Hand Recruiter]].
+
+%% connections:start %%
+## Connections
+
+- [[Master of Death]] —expected him at the rendezvous→ [[Christolf Nightfall]]
+- [[Christolf Nightfall]] —his Greater Zombie assistant→ [[Nastil]]
+- [[Christolf Nightfall]] —stole the body→ [[Dagin Tillmore]]
+- [[Christolf Nightfall]] —reanimated→ [[Corthos]]
+%% connections:end %%
 
 %% session-history:start %%
 ## Session history

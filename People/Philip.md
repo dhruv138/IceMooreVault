@@ -10,11 +10,23 @@ tags:
 ---
 # Philip
 
+%% card:start %%
+**Type:** Player character · **Party member** · **First seen:** [[Session 33]]
+%% card:end %%
+
+## Summary
+
 **Role:** Player character / party member
 
 Hunter from [[Venburg]], helped to bring food for the village, first to be attacked by the wearbear stonegiants.
 
 Philip appears in later campaign notes as part of the adventuring party, including the journey to [[Amberhold]] and the [[Gauntlet]] preparations. Earlier notes do not establish a detailed biography.
+
+%% connections:start %%
+## Connections
+
+- [[Philip]] —hunter from→ [[Venburg]]
+%% connections:end %%
 
 %% session-history:start %%
 ## Session history

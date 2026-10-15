@@ -29,6 +29,10 @@ aliases:
 ---
 # Session 12 — 12 August 2025
 
+%% card:start %%
+**Session:** 12 · Played 12 August 2025 (real-world date of the game night, not an in-world date) · **Previous:** [[Session 11]] · **Next:** [[Session 13]]
+%% card:end %%
+
 > [!summary] TL;DR
 > The night raid goes chaotically: a hopeless Uthal ends up stabbed by Riffle, but survives on a lucky death save without knowing who did it. Loot includes the [[Staff of Ham]], [[Immovable Rod]], [[Helm of the Summer Moon]] and Oswald's wife's pocketwatch.
 

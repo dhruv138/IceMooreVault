@@ -12,10 +12,24 @@ aliases:
 ---
 # Daddy Dildo Daggins
 
+%% card:start %%
+**Type:** Non-player character · **Also called:** Daggins · **First seen:** [[Session 09]]
+%% card:end %%
+
+## Summary
+
 Collector and researcher in [[Truemetal Halls]]. Investigated [[Axeholm]] and the journal cipher. Murdered in his home; his Axeholm research disappeared.
 
-## Recent developments
-- [[Session 38]]: Revealed to have been a member ("Brother Daggins") of the [[Union of Many]], a fertility and love order. This explains his collection of fertility statues. He entrusted a silver dildo to [[Deanira]].
+## Facts by session
+- [[Session 38]]: [fact] Revealed to have been a member ("Brother Daggins") of the [[Union of Many]], a fertility and love order. This explains his collection of fertility statues. He entrusted a silver dildo to [[Deanira]].
+
+%% connections:start %%
+## Connections
+
+- [[Daddy Dildo Daggins]] —deciphered→ [[Daggins's Journal]]
+- [[Daddy Dildo Daggins]] —victim→ [[Daggins Murder]]
+- [[Daddy Dildo Daggins]] —"Brother Daggins"→ [[Union of Many]]
+%% connections:end %%
 
 %% session-history:start %%
 ## Session history

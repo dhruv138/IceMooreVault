@@ -10,4 +10,10 @@ aliases:
 ---
 # Rupert Bubblegum
 
+%% card:start %%
+**Type:** Non-player character · **Also called:** Mr. Bubblegum
+%% card:end %%
+
+## Summary
+
 Gnome with fuzzy pink hair and the deepest voice the party has ever heard. He runs [[The Shooting Star]] magic shop in [[Truemetal Halls]] and couldn't identify the stone ([[Session 08]]).

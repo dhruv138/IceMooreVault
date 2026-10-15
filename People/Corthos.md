@@ -12,7 +12,20 @@ aliases:
 ---
 # Corthos
 
+%% card:start %%
+**Type:** Non-player character · **Also called:** Corthis · **First seen:** [[Session 29]]
+%% card:end %%
+
+## Summary
+
 Ancient Goliath hero entombed in honey at [[Quithos the Breaker]]'s tomb. His body was targeted by the [[Skeletal Hand]] for reanimation.
+
+%% connections:start %%
+## Connections
+
+- [[Christolf Nightfall]] —reanimated→ [[Corthos]]
+- [[Corthos]] —entombed in his tomb→ [[Quithos the Breaker]]
+%% connections:end %%
 
 %% session-history:start %%
 ## Session history

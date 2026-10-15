@@ -10,6 +10,12 @@ tags:
 ---
 # The Forge
 
+%% card:start %%
+**Type:** Place (religious district) · **First seen:** [[Session 15]]
+%% card:end %%
+
+## Summary
+
 Religious/funerary area of [[Truemetal Halls]] where Dwarven bodies are traditionally cremated.
 
 %% session-history:start %%

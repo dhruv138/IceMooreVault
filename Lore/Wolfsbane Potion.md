@@ -9,6 +9,12 @@ tags:
 ---
 # Wolfsbane Potion
 
+%% card:start %%
+**Type:** Lore
+%% card:end %%
+
+## Summary
+
 Campaign recipe notes:
 
 - Wolfsbane

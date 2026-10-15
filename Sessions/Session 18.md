@@ -34,6 +34,10 @@ aliases:
 ---
 # Session 18 — 25 October 2025
 
+%% card:start %%
+**Session:** 18 · Played 25 October 2025 (real-world date of the game night, not an in-world date) · **Previous:** [[Session 17]] · **Next:** [[Session 19]]
+%% card:end %%
+
 > [!summary] TL;DR
 > In Wren Nalore they leave the goblin child with [[Sana Valxia]] and research flesh golems. Deanira has a vision of a satyr drowning at sea before a webbed hand grabs her, and they hear of [[Gauntlet|The Gauntlet]].
 
@@ -42,4 +46,4 @@ We emerge into the city of [[Wren Nalore]], a series of Tiny islands connected b
 [[Riffle]] finds books contemplating necromancy and the ethics of it, as well as some information on flesh golems. It takes some time to create a flesh golem, and it is an intensive process. Theoretically, the process could be sped up through divine or intraplanar intervention. Only very rare books can teach the combining of several people’s magical energies to create a flesh golem. It also requires a large monetary investment to make animation possible. [[Riffle]] doesn’t find much helpful information on the Miner’s Death Lode, which [[Riffle]] attributes to us being a bit removed from the region (we are a little too far south). There are some mentions of the dragon cult, [[Cult of the Destroyer]] (where the dam was we passed by) attempting to mine it, but they eventually closed down because it was not financially feasible due to the cost involved with so many slaves dying of the poison in the mine. [[WISC]] and [[Furgus]] buy a few handheld steel mirrors.
 [[Deanira]] closes her eyes to meditate. She reflects on her journey since leaving home, meeting [[WISC]] and [[Furgus]], the adventures they’ve had. After a while a vision comes on of the night, with countless stars in the sky. [[Deanira]] finds herself lying on wood, swaying with the movement of a ship. She watches the stars in the sky as they shift and move, like they did back home. As she watches the sky, clouds begin to make the stars vanish and a storm brews. Thunder claps and [[Deanira]] gets up to adjust the sails. She notices that her hands are not hers - they are older and more masculine. As her hoofs slip on the wet wood, she sees her legs are fur of a different colour. A rogue wave hits the boat and she’s knocked into the sea. Rope tangles around her foot and the sinking ship drags her down. She fights for breath and begins to see shadowy figures and strange light deep in the water. In the last moment a webbed hand grabs her wrist and she finds herself back in temple.
 We all reconvene and now that it’s close to evening, we head to the local tavern, the Bog’s Rest. We secure some lodging for the next few days. The clientele of the tavern is diverse. [[Riffle]] sits down next to a Tabaxi and asks of news from the South, [[Amberhold]]. They mention celebrations for the King’s birthday and a celebratory event being
-planned called The Gauntlet. [[Riffle]] asks their name and the Tabaxi introduces themself as [[Mittens]] ([[Mittens]]).
+planned called The Gauntlet. [[Riffle]] asks their name and the Tabaxi introduces themself as [[Mittens|Mitt]] (Mittens).

@@ -9,6 +9,10 @@ tags:
 ---
 # Warrior of Kord
 
-**Status:** unresolved
+%% card:start %%
+**Type:** Quest · **Status:** unresolved
+%% card:end %%
+
+## Summary
 
 [[Balgus]], a deceased paladin of Kord, wants his body and equipment recovered from a desecrated mountaintop temple guarded by a [[Glabrezu]].

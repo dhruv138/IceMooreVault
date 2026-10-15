@@ -10,9 +10,15 @@ tags:
 ---
 # Cornhusk Dolls
 
+%% card:start %%
+**Type:** Item (fae object) · **First seen:** [[Session 15]]
+%% card:end %%
+
+## Summary
+
 Recurring dolls resembling party members. Their origin appears to be fae; [[Agatha]] identified them as a [[Wetel|pixie]] creation.
 
-## Recent developments
+## Facts by session
 - [[Session 37]]: [[Theo'din Corvis]] left one in the [[Temple of the Raven Queen]].
 
 See also: [[Mystery of the Cornhusk Dolls]]

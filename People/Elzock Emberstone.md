@@ -12,7 +12,19 @@ aliases:
 ---
 # Elzock Emberstone
 
+%% card:start %%
+**Type:** Non-player character · **Also called:** Elzock, Elzoc · **First seen:** [[Session 05]]
+%% card:end %%
+
+## Summary
+
 Dwarf rescued from the underground tunnels. Son of [[Earl Emberstone]]. Later rewarded the party and returned to his family in the [[Ring of Gold]].
+
+%% connections:start %%
+## Connections
+
+- [[Earl Emberstone]] —father of→ [[Elzock Emberstone]]
+%% connections:end %%
 
 %% session-history:start %%
 ## Session history

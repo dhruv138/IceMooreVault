@@ -12,9 +12,22 @@ aliases:
 ---
 # Siobhan
 
+%% card:start %%
+**Type:** Non-player character · **Also called:** Archivist Siobhan · **First seen:** [[Session 38]]
+%% card:end %%
+
+## Summary
+
 Archivist at the [[Library of Deneir]].
 
-- [[Session 38]]: According to [[Talir Rengavi]], Siobhan saw [[Riffle]] enter Talir's office the afternoon documents were stolen from his safe. See [[Talir's Stolen Documents]].
+- [[Session 38]]: [reported] According to [[Talir Rengavi]], Siobhan saw [[Riffle]] enter Talir's office the afternoon documents were stolen from his safe. See [[Talir's Stolen Documents]].
+
+%% connections:start %%
+## Connections
+
+- [[Siobhan]] —witness→ [[Talir's Stolen Documents]]
+- [[Siobhan]] —Archivist→ [[Library of Deneir]]
+%% connections:end %%
 
 %% session-history:start %%
 ## Session history

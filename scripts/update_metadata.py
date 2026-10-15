@@ -90,9 +90,10 @@ def tags_of(fm):
     return [x.strip()[2:].strip() for x in m.group(1).splitlines()] if m else []
 
 
-def write_fm(p, fields, lists=None):
+def write_fm(p, fields, lists=None, also_owned=()):
+    """also_owned: generated keys to remove when they no longer apply (e.g. next_session)."""
     fm, body = split(p)
-    owned = set(fields) | set(lists or {})
+    owned = set(fields) | set(lists or {}) | set(also_owned)
     out, skip = [], False
     for line in fm.splitlines():
         key = re.match(r"^([a-z_]+):", line)
@@ -157,6 +158,12 @@ def prepare_sessions():
 def refresh(check=frozenset()):
     notes = {p.stem: p for p in VAULT.rglob("*.md")
              if ".git" not in p.parts and p.relative_to(VAULT).parts[0] in set(FOLDER_TYPE) | {"People"}}
+    # Raw session files that haven't been set up yet (no metadata block) are left alone here.
+    raw = {n for n, p in notes.items() if p.relative_to(VAULT).parts[0] == "Sessions"
+           and not p.read_text(encoding="utf-8").startswith("---\n")}
+    for n in raw:
+        print(f"  skipped {n}: not set up yet (raw session text)")
+        del notes[n]
     sessions = sorted((p for p in notes.values() if p.relative_to(VAULT).parts[0] == "Sessions"),
                       key=session_num)
     first_seen, warnings = {}, []
@@ -198,7 +205,7 @@ def refresh(check=frozenset()):
                 key = "party" if name in PARTY else "npcs"
             if key:
                 groups[key].append(name)
-        write_fm(p, fields, groups)
+        write_fm(p, fields, groups, also_owned=("date", "previous_session", "next_session"))
 
         # reminders, for new sessions and the latest one only
         if p.stem not in check and i != len(sessions) - 1:
@@ -230,8 +237,13 @@ def refresh(check=frozenset()):
         else:
             f["type"] = FOLDER_TYPE[folder]
         if folder in ("Quests", "Clues & Mysteries"):
-            m = re.search(r"\*\*Status:\*\* ([^\n.]+)", body)
-            st = m.group(1).strip() if m else next((t for t in tags if t in STATUSES), None)
+            # A status line written at the start of a line wins; otherwise keep the status already
+            # in the metadata; otherwise fall back to tags. (The header card also says "**Status:**",
+            # mid-line, so only line-start matches count.)
+            m = re.search(r"^\*\*Status:\*\* ([^\n.·]+)", body, re.M)
+            current = re.search(r'^status:\s*"?([^"\n·]+)', fm, re.M)
+            st = (m.group(1).strip() if m else current.group(1).strip() if current
+                  else next((t for t in tags if t in STATUSES), None))
             if st:
                 f["status"] = q(st) if " " in st else st
         extra = [t for t in tags if t not in GENERIC_TAGS and t not in STATUSES]

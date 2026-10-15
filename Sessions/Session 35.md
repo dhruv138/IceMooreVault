@@ -43,6 +43,10 @@ aliases:
 ---
 # Session 35 — 17 August 2026
 
+%% card:start %%
+**Session:** 35 · Played 17 August 2026 (real-world date of the game night, not an in-world date) · **Previous:** [[Session 34]] · **Next:** [[Session 36]]
+%% card:end %%
+
 > [!summary] TL;DR
 > At the Venburg festival Riffle reveals how their burn made them a cleric. A portal drops the party, with [[Philip]], into the [[Velvet Glove Brothel]] in Amberhold, where [[Sabrina]] warns of the rival [[Heaven's Touch]].
 

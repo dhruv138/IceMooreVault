@@ -9,10 +9,29 @@ tags:
 ---
 # Skeletal Hand
 
+%% card:start %%
+**Type:** Faction · **First seen:** [[Session 28]]
+%% card:end %%
+
+## Summary
+
 Secret society of necromancers once associated with the [[Library of Deneir]] and [[Mistra's Academy]]. Banned for pushing the boundaries of necromancy. Several members were encountered at [[Quithos the Breaker]]'s tomb.
 
-## Recent developments
-- [[Session 37]]: Appears to recruit in [[Amberhold]] through a coded scholarship flyer and a blond young recruiter. See [[Blond Skeletal Hand Recruiter]].
+## Facts by session
+- [[Session 37]]: [suspicion] Appears to recruit in [[Amberhold]] through a coded scholarship flyer and a blond young recruiter. See [[Blond Skeletal Hand Recruiter]].
+
+%% connections:start %%
+## Connections
+
+- [[Master of Death]] —appears to direct→ [[Skeletal Hand]]
+- [[Skeletal Hand]] —held captives here→ [[Quithos the Breaker]]
+- [[Skeletal Hand]] —once part of, banned→ [[Mistra's Academy]]
+- [[Skeletal Hand]] —once part of, banned→ [[Library of Deneir]]
+- [[Blond Skeletal Hand Recruiter]] —recruits for→ [[Skeletal Hand]]
+- [[Skeletal Hand]] —banned from→ [[Mistra's Academy]]
+- [[Skeletal Hand]] —banned from→ [[Library of Deneir]]
+- [suspicion] [[Peter Owens]] —the recruiter 'Peter'?→ [[Skeletal Hand]]
+%% connections:end %%
 
 %% session-history:start %%
 ## Session history

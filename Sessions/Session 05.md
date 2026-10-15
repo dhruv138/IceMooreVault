@@ -27,6 +27,10 @@ aliases:
 ---
 # Session 5 — 18 April 2025
 
+%% card:start %%
+**Session:** 5 · Played 18 April 2025 (real-world date of the game night, not an in-world date) · **Previous:** [[Session 04]] · **Next:** [[Session 06]]
+%% card:end %%
+
 > [!summary] TL;DR
 > They escape by water breathing past a water weird and free six captives, including [[Elzock Emberstone]]. A dead Halfling adventurer's coded journal yields the word **Axeholm**, and they emerge into daylight.
 

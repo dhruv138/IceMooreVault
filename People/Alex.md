@@ -9,6 +9,12 @@ tags:
 ---
 # Alex
 
+%% card:start %%
+**Type:** Non-player character · **First seen:** [[Session 36]]
+%% card:end %%
+
+## Summary
+
 Sailor at the [[Cock and Pig]] who explained that his ship, back from [[Savehaven]], can't be unloaded because its owner Lord Richard Owens died ([[Session 36]]). See [[Owens Family Deaths]].
 
 %% session-history:start %%

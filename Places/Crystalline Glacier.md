@@ -10,7 +10,19 @@ tags:
 ---
 # Crystalline Glacier
 
+%% card:start %%
+**Type:** Place (landmark) · **First seen:** [[Session 14]]
+%% card:end %%
+
+## Summary
+
 Landmark believed to conceal or mark the buried remains of [[Axeholm]].
+
+%% connections:start %%
+## Connections
+
+- [[Crystalline Glacier]] —rumoured landmark→ [[Axeholm]]
+%% connections:end %%
 
 %% session-history:start %%
 ## Session history

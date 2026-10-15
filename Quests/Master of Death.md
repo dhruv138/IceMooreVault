@@ -11,7 +11,9 @@ tags:
 ---
 # Master of Death
 
-**Status:** active
+%% card:start %%
+**Type:** Quest · **Status:** active · **First seen:** [[Session 30]]
+%% card:end %%
 
 ## Objective
 
@@ -32,8 +34,15 @@ An unidentified male humanoid / human-Elf figure connected to the [[Skeletal Han
 ### Known statement
 He appeared at an extraction rendezvous expecting Christolf and complained that the party had interfered. He then opened a rift and disappeared.
 
-## Recent developments
-- [[Session 37]]: Possible lead on Skeletal Hand recruitment in Amberhold: [[Blond Skeletal Hand Recruiter]].
+## Facts by session
+- [[Session 37]]: [suspicion] Possible lead on Skeletal Hand recruitment in Amberhold: [[Blond Skeletal Hand Recruiter]].
+
+%% connections:start %%
+## Connections
+
+- [[Master of Death]] —expected him at the rendezvous→ [[Christolf Nightfall]]
+- [[Master of Death]] —appears to direct→ [[Skeletal Hand]]
+%% connections:end %%
 
 %% session-history:start %%
 ## Session history

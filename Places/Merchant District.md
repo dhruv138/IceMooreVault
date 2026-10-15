@@ -10,6 +10,12 @@ tags:
 ---
 # Merchant District
 
+%% card:start %%
+**Type:** Place (district) · **First seen:** [[Session 36]]
+%% card:end %%
+
+## Summary
+
 Dockside district of [[Amberhold]], including the [[Cock and Pig]].
 
 %% session-history:start %%

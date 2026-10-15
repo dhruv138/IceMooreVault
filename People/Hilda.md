@@ -11,6 +11,12 @@ aliases:
 ---
 # Hilda
 
+%% card:start %%
+**Type:** Non-player character · **First seen:** [[Session 06]]
+%% card:end %%
+
+## Summary
+
 Halfling proprietor of the [[Black Dragon Inn]], missing both legs. Has unusual dragon-wing trophies and magical expertise.
 
 %% session-history:start %%

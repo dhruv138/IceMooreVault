@@ -10,9 +10,15 @@ tags:
 ---
 # Decanter 3 Table
 
+%% card:start %%
+**Type:** Place (wine shop) · **First seen:** [[Session 36]]
+%% card:end %%
+
+## Summary
+
 Backup wine shop in [[Amberhold]] used by Riffle before dinner with [[Bianca Onyxcrest]].
 
-## Recent developments
+## Facts by session
 - [[Session 37]]: Many alcohol shops now post visible security because of attacks by the [[Sect of Torm]].
 
 %% session-history:start %%

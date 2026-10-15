@@ -9,6 +9,10 @@ tags:
 ---
 # Seasonal Festival
 
-**Status:** completed
+%% card:start %%
+**Type:** Quest · **Status:** completed
+%% card:end %%
+
+## Summary
 
 Attend the family and harvest festival in [[Venburg]].

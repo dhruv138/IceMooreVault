@@ -26,6 +26,10 @@ aliases:
 ---
 # Session 22 — 28 Jan 2026
 
+%% card:start %%
+**Session:** 22 · Played 28 January 2026 (real-world date of the game night, not an in-world date) · **Previous:** [[Session 21]] · **Next:** [[Session 23]]
+%% card:end %%
+
 > [!summary] TL;DR
 > Using ham bait and the Immovable Rod, they harvest basilisk eggs and blood. They then learn they've been exiled from Wren Nalore, largely thanks to Riffle.
 

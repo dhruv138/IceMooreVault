@@ -11,6 +11,12 @@ aliases:
 ---
 # Wolf
 
+%% card:start %%
+**Type:** Non-player character · **First seen:** [[Session 08]]
+%% card:end %%
+
+## Summary
+
 Bugbear hunter from [[Venburg]] rescued from captivity in [[Quithos the Breaker]]'s tomb.
 
 %% session-history:start %%

@@ -9,4 +9,10 @@ tags:
 ---
 # Admiral's Point
 
+%% card:start %%
+**Type:** Place (port)
+%% card:end %%
+
+## Summary
+
 Place with an island to its south, home to a holy pool tended by a religious order of [[Sune]] ([[Session 34]]). One of three blessed-water sites for a [[Wolfsbane Potion]].

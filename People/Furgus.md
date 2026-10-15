@@ -10,6 +10,12 @@ tags:
 ---
 # Furgus
 
+%% card:start %%
+**Type:** Player character · **Party member** · **First seen:** [[Session 03]]
+%% card:end %%
+
+## Summary
+
 **Role:** Player character  
 **Species:** Herrengon
 
@@ -20,7 +26,7 @@ tags:
 
 ## Important relationships
 - [[WISC]], [[Deanira]], [[Riffle]], [[Philip]]
-- [[Uthal]] — complicated relationship with possible romantic undertones.
+- [suspicion] [[Uthal]] — complicated relationship with possible romantic undertones.
 - [[Oma]] — part of WISC's family circle.
 
 ## Notable events
@@ -28,9 +34,18 @@ tags:
 - Became involved in the [[Werebear Curse]] investigation.
 - Helped recover prisoners from [[Quithos the Breaker]]'s tomb.
 
-## Recent developments
+## Facts by session
 - [[Session 37]]: Cured of lycanthropy at the [[Temple of Mistra]] ([[Werebear Curse]]).
 - [[Session 37]]: Spotted the hint of a [[Skeletal Hand]] tattoo on the blond young man at the tavern (see [[Blond Skeletal Hand Recruiter]]).
+
+%% connections:start %%
+## Connections
+
+- [[Furgus]] —complicated…→ [[Uthal]]
+- [[Furgus]] —brother→ [[Bad]]
+- [[Furgus]] —cured S37→ [[Werebear Curse]]
+- [[Furgus]] —complicated→ [[Uthal]]
+%% connections:end %%
 
 %% session-history:start %%
 ## Session history
@@ -42,8 +57,8 @@ tags:
 > - [[Session 06]]: Then Furgus says he had a very similar dream where Abathor gave the same info, but even though Furgus didn’t agree to do a favour, he had to sign a contract with Abathor with his blood anyway.
 > - [[Session 07]]: Furgus sneaks ahead and looks around the curve.
 > - [[Session 08]]: Furgus receives a quiver made of a quilt of chromatic dragon skins, embedded with magical properties.
-> - [[Session 09]]: Lyra: Deanira Taylor: WISC Dhruv: Furgus We decide to spend the day exploring the city, as the monthly market isnt for two days.
-> - [[Session 10]]: Anita: Riffle Taylor: WISC Dhruv: Furgus As we walk into The Warhammer, Gunther Rockhammer waves us over.
+> - [[Session 09]]: %% card:start %% Session: 9 · Played 17 July 2025 (real-world date of the game night, not an in-world date) · Previous: Session 08 · Next: Session 10 %% card:end %% Lyra: Deanira Taylor: WISC Dhruv: Furgus We decide to…
+> - [[Session 10]]: %% card:start %% Session: 10 · Played 22 July 2025 (real-world date of the game night, not an in-world date) · Previous: Session 09 · Next: Session 11 %% card:end %% Anita: Riffle Taylor: WISC Dhruv: Furgus As we walk…
 > - [[Session 11]]: WISC and Furgus disarm him and we talk.
 > - [[Session 13]]: Gunther Rockhammer calls over Furgus and hands him a letter.
 > - [[Session 14]]: Furgus recognises a sparkling quality to the arm, we saw that same glitter after we fell down that large shoot in the mines.
