@@ -12,6 +12,9 @@ tags:
 
 Magic item used creatively by the party, including helping restrain a basilisk in a hunting-trap setup.
 
+## Who has it
+- **Carried by [[Furgus]]**, according to the [[Furgus Character Sheet]] (Session 36 or later).
+
 %% session-history:start %%
 ## Session history
 

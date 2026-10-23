@@ -12,6 +12,9 @@ tags:
 
 Silvery magical tape found in the Dragon League vault.
 
+## Who has it
+- **Carried by [[Furgus]]**, according to the [[Furgus Character Sheet]] (Session 36 or later).
+
 %% session-history:start %%
 ## Session history
 

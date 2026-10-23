@@ -12,6 +12,9 @@ tags:
 
 Helm worn by the reanimated Goliath [[Corthos]] in the tomb of [[Quithos the Breaker]], taken after the fight along with the [[Blade of the Ancestors]] and two jewelled snake arm rings ([[Session 29]]).
 
+## Who has it
+- **Carried by [[Furgus]]**, according to the [[Furgus Character Sheet]] (Session 36 or later).
+
 %% session-history:start %%
 ## Session history
 

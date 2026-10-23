@@ -15,6 +15,9 @@ Capital of the northern [[Confederation]]. Built within the mountains around maj
 ## Relationships
 ![[Relationships#Dwarven powers and Venburg]]
 
+## Recent developments
+- From the notes on the [[Furgus Character Sheet]]: the city stands at Darkhammer Peak, and was founded by Lothar and Astrid Darkhammer, whose statues stand by the gate.
+
 %% session-history:start %%
 ## Session history
 

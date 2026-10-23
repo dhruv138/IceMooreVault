@@ -11,7 +11,9 @@ tags:
 # Furgus
 
 **Role:** Player character  
-**Species:** Herrengon
+**Species:** Harengon (the sessions spell it "Herrengon")  
+**Class:** Ranger 5 (Gloom Stalker) / Fighter 1, level 6 ([[Furgus Character Sheet]])  
+**Player:** Dhruv
 
 ## Known history
 - Family is based in [[Venburg]].
@@ -31,6 +33,14 @@ tags:
 ## Recent developments
 - [[Session 37]]: Cured of lycanthropy at the [[Temple of Mistra]] ([[Werebear Curse]]).
 - [[Session 37]]: Spotted the hint of a [[Skeletal Hand]] tattoo on the blond young man at the tavern (see [[Blond Skeletal Hand Recruiter]]).
+
+## From the character sheet
+- **Snapshot from Session 36 or later.** Full details are in the [[Furgus Character Sheet]].
+- An archer: Archery fighting style and the Sharpshooter feat. Armour Class 17, 52 hit points, initiative +12. Best skills are Stealth +8 and Perception, Survival and Animal Handling at +7.
+- Speaks Common, Dwarvish, Giant and Gnomish, and is proficient with navigator's tools.
+- Spells: Animal Friendship, Ensnaring Strike, Goodberry, Disguise Self and Rope Trick; Jump from his ring; Sending from the stones.
+- Carries [[The Chromatic Quiver]], [[Armour of Cold Resistance]] (so he resists cold), the [[Ring of Jumping]], the [[Dread Helm]], the [[Immovable Rod]], [[Duck Tape]], a [[Wand of Secrets]], [[The Flag of Changing]], the [[Silver Pie Cutter]], 15 owlbear talons and 159 gp.
+- The party came from an alpine valley two days from [[Venburg]] (Venragh), selling sheep, according to the player's notes on the sheet.
 
 %% session-history:start %%
 ## Session history

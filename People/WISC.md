@@ -11,7 +11,9 @@ tags:
 # WISC
 
 **Role:** Player character  
-**Species:** Bugbear
+**Species:** Bugbear  
+**Class:** Barbarian, per the notes on the [[Furgus Character Sheet]] (level unknown)  
+**Player:** Taylor
 
 ## Known history
 - WISC's father left before WISC was a baby.

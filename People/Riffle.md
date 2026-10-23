@@ -12,7 +12,8 @@ tags:
 
 **Role:** Player character  
 **Species:** Kenku  
-**Class:** Cleric of [[Deneir]]
+**Class:** Cleric of [[Deneir]]  
+**Player:** Anita ([[Session 09]])
 
 ## Affiliations
 - [[Library of Deneir]]

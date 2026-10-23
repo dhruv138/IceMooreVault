@@ -12,6 +12,9 @@ tags:
 
 Communication stones purchased in [[Amberhold]]. [[Horizon]] offered an unlimited local sending plan.
 
+## Who has it
+- [[Furgus]] has a set of Amberhold Sending Stones, used to cast *Sending* ([[Furgus Character Sheet]]).
+
 %% session-history:start %%
 ## Session history
 

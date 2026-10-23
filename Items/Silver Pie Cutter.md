@@ -12,6 +12,9 @@ tags:
 
 Belonged to [[Daddy Dildo Daggins]]. [[Riffle]] secretly slipped it, with some gold, into [[Furgus]]'s bag as a prank, and Furgus refused to sell it ([[Session 17]]).
 
+## Who has it
+- **Carried by [[Furgus]]**, according to the [[Furgus Character Sheet]] (Session 36 or later).
+
 %% session-history:start %%
 ## Session history
 

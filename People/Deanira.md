@@ -11,7 +11,9 @@ tags:
 # Deanira
 
 **Role:** Player character  
-**Species:** Satyr
+**Species:** Satyr  
+**Class:** Monk, per the notes on the [[Furgus Character Sheet]] (level unknown)  
+**Player:** Lyra
 
 ## Backstory
 Deanira was raised communally in a coastal village where tides were strange and the stars did not match the charts. She was close to [[Val]], an older satyr cartographer who searched for a mysterious floating island whose position constantly changed. Val believed ruins there could explain the origin of the world and the changing stars. Val eventually disappeared.

@@ -14,6 +14,9 @@ aliases:
 
 Wizard and proprietor of a magic shop in [[Truemetal Halls]]. Identified the [[Mystery Stone]] as an 'onion' layered with spells.
 
+## Recent developments
+- From the notes on the [[Furgus Character Sheet]]: his shop is run by a bored gnome.
+
 %% session-history:start %%
 ## Session history
 

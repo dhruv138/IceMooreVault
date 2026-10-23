@@ -3,6 +3,8 @@ title: "Armour of Cold Resistance"
 type: item
 item_type: magic_armor
 first_seen: "[[Session 21]]"
+aliases:
+  - "Armor of Cold Resistance"
 tags:
   - item
   - magic_armor
@@ -11,6 +13,10 @@ tags:
 # Armour of Cold Resistance
 
 Studded leather armor with abjuration magic, found in the Dragon League vault.
+
+## Who has it
+- **Carried by [[Furgus]]**, according to the [[Furgus Character Sheet]] (Session 36 or later).
+- Attuned. It is his armour, studded leather, giving him resistance to cold.
 
 %% session-history:start %%
 ## Session history
