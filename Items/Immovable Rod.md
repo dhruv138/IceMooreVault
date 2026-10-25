@@ -21,5 +21,5 @@ Magic item used creatively by the party, including helping restrain a basilisk i
 > [!info]- 3 sessions · first [[Session 12]] · last [[Session 39]]
 > - [[Session 12]]: Our loot includes: Helm of the Summer Moon (headband of intellect), an Immovable Rod, a staff that smells faintly smoky (the Staff of Ham), 228 gold, 156 silver, 222 copper, assorted gems worth 129 gold, diamonds…
 > - [[Session 22]]: We are slipping the Immovable Rod through the end of the hunting trap chains and sticking it vertically so the basilisks are stuck in space despite their strength.
-> - [[Session 39]]: Furgus charms Peter into stupour and Deanira uses the immovable rod to impale Richard and fix him to the spot.
+> - [[Session 39]]: Furgus shoots Peter with an Arrow of the Harpy, charming him into a stupour, and Deanira uses the immovable rod to impale Richard and fix him to the spot.
 %% session-history:end %%

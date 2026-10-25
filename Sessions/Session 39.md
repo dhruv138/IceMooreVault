@@ -34,6 +34,7 @@ quests:
   - "[[Missing Sanitation Workers]]"
   - "[[Acquire a Live Mimic]]"
 items:
+  - "[[Arrow of the Harpy]]"
   - "[[Immovable Rod]]"
   - "[[Peter's Spellbook]]"
 tags:
@@ -54,9 +55,9 @@ aliases:
 ### The Mausoleum
 With [[Riffle]] and [[Furgus]] being invisible, [[Deanira]] and the rest of the party sneak to the door to see if it is locked behind [[Peter Owens|Owen's]]. She opens it easily and carefully and sees that it is lit within. Within the stone mausoleum are 4 sarcophagi.
 
-[[Riffle]] somehow sneaks in front of [[Deanira]] without being seen, and as they both enter they feel a magical hook pull them behind the navel and vanish into darkness. [[Furgus]], [[WISC]], and [[Theo'din Corvis|Theo]] see them disappear. [[Furgus]] feels the same tug but doesn't move, as if something is preventing him from being transported.
+[[Riffle]] somehow sneaks in front of [[Deanira]] without being seen, and as they both enter they feel a magical hook pull them behind the navel and vanish into darkness. [[Furgus]], [[WISC]], and [[Theo'din Corvis|Theo]] see them disappear. [[Furgus]] feels the same tug but doesn't move: the glyph couldn't find another sarcophagus to put him into. The glyph is still intact.
 
-[[Deanira]] and [[Riffle]] take a breath in and choke on the poison gas that begins to fill the dark space. They do see the roughness of stone around them but can't make out anything else. [[WISC]] lifts off the lid of the first sarcophagus and [[Furgus]] readies an attack. [[Riffle]] yells and pounds on the stone; we are stuck in the sarcophagi. [[Deanira]] screams, rolls onto her back, and begins kicking the lid with her hooves. [[WISC]] rescues [[Furgus]] and [[Deanira]].
+[[Deanira]] and [[Riffle]] take a breath in and choke on the poison gas that begins to fill the dark space. They do see the roughness of stone around them but can't make out anything else. [[WISC]] lifts off the lid of the first sarcophagus and [[Furgus]] readies an attack. [[Riffle]] yells and pounds on the stone; we are stuck in the sarcophagi. [[Deanira]] screams, rolls onto her back, and begins kicking the lid with her hooves. [[WISC]] rescues [[Riffle]] and [[Deanira]].
 
 ### The Hidden Crypt
 [[WISC]] removes the lid of another sarcophagus and finds that it's wood disguised as stone. Inside the tomb is a ladder leading down. [[Furgus]] goes down first and the room is similarly lit. There are 6 stately coffins and a crest painted on the wall. The [[Owens Family|crest]] has a ship with a mermaid holding an orb in her outstretched hand as the figurehead.
@@ -84,7 +85,7 @@ We enter a new room with hanging lights, cages built into the walls, and two obj
 [[Deanira]] heads over to one of the tables, lifts the corner, and sees part of an incredibly muscular arm with large nails. She feels a tug behind her navel but resists it this time.
 
 ### Confrontation with Peter
-[[Peter Owens|Peter]] emerges and calls on his [[Gezibel Owens|mother]] and [[Richard Owens|father]] to take care of us. [[Furgus]] charms [[Peter Owens|Peter]] into stupour and [[Deanira]] uses the [[Immovable Rod|immovable rod]] to impale [[Richard Owens|Richard]] and fix him to the spot. We finish off the greater zombies and tie up [[Peter Owens|Peter]]. We find a [[Peter's Spellbook|spell book]] on [[Peter Owens|Peter]] and it includes **polymorph** but not **disguise self** or **alter self**.
+[[Peter Owens|Peter]] emerges and calls on his [[Gezibel Owens|mother]] and [[Richard Owens|father]] to take care of us. [[Furgus]] shoots [[Peter Owens|Peter]] with an [[Arrow of the Harpy]], charming him into a stupour, and [[Deanira]] uses the [[Immovable Rod|immovable rod]] to impale [[Richard Owens|Richard]] and fix him to the spot. We finish off the greater zombies and tie up [[Peter Owens|Peter]]. We find a [[Peter's Spellbook|spell book]] on [[Peter Owens|Peter]] and it includes **polymorph** but not **disguise self** or **alter self**.
 
 ### Aftermath
 We step outside and find ourselves at a riverfront on the docks. Interestingly, the door to the [[Owens Warehouse|warehouse]] appears as a wall from the outside. We aren't completely sure we're in [[Amberhold]]. [[Deanira]] looks around behind the warehouse and sees the lights of a city, getting the feeling that they are still in the [[Amberhold]].

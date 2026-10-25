@@ -39,7 +39,7 @@ tags:
 
 ## Recent developments
 - [[Session 37]]: Cured of lycanthropy at the [[Temple of Mistra]] ([[Werebear Curse]]).
-- [[Session 39]]: Lifted the sarcophagus lids. The notes say he rescued "Furgus and Deanira", but it was Riffle and Deanira who were trapped, so [inference] it was probably them, and found the fake wooden sarcophagus hiding the crypt ladder. His socks are Peter's gag.
+- [[Session 39]]: Lifted the sarcophagus lids and rescued [[Riffle]] and [[Deanira]], and found the fake wooden sarcophagus hiding the crypt ladder. His socks are Peter's gag.
 
 %% session-history:start %%
 ## Session history

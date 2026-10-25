@@ -23,7 +23,7 @@ The notes spell the family name both **Owens** ([[Session 36]]) and **Owen** ([[
 **Possible link (still unconfirmed after his capture):** the [[Skeletal Hand]] recruiter in [[Session 30]] was described as a blond youth named Peter. See [[Blond Skeletal Hand Recruiter]].
 
 ## Recent developments
-- [[Session 39]]: **Captured.** He had raised his parents, [[Richard Owens]] and [[Gezibel Owens]], as greater zombies and called on them to attack the party in his laboratory under the [[Owens Warehouse]]. [[Furgus]] charmed him into a stupor, the party destroyed the zombies, and they tied Peter up and gagged him with WISC's socks.
+- [[Session 39]]: **Captured.** He had raised his parents, [[Richard Owens]] and [[Gezibel Owens]], as greater zombies and called on them to attack the party in his laboratory under the [[Owens Warehouse]]. [[Furgus]] shot him with an [[Arrow of the Harpy]], charming him into a stupor; the party destroyed the zombies, and they tied Peter up and gagged him with WISC's socks.
 - [[Session 39]]: His notes name [[Deanira]] and [[Coda's Landing]] as a target, and say he "needs a female phase". See [[Peter's Experiments]].
 - [[Session 39]]: His spellbook includes *polymorph* but not *disguise self* or *alter self* ([[Peter's Spellbook]]).
 - [[Session 39]]: [suspicion] The party called the mausoleum "Owen's" when checking whether the door was locked behind someone, so they took the hooded figure from [[Session 38]] to be Peter.

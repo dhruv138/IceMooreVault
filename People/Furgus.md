@@ -31,8 +31,8 @@ tags:
 ## Recent developments
 - [[Session 37]]: Cured of lycanthropy at the [[Temple of Mistra]] ([[Werebear Curse]]).
 - [[Session 37]]: Spotted the hint of a [[Skeletal Hand]] tattoo on the blond young man at the tavern (see [[Blond Skeletal Hand Recruiter]]).
-- [[Session 39]]: Went in invisible. Felt the mausoleum's teleport tug but stayed put, "as if something is preventing him". The notes don't say what.
-- [[Session 39]]: First to climb into the hidden crypt and first through the crest's teleport. Charmed [[Peter Owens]] into a stupor.
+- [[Session 39]]: Went in invisible. Felt the mausoleum's teleport tug but stayed put: the glyph couldn't find another sarcophagus to put him into.
+- [[Session 39]]: First to climb into the hidden crypt and first through the crest's teleport. Shot [[Peter Owens]] with an [[Arrow of the Harpy]], charming him into a stupor.
 
 %% session-history:start %%
 ## Session history
