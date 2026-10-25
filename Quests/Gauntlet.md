@@ -28,9 +28,13 @@ Competition at [[Mistra's Academy]] in [[Amberhold]]. The party will compete on 
 - Four teams in total.
 - Five themed rounds: Beasts, Celestials, Fiends, Elementals, and Fey.
 
+## Recent developments
+- [[Session 39]]: "Shop for magic items for the Gauntlet" added to the to-do list.
+
 %% session-history:start %%
 ## Session history
 
-> [!info]- 1 session · [[Session 38]]
+> [!info]- 2 sessions · first [[Session 38]] · last [[Session 39]]
 > - [[Session 38]]: Both (separately) are very stressed and overworked preparing the Gala and the Gauntlet.
+> - [[Session 39]]: ## To Do List - ~~Deanira talk to the sailors about rumours about the mysterious unplottable island.~~ - Shop for magic items for the Gauntlet - Shop for the Gala - Find the missing sanitation workers - Riffle wants to…
 %% session-history:end %%

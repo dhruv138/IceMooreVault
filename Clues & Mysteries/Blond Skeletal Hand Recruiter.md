@@ -29,3 +29,6 @@ A blond young man who appears to recruit for the [[Skeletal Hand]] in [[Amberhol
 - [[Riffle]] is considering ordering the drinks again after several days to see whether they are approached.
 
 **Status:** unresolved.
+
+## Recent developments
+- [[Session 39]]: [[Peter Owens]] has been captured. The notes still don't describe his hair or mention a Skeletal Hand tattoo, so whether he's the recruiter "Peter" remains open. He did make greater zombies, as [[Christolf Nightfall]] did with [[Nastil]].

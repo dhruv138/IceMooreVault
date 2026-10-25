@@ -35,11 +35,14 @@ Deanira now travels the Icemoor region, improving her cartography skills and sea
 - [[Session 37]]: Wants to continue Daggins's work collecting fertility statues from around the world.
 - [[Session 38]]: Met the [[Union of Many]] in the basement of [[The Two Tits]] and confirmed [[Daddy Dildo Daggins]] was a member. Showed [[Atheela]] the silver dildo Daggins entrusted to her.
 - [[Session 38]]: Bought a gold and blue feathered ballgown and a collar of fine jewels for the [[Academy Gala]].
+- [[Session 39]]: Teleported into a poison-filled sarcophagus at the mausoleum and kicked at the lid with her hooves until WISC freed her. In Peter's lab she resisted a second tug.
+- [[Session 39]]: **Targeted.** Peter's notes list "Deanira? Coda's Landing" after a string of crossed-out names. See [[Peter's Experiments]].
+- [[Session 39]]: Pinned [[Richard Owens]] in place with the [[Immovable Rod]].
 
 %% session-history:start %%
 ## Session history
 
-> [!info]- 34 sessions · first [[Session 03]] · last [[Session 38]]
+> [!info]- 35 sessions · first [[Session 03]] · last [[Session 39]]
 > - [[Session 03]]: Deanira lights the lantern and Wisk leads the way.
 > - [[Session 04]]: He comes back and tells WISC and Deanira about the lake and the stone door.
 > - [[Session 05]]: As Deanira surfaces, Furgus feels the water around him tighten up and grapple him.
@@ -74,4 +77,5 @@ Deanira now travels the Icemoor region, improving her cartography skills and sea
 > - [[Session 36]]: Due to the Festival, the city is inundated with people and we all will be staying at different locations: Deanira: The Two Tits (Western side of market square) Furgus and Philip: Cock and Pig (Merchant District close to…
 > - [[Session 37]]: Deanira wakes up early and the smell of fresh pastries waft upstairs.
 > - [[Session 38]]: Deaníra walks down to the basement to see how many people are down there.
+> - [[Session 39]]: ## Session Notes ### The Mausoleum With Riffle and Furgus being invisible, Deanira and the rest of the party sneak to the door to see if it is locked behind Owen's.
 %% session-history:end %%

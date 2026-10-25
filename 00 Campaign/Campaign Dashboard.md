@@ -59,7 +59,8 @@ SORT reverse(sort(filter(file.inlinks, (l) => startswith(meta(l).path, "Sessions
 | Cornhusk dolls / Fae | unresolved | [[Cornhusk Dolls]], [[Mystery of the Cornhusk Dolls]], [[Wetel]], [[Agatha]] |
 | Anthracite / Mithril supply | unresolved | [[Black Hand Dwarves]], [[Kohlemine]], [[Anthracite Trade Mystery]] |
 | Floating island / Val | unresolved | [[Deanira]], [[Val]], [[Floating Island Mystery]] |
-| Owens family deaths | unresolved | [[Owens Family Deaths]], [[Peter Owens]], [[Owens Family Mausoleum]] |
+| Owens family deaths | unresolved (parents raised as zombies, S39) | [[Owens Family Deaths]], [[Peter Owens]], [[Owens Family Mausoleum]], [[Owens Family]] |
+| Peter's experiments | unresolved; Deanira targeted | [[Peter's Experiments]], [[Owens Warehouse]], [[Peter's Spellbook]] |
 | Heaven's Touch enchantment | unresolved | [[Heaven's Touch Enchantment]], [[Heaven's Touch]], [[Zelda]] |
 | Gala & Gauntlet | upcoming | [[Academy Gala]], [[Gauntlet]], [[Mistra's Academy]] |
 | Missing sanitation workers | active | [[Missing Sanitation Workers]] |

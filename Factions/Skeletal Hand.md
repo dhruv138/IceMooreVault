@@ -13,6 +13,7 @@ Secret society of necromancers once associated with the [[Library of Deneir]] an
 
 ## Recent developments
 - [[Session 37]]: Appears to recruit in [[Amberhold]] through a coded scholarship flyer and a blond young recruiter. See [[Blond Skeletal Hand Recruiter]].
+- [[Session 39]]: [suspicion] [[Peter Owens]] raised greater zombies in a hidden laboratory. Nothing found there names the Skeletal Hand. See [[Peter's Experiments]].
 
 %% session-history:start %%
 ## Session history

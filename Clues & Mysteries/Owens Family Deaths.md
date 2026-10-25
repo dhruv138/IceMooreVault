@@ -21,3 +21,8 @@ Lord Richard Owens, a wealthy [[Amberhold]] merchant, and his wife recently died
 - A cloaked, hooded figure entered the mausoleum and vanished as the party arrived.
 
 **Status:** unresolved.
+
+## Recent developments
+- [[Session 39]]: [[Richard Owens|Lord Richard]] and [[Gezibel Owens|Lady Gezibel Owens]]'s coffins in the hidden crypt were **empty**. [[Peter Owens]] had raised them as **greater zombies**, and the party destroyed them in his laboratory.
+- [[Session 39]]: Still unknown: how they died, and whether Peter killed them or only raised them afterwards. The cook rumour ([[Session 38]]) is neither confirmed nor ruled out.
+- [inference] In [[Session 25]], [[Lord Ivan Deepshaft]] said a greater zombie can only be made from someone who was "greater" in life, not a commoner. Wealthy nobles would qualify.

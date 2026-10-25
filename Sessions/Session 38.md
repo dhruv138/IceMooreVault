@@ -4,6 +4,7 @@ type: session
 session: 38
 date: 2026-09-24
 previous_session: "[[Session 37]]"
+next_session: "[[Session 39]]"
 party:
   - "[[Deanira]]"
   - "[[Riffle]]"

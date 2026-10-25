@@ -7,7 +7,7 @@
    "x": 380,
    "y": -40,
    "width": 800,
-   "height": 1000,
+   "height": 1340,
    "color": "3"
   },
   {
@@ -176,6 +176,25 @@
    "y": 0,
    "width": 300,
    "height": 110
+  },
+  {
+   "id": "n17",
+   "type": "file",
+   "file": "Clues & Mysteries/Peter's Experiments.md",
+   "x": 840,
+   "y": 840,
+   "width": 300,
+   "height": 170,
+   "color": "1"
+  },
+  {
+   "id": "n18",
+   "type": "file",
+   "file": "Places/Owens Warehouse.md",
+   "x": 840,
+   "y": 1100,
+   "width": 300,
+   "height": 170
   }
  ],
  "edges": [
@@ -305,6 +324,34 @@
    "toNode": "n14",
    "toEnd": "arrow",
    "label": "grad student, on leave"
+  },
+  {
+   "id": "e18",
+   "fromNode": "n11",
+   "toNode": "n17",
+   "toEnd": "arrow",
+   "label": "his laboratory (captured S39)"
+  },
+  {
+   "id": "e19",
+   "fromNode": "n13",
+   "toNode": "n18",
+   "toEnd": "arrow",
+   "label": "crest teleports to"
+  },
+  {
+   "id": "e20",
+   "fromNode": "n17",
+   "toNode": "n18",
+   "toEnd": "arrow",
+   "label": "hidden in its cellar"
+  },
+  {
+   "id": "e21",
+   "fromNode": "n11",
+   "toNode": "n12",
+   "toEnd": "arrow",
+   "label": "raised his parents as greater zombies"
   }
  ]
 }
