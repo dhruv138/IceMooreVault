@@ -11,6 +11,8 @@ Options:
     --model NAME      Ollama model to use (or set OLLAMA_MODEL). Required.
     --core            Use the reduced context (session recaps only). Misses session details.
     --ctx N           Context window to request, in tokens. Default: sized to fit the vault.
+    --effort LEVEL    Reasoning effort for gpt-oss models: low, medium or high (default medium).
+                      High is slower and, in testing, didn't give better answers. Ignored by other models.
     --show-thinking   Print the model's reasoning as well as its answer.
     --force           Run even if the model's context limit looks too small.
     --host URL        Ollama address (default http://localhost:11434, or OLLAMA_HOST).
@@ -30,17 +32,31 @@ from pathlib import Path
 VAULT = Path(__file__).resolve().parent.parent
 FULL = VAULT / "LLM" / "Icemoor Full Context.md"
 CORE = VAULT / "LLM" / "Icemoor Core Context.md"
-REPLY_ROOM = 12_288  # tokens kept free for the model's reasoning and answer
+REPLY_ROOM = 20_480  # tokens kept free for the model's reasoning and answer (high effort reasons at length)
+
+RULES = (
+    "1. Cite a session for every factual claim, e.g. (Session 24). If you can't name the session or note "
+    "that says it, leave the claim out.\n"
+    "2. Never fill gaps. Don't add races, appearances, relationships, motives, places, names, numbers or "
+    "causes that the vault doesn't write down, even when they seem likely. Say \"the vault doesn't say\" "
+    "instead.\n"
+    "3. Don't name people the notes don't name for that point. If the notes say \"the others\", say that.\n"
+    "4. When the vault marks something [reported], [suspicion] or [inference], repeat that label next to "
+    "it in your answer. Never state a suspicion as fact.\n"
+    "5. When asked to speculate, start the conclusion with \"Inference:\", and weigh the evidence that "
+    "rules a possibility out (alibis, witnesses, earlier frame-ups) as carefully as the evidence for it.\n"
+    "6. If the question assumes something the vault doesn't contain, say so plainly."
+)
 
 SYSTEM = (
     "You are a careful assistant for a Dungeons & Dragons campaign. The user's entire campaign vault is "
     "included below. Treat it as the only source of campaign facts. Follow its 'AI Reading Guide': session "
-    "notes outrank summaries; respect the evidence labels ([reported], [suspicion], [inference]); check "
-    "'Contradictions and Uncertainties' before stating disputed points as settled. Cite the session numbers "
-    "your answer relies on. Keep apart what happened, what someone claimed, what the party suspects, and "
-    "your own inference. When asked to speculate or make assumptions, do so, label it as inference, and give "
-    "the evidence for and against. If the vault doesn't say, say so.\n\n"
-    "=== BEGIN CAMPAIGN VAULT ===\n{vault}\n=== END CAMPAIGN VAULT ==="
+    "notes outrank summaries; check 'Contradictions and Uncertainties' before stating disputed points as "
+    "settled. Keep apart what happened, what someone claimed, what the party suspects, and your own "
+    "inference. A short answer that sticks to the notes is better than a full one that guesses.\n\n"
+    "Rules:\n" + RULES + "\n\n"
+    "=== BEGIN CAMPAIGN VAULT ===\n{vault}\n=== END CAMPAIGN VAULT ===\n\n"
+    "Reminder: answer only from the vault above, and follow these rules:\n" + RULES
 )
 
 
@@ -67,9 +83,12 @@ def model_context_limit(host, model):
     return None
 
 
-def chat(host, model, messages, num_ctx, show_thinking):
+def chat(host, model, messages, num_ctx, show_thinking, effort):
     payload = {"model": model, "messages": messages, "stream": True,
                "options": {"num_ctx": num_ctx}, "keep_alive": "30m"}
+    # Only gpt-oss takes a reasoning level; other models accept just on/off and reject a level.
+    if model.startswith("gpt-oss"):
+        payload["think"] = effort
     resp = call(host, "/api/chat", payload, stream=True, timeout=3600)
     answer, in_think = [], False
     for line in resp:
@@ -114,6 +133,7 @@ def main():
     ap.add_argument("--model", default=os.environ.get("OLLAMA_MODEL"))
     ap.add_argument("--core", action="store_true")
     ap.add_argument("--ctx", type=int)
+    ap.add_argument("--effort", choices=["low", "medium", "high"], default="medium")
     ap.add_argument("--show-thinking", action="store_true")
     ap.add_argument("--force", action="store_true")
     ap.add_argument("--host", default=os.environ.get("OLLAMA_HOST", "http://localhost:11434"))
@@ -171,7 +191,7 @@ def main():
                     break
                 print()
             messages.append({"role": "user", "content": q})
-            reply = chat(a.host, a.model, messages, num_ctx, a.show_thinking)
+            reply = chat(a.host, a.model, messages, num_ctx, a.show_thinking, a.effort)
             messages.append({"role": "assistant", "content": reply})
     except KeyboardInterrupt:
         print("\nStopped.")

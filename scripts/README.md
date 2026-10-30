@@ -145,7 +145,7 @@ Commit and push the changes the way you normally back up the vault. The update c
 ### One-time setup
 
 1. **Install Ollama.** Download it from **ollama.com** and install it like any other app. On a Mac or Windows it runs in the background once installed.
-2. **Download a model with a large memory.** The whole vault is about 80,000 tokens (roughly 60,000 words), so the model must be able to hold at least about **96,000 tokens** at once. Models advertise this as their "context length". Pick one with **128K** or more.
+2. **Download a model with a large memory.** The whole vault is about 80,000 tokens (roughly 60,000 words), so the model must be able to hold at least about **100,000 tokens** at once. Models advertise this as their "context length". Pick one with **128K** or more.
    - In a terminal, type `ollama pull` followed by the model's name and press Return/Enter. A good starting choice is `ollama pull gpt-oss:20b` (a 14 GB download; holds 128K). `decisions.md` lists other options.
    - Check how much a model can hold: type `ollama show gpt-oss:20b` and look for **context length**. If it says 40960 (40K), that model is too small for the whole vault. This is true of the `qwen3:8b` and `qwen3:1.7b` models, for example.
 3. **Expect it to need memory.** Holding the whole vault takes several GB of extra memory on top of the model itself, and the first answer can take a few minutes while the model reads everything. Later questions in the same chat are faster.
@@ -162,6 +162,7 @@ You can also ask a single question in one go: `python3 scripts/ask_vault.py --mo
 
 **Useful extras** (add them after the model name):
 - `--show-thinking` shows the model's reasoning before its answer.
+- `--effort low`, `--effort medium` or `--effort high` sets how hard gpt-oss models think before answering. The default is `medium`. `high` is slower, and in testing on the test questions it didn't give better answers. Other models ignore it.
 - `--core` uses a smaller version of the vault (about 36,000 tokens) that keeps every note but only the recap of each session. Use it only if your model can't hold the full vault, because it **will** miss details that only appear in the session text.
 
 If the model is too small for the vault, the script stops before sending anything and tells you what to do. It never sends a vault that's been cut short without saying so.

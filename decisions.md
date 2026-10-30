@@ -26,7 +26,7 @@ Measured on this branch (token counts are estimates at about 3.7 characters per 
 | of which session text | about 50,000 | 32,600 words, the primary record |
 | **Core context** | about 36,000 | every note, but sessions reduced to their recap |
 
-**Decision:** the model needs a context window of at least **96,000 tokens** for the full vault (80,000 plus about 12,000 of room to reason and answer). In practice, choose a model with a **128K or larger** context length.
+**Decision:** the model needs a context window of at least **100,000 tokens** for the full vault (80,000 plus about 20,000 of room to reason and answer; raised from 12,000 because high reasoning effort thinks at length). In practice, choose a model with a **128K or larger** context length.
 
 **Models checked on Ollama's library** (October 2026; confirm with `ollama show <model>`):
 
