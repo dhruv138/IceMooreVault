@@ -74,14 +74,21 @@ Riffle bursts into Talir's office to explain...
 
 You can name the note `Session 39` or `Session_39`; the script fixes the name either way. Don't add a header or metadata yourself; the script writes them.
 
-### Step 2. Link the names (recommended)
+### Step 2. Link the names (mostly automatic)
 
-The vault knows a person, place or quest is in a session only when its name is a link. To link a name, type two square brackets `[[` and start typing it. Obsidian shows a list of matching notes; pick one and it becomes `[[Talir Rengavi]]`.
+The vault knows a person, place or quest is in a session only when its name is a link. **The update links names for you** the first time it sets up a new session, and keeps your wording: "Peter" becomes `[[Peter Owens|Peter]]`, which still reads "Peter" in Obsidian.
+
+It deliberately skips names that are also ordinary words (Tiny, Queen, Wolf and a few others), and it can't link someone who has no note yet. For those, link by hand: type `[[`, start typing the name and pick from the list.
 
 - **To keep the wording you wrote**, add a vertical bar after the name: `[[Theo'din Corvis|Theo]]` shows as "Theo" but links to Theo'din's note.
 - **For someone new**, link the name anyway. The link shows faded because there's no note yet; click it and Obsidian creates the note. Put new notes in the right folder (People, Places, and so on).
 
-You don't have to link everything before running the update. The update lists the names it found that aren't linked yet (see Step 5).
+To link names in a session that's already set up (say, after adding new notes), run this from a terminal in the vault folder. The first line only shows what it would link; the second does it:
+
+```
+python3 scripts/link_session.py "Session 39"
+python3 scripts/link_session.py "Session 39" --apply
+```
 
 ### Step 3. Add a short recap (optional)
 
@@ -138,6 +145,46 @@ Commit and push the changes the way you normally back up the vault. The update c
 
 ---
 
+## Part 3 (optional): Let a local AI model suggest notes
+
+Step 1 to 7 keep the metadata and links tidy, but they don't write anything new: no recap, no notes for new people, no "what changed" lines on existing notes. A model running on your own computer through **Ollama** can suggest those. Nothing goes into the vault until you've ticked it.
+
+### One-time setup
+
+1. Install Ollama from ollama.com and open it.
+2. In a terminal, download a model. `qwen3:8b` works on most laptops with 16 GB of memory; `gpt-oss:20b` is better if you have 24 GB or more:
+
+   ```
+   ollama pull qwen3:8b
+   ```
+
+### After each session
+
+1. Do Part 2, Steps 1 to 4 first, so the session is set up and linked.
+2. Ask the model for suggestions (a few minutes on a laptop):
+
+   ```
+   python3 scripts/ingest_session.py --model qwen3:8b "Session 39"
+   ```
+
+   It reads the session plus every note the session links to, and a one-line list of every other note, so it knows what already exists. If the model's memory is too small for all that, it says so and stops rather than guessing.
+3. Open **Ingestion/Session 39 proposals.md** in Obsidian. It lists a recap, new notes, facts for existing notes, status changes and open questions, each with the line from the session it came from.
+   - Tick the box on each item you agree with.
+   - Change an item's wording if you like, but keep the `%%f3%%`-style marker at the start.
+   - Items under **Rejected** failed the automatic checks: the quote isn't actually in the session, the name doesn't appear in the session, the note already exists or doesn't exist, or a status was given to something that isn't a quest or mystery. They can't be applied; add them by hand if one is right.
+4. Write the ticked items into the vault:
+
+   ```
+   python3 scripts/apply_ingestion.py "Session 39"
+   ```
+
+   This adds the recap box, creates the new notes, adds facts under **Recent developments** on each note (marked with the session), adds questions under **Open questions**, updates statuses, links the new names in the session, and then runs the normal update. Applied items get a ✓ on the proposals page. You can tick more items later and run it again; items already applied are skipped.
+5. Check the changes before you save to GitHub (Part 2, Step 7). In GitHub Desktop or `git diff` you can see exactly what was added.
+
+Other options for `ingest_session.py`: `--think` lets reasoning models think first (slower, sometimes better); `--host` points at Ollama on another computer; `--ctx` sets the context size yourself. You can set the `OLLAMA_MODEL` environment variable instead of typing `--model` each time.
+
+---
+
 ## What each file does
 
 | File | What it's for |
@@ -145,8 +192,12 @@ Commit and push the changes the way you normally back up the vault. The update c
 | `Update Vault (Mac).command` | Double-click shortcut that runs everything on a Mac |
 | `Update Vault (Windows).bat` | Double-click shortcut that runs everything on Windows |
 | `update_all.py` | Runs the three scripts below, in order |
-| `update_metadata.py` | Sets up new session files, refreshes each note's metadata block, and lists the "Things to check" |
+| `update_metadata.py` | Sets up new session files (links names, adds a Timeline entry), refreshes each note's metadata block, and lists the "Things to check" |
 | `update_session_history.py` | Rewrites the collapsed **Session history** box at the bottom of each note |
+| `link_session.py` | Links names in a session while keeping your wording; `update_metadata.py` uses it for new sessions |
+| `vault_names.py` | The shared list of note names and the rules for matching them in text |
+| `ingest_session.py` | Asks a local Ollama model for suggestions and writes the proposals page in `Ingestion/` |
+| `apply_ingestion.py` | Writes the ticked items from a proposals page into the vault |
 | `build_dashboard.py` | Rebuilds `dashboard/Icemoor Dashboard.html` |
 | `dashboard_template.html` | The dashboard's design; `build_dashboard.py` fills it with the vault's data |
 | `requirements.txt` | Extra Python packages to install (none at the moment) |
