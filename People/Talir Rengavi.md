@@ -23,7 +23,7 @@ Director of the [[Library of Deneir]] and a father figure to [[Riffle]]. He can 
 %% session-history:start %%
 ## Session history
 
-> [!info]- 9 sessions · first [[Session 23]] · last [[Session 38]]
+> [!info]- 10 sessions · first [[Session 23]] · last [[Session 39]]
 > - [[Session 23]]: Talir Rengavi Rengavi the tallest human we’ve ever seen (Riffle’s father figure and the head of the Library) and a small gnome with a pixie cut Hana Goldfirm (Rifffle’s best friend from the Library).
 > - [[Session 24]]: We develop a counter offer of giving it to Talir Rengavi for 2,000 gp.
 > - [[Session 28]]: This was before Riffle’s time, before even Talir Rengavi’s time.
@@ -33,4 +33,5 @@ Director of the [[Library of Deneir]] and a father figure to [[Riffle]]. He can 
 > - [[Session 36]]: After exchanging (somewhat) pleasantries we head to see Riffle’s pseudo-father, Talir Rengavi, Director of the Library.
 > - [[Session 37]]: Riffle asks talir if he can read what it says and Talir takes this as riffle admitting that they can't read, and Talir feels terrible and apologizes for being a "bad" father who failed them.
 > - [[Session 38]]: Meanwhile Riffle visits Talir and then a staff member named Karyn (Bianca's assistant).
+> - [[Session 39]]: Theo'din Corvis offers to send his raven to deliver a letter from Riffle to Talir Rengavi.
 %% session-history:end %%

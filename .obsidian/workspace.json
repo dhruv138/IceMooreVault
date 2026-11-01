@@ -25,10 +25,14 @@
             "id": "4c705422d350c40f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Places/Velvet Glove Brothel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Velvet Glove Brothel"
             }
           }
         ],
@@ -66,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "goslin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -224,8 +228,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4c705422d350c40f",
+  "active": "81737c77dc23475c",
   "lastOpenFiles": [
+    "Sessions/Session 39.md",
+    "scripts/__pycache__/update_metadata.cpython-314.pyc",
+    "scripts/__pycache__/build_dashboard.cpython-314.pyc",
+    "Sessions/Session39.md",
+    "People/Bianca Onyxcrest.md",
+    "Clues & Mysteries/Lords of the Elements.md",
     "Sessions/Session_37.md",
     "Session_37.md",
     "Sessions/Session 05.md",
@@ -248,10 +258,6 @@
     "Sessions/Session 28.md",
     "Sessions/Session 08.md",
     "Sessions/Session 18.md",
-    "Sessions/Session 03.md",
-    "Sessions/Session 13.md",
-    "Sessions/Session 27.md",
-    "Sessions/Session 07.md",
     "Resources/Icemoor Mountains copy.docx",
     "Untitled.canvas",
     "Sessions",
@@ -260,8 +266,6 @@
     "Places",
     "People",
     "Lore",
-    "Items",
-    "Factions",
-    "Clues & Mysteries"
+    "Items"
   ]
 }

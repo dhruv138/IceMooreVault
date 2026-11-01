@@ -23,7 +23,7 @@ Shadar-kai associated with the [[Raven Queen]]. Joined the party later and inves
 %% session-history:start %%
 ## Session history
 
-> [!info]- 7 sessions · first [[Session 32]] · last [[Session 38]]
+> [!info]- 8 sessions · first [[Session 32]] · last [[Session 39]]
 > - [[Session 32]]: Deanira approaches him and he introduces himself as Theo'din Corvis.
 > - [[Session 33]]: On the way, Riffle asks Theo'din Corvis about his travels and story.
 > - [[Session 34]]: Theo'din Corvis and Furgus collect vials of were-bear blood.
@@ -31,4 +31,5 @@ Shadar-kai associated with the [[Raven Queen]]. Joined the party later and inves
 > - [[Session 36]]: Due to the Festival, the city is inundated with people and we all will be staying at different locations: Deanira: The Two Tits (Western side of market square) Furgus and Philip: Cock and Pig (Merchant District close to…
 > - [[Session 37]]: Theo visits the local Temple of the raven Queen to check it out.
 > - [[Session 38]]: Theo notices that there is an aura or enchantment that seems settled on people in here.
+> - [[Session 39]]: Furgus, WISC, and Theo'din Corvis see them disappear.
 %% session-history:end %%

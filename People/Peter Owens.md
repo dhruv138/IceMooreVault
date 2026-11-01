@@ -25,7 +25,8 @@ The notes spell the family name both **Owens** ([[Session 36]]) and **Owen** ([[
 %% session-history:start %%
 ## Session history
 
-> [!info]- 2 sessions · first [[Session 36]] · last [[Session 38]]
+> [!info]- 3 sessions · first [[Session 36]] · last [[Session 39]]
 > - [[Session 36]]: Riffle heard that his son Philip?Peter?
 > - [[Session 38]]: We head to the Academy to see about a graduate student named Peter.
+> - [[Session 39]]: The coffins are labeled: - Harold Owens & Margaret Owens - Nicholas Brightvine & Elizabeth Brightvine - Lord Richard Owens & Lady Gezibel Owens (Peter Owens's parents) Furgus notices that there is no smell of…
 %% session-history:end %%

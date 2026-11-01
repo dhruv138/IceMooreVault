@@ -43,7 +43,7 @@ tags:
 %% session-history:start %%
 ## Session history
 
-> [!info]- 33 sessions · first [[Session 03]] · last [[Session 37]]
+> [!info]- 34 sessions · first [[Session 03]] · last [[Session 39]]
 > - [[Session 03]]: We feel a rumble. 2 gricks pop out of the burrows and instantly down WISC.
 > - [[Session 04]]: He comes back and tells WISC and Deanira about the lake and the stone door.
 > - [[Session 05]]: We’re still in the hallway where we went to sleep, and WISC wakes up to find a scroll and a pouch of coins next to him.
@@ -77,4 +77,5 @@ tags:
 > - [[Session 35]]: There is a braided leather band that connects Riffle’s head feathers to WISC’s ears.
 > - [[Session 36]]: Due to the Festival, the city is inundated with people and we all will be staying at different locations: Deanira: The Two Tits (Western side of market square) Furgus and Philip: Cock and Pig (Merchant District close to…
 > - [[Session 37]]: She removes the Mask of the Green Dragon, and suddenly Deanira feels a lot better about Wisc.
+> - [[Session 39]]: Furgus, WISC, and Theo'din Corvis see them disappear.
 %% session-history:end %%
