@@ -2,6 +2,7 @@
 title: "The Vine's Bounty"
 type: location
 location_type: wine_shop
+first_seen: "[[Session 36]]"
 tags:
   - place
   - wine_shop

@@ -24,6 +24,6 @@ Ancient Dwarven city lost beneath the glacier. Once wealthy from gold and jewels
 > - [[Session 21]]: We find a map case (unopened, necromantic magic) and a map of Axeholm.
 > - [[Session 25]]: All of his research and material on Axeholm is gone.
 > - [[Session 32]]: Theo'din Corvis’din heard that someone had a prophecy of the ancient city of Axeholm and the undead horrors within.
-> - [[Session 35]]: Riffle’S RULES FOR CITY ETIQUETTE •	Be suspicious of people who “know you” but you don’t know them •	Don’t scream about Axeholm or necromancy or “Master of Death” or “Skeletal Hand”
+> - [[Session 35]]: Don’t scream about Axeholm or necromancy or “Master of Death” or “Skeletal Hand”
 > - [[Session 36]]: Bianca Onyxcrest mentions that Talir Rengavi said that Riffle is looking for Axeholm and she asks how it’s going.
 %% session-history:end %%

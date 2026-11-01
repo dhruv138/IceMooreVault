@@ -20,7 +20,8 @@ A warehouse by the waterfront, recently converted, and beautiful inside, compara
 %% session-history:start %%
 ## Session history
 
-> [!info]- 2 sessions · first [[Session 37]] · last [[Session 38]]
-> - [[Session 37]]: shop for the Gala - Find the missing sanitation workers - Riffle want to go to Heaven's Touch (the brothel competition) - Riffle to see Esther (Head Archivist of the Library)(Done)
+> [!info]- 3 sessions · first [[Session 37]] · last [[Session 39]]
+> - [[Session 37]]: Riffle want to go to Heaven's Touch (the brothel competition)
 > - [[Session 38]]: Sabrina had agreed to meet Riffle outside of the brothel. for a drink and to talk about the competition between the Velvet Glove and Heaven's Touch.
+> - [[Session 39]]: Riffle wants to go to Heaven's Touch (the brothel competition)
 %% session-history:end %%

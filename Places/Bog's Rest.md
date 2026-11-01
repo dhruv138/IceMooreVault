@@ -2,6 +2,7 @@
 title: "Bog's Rest"
 type: location
 location_type: inn
+first_seen: "[[Session 18]]"
 tags:
   - place
   - inn

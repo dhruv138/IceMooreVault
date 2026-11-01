@@ -1,6 +1,7 @@
 ---
 title: "Anthracite"
 type: lore
+first_seen: "[[Session 17]]"
 tags:
   - lore
   - material

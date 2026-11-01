@@ -1,7 +1,7 @@
 ---
 title: "Mistra's Academy"
 type: faction
-first_seen: "[[Session 37]]"
+first_seen: "[[Session 23]]"
 tags:
   - faction
   - organization

@@ -1,6 +1,7 @@
 ---
 title: "Ambercrown Kingdom"
 type: location
+first_seen: "[[Session 36]]"
 tags:
   - place
   - place

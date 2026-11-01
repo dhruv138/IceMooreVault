@@ -1,6 +1,7 @@
 ---
 title: "Horizon"
 type: faction
+first_seen: "[[Session 35]]"
 tags:
   - faction
   - company

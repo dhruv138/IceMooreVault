@@ -1,6 +1,7 @@
 ---
 title: "Duergar"
 type: faction
+first_seen: "[[Session 04]]"
 tags:
   - faction
   - organization

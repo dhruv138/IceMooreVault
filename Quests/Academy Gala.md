@@ -24,7 +24,8 @@ Gala at [[Mistra's Academy]] to show off the stone from the belly of the ram (th
 %% session-history:start %%
 ## Session history
 
-> [!info]- 2 sessions · first [[Session 37]] · last [[Session 38]]
-> - [[Session 37]]: shop for the Gala - Find the missing sanitation workers - Riffle want to go to Heaven's Touch (the brothel competition) - Riffle to see Esther (Head Archivist of the Library)(Done)
+> [!info]- 3 sessions · first [[Session 37]] · last [[Session 39]]
+> - [[Session 37]]: shop for the Gala
 > - [[Session 38]]: The following day we go shopping for the Gala!
+> - [[Session 39]]: Shop for the Gala
 %% session-history:end %%

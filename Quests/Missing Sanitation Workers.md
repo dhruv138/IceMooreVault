@@ -2,7 +2,7 @@
 title: "Missing Sanitation Workers"
 type: quest
 status: active
-first_seen: "[[Session 37]]"
+first_seen: "[[Session 36]]"
 tags:
   - quest
   - active
@@ -21,6 +21,7 @@ Find three sanitation workers who vanished in the sewers of [[Amberhold]]. Four 
 %% session-history:start %%
 ## Session history
 
-> [!info]- 1 session · [[Session 37]]
+> [!info]- 2 sessions · first [[Session 37]] · last [[Session 39]]
 > - [[Session 37]]: She asks us to find three sanitation workers who vanished in the sewers a few days ago.
+> - [[Session 39]]: Find the missing sanitation workers
 %% session-history:end %%

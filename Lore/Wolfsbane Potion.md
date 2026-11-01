@@ -1,6 +1,7 @@
 ---
 title: "Wolfsbane Potion"
 type: lore
+first_seen: "[[Session 34]]"
 tags:
   - lore
   - alchemy

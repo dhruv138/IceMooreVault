@@ -2,6 +2,7 @@
 title: "Mage's District"
 type: location
 location_type: district
+first_seen: "[[Session 36]]"
 tags:
   - place
   - district

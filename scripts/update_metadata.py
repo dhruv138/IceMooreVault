@@ -4,19 +4,28 @@
 What it does, in order:
 1. Renames session files to the standard pattern, e.g. "Session_39.md" -> "Session 39.md".
 2. Gives a freshly pasted session note its header: a metadata block, a title line, and the
-   date, read from the first lines (e.g. "Session 39" / "8 October 2026").
+   date, read from the first lines (e.g. "Session 39" / "8 October 2026", or "# Session 39" /
+   "**Date:** 8 October 2026"). Those original header lines are removed so the title isn't doubled.
+   It then links the names in that new session (link_session.py), keeping the wording.
 3. Gives any other note that has no metadata block a basic one.
 4. Rewrites the generated fields on every note (type, status, first_seen, and on sessions the
    lists of people, places, factions, quests and items they link to). Anything else in the
    metadata block, and everything below it, is left alone.
-5. Prints reminders: sessions without a TL;DR recap, and names that appear in a session
+5. Works out "first seen" from the first session that links OR mentions a note's name.
+6. Adds any new session to 00 Campaign/Timeline.md.
+7. Prints reminders: sessions without a TL;DR recap, and names that appear in a session
    without being linked.
 
 Run from anywhere:  python3 scripts/update_metadata.py
 """
 import re
+import sys
 from datetime import datetime
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import link_session  # noqa: E402
+import vault_names  # noqa: E402
 
 VAULT = Path(__file__).resolve().parent.parent
 FOLDER_TYPE = {"Places": "location", "Factions": "faction", "Quests": "quest",
@@ -90,9 +99,10 @@ def tags_of(fm):
     return [x.strip()[2:].strip() for x in m.group(1).splitlines()] if m else []
 
 
-def write_fm(p, fields, lists=None):
+def write_fm(p, fields, lists=None, also_owned=()):
+    """also_owned: generated keys to drop when they no longer apply (e.g. next_session)."""
     fm, body = split(p)
-    owned = set(fields) | set(lists or {})
+    owned = set(fields) | set(lists or {}) | set(also_owned)
     out, skip = [], False
     for line in fm.splitlines():
         key = re.match(r"^([a-z_]+):", line)
@@ -136,7 +146,12 @@ def prepare_sessions():
         d, shown = parse_date("\n".join(lines[:3]))
 
         def is_header(s):
-            rest = re.sub(r"^session\s*0*\d+\s*:?", "", s.strip(), flags=re.I).strip(" :—–-")
+            # Handles "Session 39", "Session 39:", "# Session 39", "8 October 2026",
+            # "**Date:** 8 October 2026" and "Session 39 8 October 2026".
+            s = s.strip().lstrip("#").strip().replace("**", "").replace("__", "")
+            s = re.sub(r"^date\s*:\s*", "", s, flags=re.I)
+            rest = re.sub(r"^session\s*0*\d+\s*:?", "", s, flags=re.I).strip(" :—–-")
+            rest = re.sub(r"^date\s*:\s*", "", rest, flags=re.I)
             return rest == "" or bool(DATE_RE.fullmatch(rest))
 
         dropped = 0
@@ -157,9 +172,16 @@ def prepare_sessions():
 def refresh(check=frozenset()):
     notes = {p.stem: p for p in VAULT.rglob("*.md")
              if ".git" not in p.parts and p.relative_to(VAULT).parts[0] in set(FOLDER_TYPE) | {"People"}}
+    # Raw session files that haven't been set up yet (no metadata block) are left alone.
+    for n in [n for n, p in notes.items() if p.relative_to(VAULT).parts[0] == "Sessions"
+              and not p.read_text(encoding="utf-8").startswith("---\n")]:
+        print(f"  skipped {n}: not set up yet (raw session text)")
+        del notes[n]
     sessions = sorted((p for p in notes.values() if p.relative_to(VAULT).parts[0] == "Sessions"),
                       key=session_num)
     first_seen, warnings = {}, []
+    # "First seen" counts plain mentions of a note's own name too, not only links.
+    title_matcher = vault_names.matcher(VAULT, titles_only=True)
 
     aliases = {}
     for name, p in notes.items():
@@ -185,6 +207,8 @@ def refresh(check=frozenset()):
         if i + 1 < len(sessions):
             fields["next_session"] = link(sessions[i + 1].stem)
         targets = list(dict.fromkeys(re.findall(r"\[\[([^\]|#]+)", body)))
+        for _, _, _, mentioned in title_matcher.find(body):
+            first_seen.setdefault(mentioned, p.stem)
         groups = {"party": [], "npcs": [], "locations": [], "factions": [], "quests": [], "items": []}
         for name in targets:
             n = notes.get(name)
@@ -198,23 +222,17 @@ def refresh(check=frozenset()):
                 key = "party" if name in PARTY else "npcs"
             if key:
                 groups[key].append(name)
-        write_fm(p, fields, groups)
+        write_fm(p, fields, groups, also_owned=("date", "previous_session", "next_session"))
 
         # reminders, for new sessions and the latest one only
         if p.stem not in check and i != len(sessions) - 1:
             continue
         if "[!summary]" not in body:
             warnings.append(f"{p.stem} has no TL;DR recap (the dashboard will show its opening lines instead)")
-        plain = re.sub(r"\[\[[^\]]*\]\]", " ", body)
-        missing = []
-        for label, target in list(((n, n) for n in notes)) + list(aliases.items()):
-            if (target in targets or label in AMBIGUOUS or target in AMBIGUOUS or len(label) < 4
-                    or notes[target].relative_to(VAULT).parts[0] == "Sessions"):
-                continue
-            if re.search(rf"(?<![\w'’]){re.escape(label)}(?![\w'’])", plain) and target not in missing:
-                missing.append(target)
-        if missing:
-            warnings.append(f"{p.stem} mentions but doesn't link: {', '.join(sorted(missing))}")
+        could = sorted({t for _, t, _ in link_session.link_text(p.read_text(encoding="utf-8"), vault_names.matcher(VAULT))[1]})
+        if could:
+            warnings.append(f"{p.stem} mentions but doesn't link: {', '.join(could)}. "
+                            f"To link them all: python3 scripts/link_session.py \"{p.stem}\" --apply")
 
     for name, p in notes.items():
         folder = p.relative_to(VAULT).parts[0]
@@ -245,11 +263,41 @@ def refresh(check=frozenset()):
     return len(sessions), len(notes) - len(sessions), warnings
 
 
+def update_timeline():
+    """Add any session missing from 00 Campaign/Timeline.md, in order."""
+    tl = VAULT / "00 Campaign" / "Timeline.md"
+    if not tl.exists():
+        return
+    text = tl.read_text(encoding="utf-8")
+    listed = {int(n) for n in re.findall(r"^- \[\[Session (\d+)", text, re.M)}
+    added = []
+    for p in sorted((VAULT / "Sessions").glob("*.md"), key=session_num):
+        raw = p.read_text(encoding="utf-8")
+        num = session_num(p)
+        if num in listed or not raw.startswith("---\n"):
+            continue
+        tm = re.search(r'^title: "(.*)"', raw, re.M)
+        entry = f"- [[{p.stem}|{tm.group(1) if tm else p.stem}]]"
+        lines = text.rstrip("\n").split("\n")
+        after = max((i for i, l in enumerate(lines)
+                     if (m := re.match(r"^- \[\[Session (\d+)", l)) and int(m.group(1)) < num), default=len(lines) - 1)
+        lines.insert(after + 1, entry)
+        text = "\n".join(lines) + "\n"
+        listed.add(num)
+        added.append(p.stem)
+    if added:
+        tl.write_text(text, encoding="utf-8")
+        print(f"  added to Timeline: {', '.join(added)}")
+
+
 def main():
     print("Checking session files…")
     fresh = prepare_sessions()
+    for name in sorted(fresh):
+        link_session.link_session(VAULT / "Sessions" / f"{name}.md", apply=True)
     print("Refreshing metadata…")
     n_sessions, n_notes, warnings = refresh(fresh)
+    update_timeline()
     print(f"  {n_sessions} sessions and {n_notes} other notes up to date")
     return warnings
 

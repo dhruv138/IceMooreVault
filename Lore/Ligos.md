@@ -1,6 +1,7 @@
 ---
 title: "Ligos"
 type: lore
+first_seen: "[[Session 24]]"
 tags:
   - lore
   - world

@@ -1,6 +1,7 @@
 ---
 title: "Mithril"
 type: lore
+first_seen: "[[Session 14]]"
 tags:
   - lore
   - material

@@ -3,7 +3,7 @@
 
     python3 scripts/update_all.py
 
-1. update_metadata.py         sets up new session files and refreshes each note's metadata
+1. update_metadata.py         sets up and links new session files, refreshes metadata, Timeline
 2. update_session_history.py  refreshes the "Session history" box on every note
 3. build_dashboard.py         rebuilds dashboard/Icemoor Dashboard.html
 """

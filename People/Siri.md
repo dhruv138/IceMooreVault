@@ -1,6 +1,7 @@
 ---
 title: "Siri"
 type: npc
+first_seen: "[[Session 14]]"
 tags:
   - person
   - npc

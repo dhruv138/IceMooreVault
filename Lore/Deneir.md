@@ -1,6 +1,7 @@
 ---
 title: "Deneir"
 type: lore
+first_seen: "[[Session 09]]"
 tags:
   - god
   - lore

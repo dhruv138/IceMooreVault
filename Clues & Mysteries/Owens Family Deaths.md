@@ -2,6 +2,7 @@
 title: "Owens Family Deaths"
 type: mystery
 status: unresolved
+first_seen: "[[Session 39]]"
 tags:
   - mystery
   - lore
@@ -21,3 +22,10 @@ Lord Richard Owens, a wealthy [[Amberhold]] merchant, and his wife recently died
 - A cloaked, hooded figure entered the mausoleum and vanished as the party arrived.
 
 **Status:** unresolved.
+
+%% session-history:start %%
+## Session history
+
+> [!info]- 1 session · [[Session 39]]
+> - [[Session 39]]: Lord Richard Owens & Lady Gezibel Owens (Peter's parents)
+%% session-history:end %%

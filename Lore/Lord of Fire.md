@@ -1,6 +1,7 @@
 ---
 title: "Lord of Fire"
 type: lore
+first_seen: "[[Session 24]]"
 tags:
   - lore
   - elemental

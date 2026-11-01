@@ -2,6 +2,7 @@
 title: "Derragh"
 type: location
 location_type: city
+first_seen: "[[Session 24]]"
 tags:
   - place
   - city

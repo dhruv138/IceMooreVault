@@ -1,6 +1,7 @@
 ---
 title: "Quithos the Breaker"
 type: npc
+first_seen: "[[Session 25]]"
 tags:
   - person
   - npc

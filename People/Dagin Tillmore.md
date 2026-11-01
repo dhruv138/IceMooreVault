@@ -1,6 +1,7 @@
 ---
 title: "Dagin Tillmore"
 type: npc
+first_seen: "[[Session 16]]"
 tags:
   - person
   - npc

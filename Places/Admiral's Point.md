@@ -2,6 +2,7 @@
 title: "Admiral's Point"
 type: location
 location_type: port
+first_seen: "[[Session 34]]"
 tags:
   - place
   - port

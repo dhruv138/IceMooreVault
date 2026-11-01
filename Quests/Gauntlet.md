@@ -31,6 +31,7 @@ Competition at [[Mistra's Academy]] in [[Amberhold]]. The party will compete on 
 %% session-history:start %%
 ## Session history
 
-> [!info]- 1 session · [[Session 38]]
+> [!info]- 2 sessions · first [[Session 38]] · last [[Session 39]]
 > - [[Session 38]]: Both (separately) are very stressed and overworked preparing the Gala and the Gauntlet.
+> - [[Session 39]]: Shop for magic items for the Gauntlet
 %% session-history:end %%

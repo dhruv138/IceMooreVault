@@ -1,6 +1,7 @@
 ---
 title: "Countess Opal Darham"
 type: npc
+first_seen: "[[Session 17]]"
 tags:
   - person
   - npc

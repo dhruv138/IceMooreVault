@@ -1,6 +1,7 @@
 ---
 title: "Tiamat"
 type: lore
+first_seen: "[[Session 21]]"
 tags:
   - lore
   - god

@@ -20,7 +20,8 @@ Chief Archivist at the [[Library of Deneir]] in [[Amberhold]].
 %% session-history:start %%
 ## Session history
 
-> [!info]- 2 sessions · first [[Session 36]] · last [[Session 37]]
+> [!info]- 3 sessions · first [[Session 36]] · last [[Session 39]]
 > - [[Session 36]]: We are introduced to Ester, the Chief Archivist, who is sitting at a check out desk.
 > - [[Session 37]]: Riffle asks Esther if she remembers when they changed the robes from red to purple. 50-60years ago the robes were changed because the Headmaster at the time didn't like them and preferred a different colour.
+> - [[Session 39]]: Riffle to see Esther (Head Archivist of the Library)
 %% session-history:end %%

@@ -2,6 +2,7 @@
 title: "Copperhead Hollow"
 type: location
 location_type: settlement
+first_seen: "[[Session 32]]"
 tags:
   - place
   - settlement

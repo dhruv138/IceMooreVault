@@ -22,22 +22,47 @@ LINK = re.compile(r"\[\[([^\]|#]+)(?:#[^\]|]*)?(?:\|([^\]]*))?\]\]")
 
 
 def plain(text):
-    """Turn [[Target|shown]] into 'shown' and strip markdown emphasis."""
+    """Turn [[Target|shown]] into 'shown' and strip markdown emphasis and strike-through."""
     text = LINK.sub(lambda m: m.group(2) or m.group(1), text)
+    text = text.replace("~~", "")
     return re.sub(r"[*_`]", "", text)
 
 
 def body_of(text):
-    """Session text without frontmatter, heading or TL;DR callout."""
+    """Session text without frontmatter, headings, TL;DR callout, date lines or rules."""
     text = re.sub(r"^---\n.*?\n---\n", "", text, flags=re.S)
-    text = re.sub(r"^# .*\n", "", text, flags=re.M)
-    text = re.sub(r"^> .*\n", "", text, flags=re.M)
+    text = re.sub(r"^#{1,6} .*\n?", "", text, flags=re.M)           # every heading
+    text = re.sub(r"^> .*\n?", "", text, flags=re.M)                # callouts
+    text = re.sub(r"^%%.*%%\s*\n?", "", text, flags=re.M)           # Obsidian comments
+    text = re.sub(r"^\s*\**date\**\s*:\s*\**[^\n]*\d{4}[^\n]*\n?", "", text, flags=re.M | re.I)  # "**Date:** 14 October 2026"
+    text = re.sub(r"^\s*(-{3,}|\*{3,})\s*$", "", text, flags=re.M)    # horizontal rules
     return text
 
 
+LIST_ITEM = re.compile(r"^\s*(?:[-*+•]|\d+[.)])\s+")
+
+
 def sentences(text):
-    text = re.sub(r"\s*\n\s*", " ", text)
-    return re.split(r"(?<=[.!?…”\"])\s+(?=[A-Z\[“\"(•-])", text)
+    """Split into sentences. Each list item counts as its own sentence, so a to-do list
+    doesn't get glued onto the paragraph before it."""
+    units, para = [], []
+
+    def flush():
+        if para:
+            joined = " ".join(para)
+            units.extend(re.split(r"(?<=[.!?…”\"])\s+(?=[A-Z\[“\"(•-])", joined))
+            para.clear()
+
+    for line in text.split("\n"):
+        if not line.strip():
+            flush()
+        elif LIST_ITEM.match(line):
+            flush()
+            units.append(LIST_ITEM.sub("", line).strip())
+        else:
+            para.append(line.strip())
+    flush()
+    return [u for u in units if u.strip()]
 
 
 def snippet(sentence):

@@ -2,6 +2,7 @@
 title: "Quill of Deneir"
 type: item
 item_type: artifact
+first_seen: "[[Session 13]]"
 tags:
   - item
   - artifact

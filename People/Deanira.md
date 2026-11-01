@@ -39,7 +39,7 @@ Deanira now travels the Icemoor region, improving her cartography skills and sea
 %% session-history:start %%
 ## Session history
 
-> [!info]- 34 sessions · first [[Session 03]] · last [[Session 38]]
+> [!info]- 35 sessions · first [[Session 03]] · last [[Session 39]]
 > - [[Session 03]]: Deanira lights the lantern and Wisk leads the way.
 > - [[Session 04]]: He comes back and tells WISC and Deanira about the lake and the stone door.
 > - [[Session 05]]: As Deanira surfaces, Furgus feels the water around him tighten up and grapple him.
@@ -74,4 +74,5 @@ Deanira now travels the Icemoor region, improving her cartography skills and sea
 > - [[Session 36]]: Due to the Festival, the city is inundated with people and we all will be staying at different locations: Deanira: The Two Tits (Western side of market square) Furgus and Philip: Cock and Pig (Merchant District close to…
 > - [[Session 37]]: Deanira wakes up early and the smell of fresh pastries waft upstairs.
 > - [[Session 38]]: Deaníra walks down to the basement to see how many people are down there.
+> - [[Session 39]]: With Riffle and Furgus being invisible, Deanira and the rest of the party sneak to the door to see if it is locked behind Owen's.
 %% session-history:end %%

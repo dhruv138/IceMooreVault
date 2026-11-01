@@ -1,6 +1,7 @@
 ---
 title: "Flame Skull"
 type: lore
+first_seen: "[[Session 20]]"
 tags:
   - lore
   - monster

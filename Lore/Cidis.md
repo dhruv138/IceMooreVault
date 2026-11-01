@@ -1,6 +1,7 @@
 ---
 title: "Cidis"
 type: lore
+first_seen: "[[Session 17]]"
 tags:
   - lore
   - dragon

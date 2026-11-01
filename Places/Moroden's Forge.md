@@ -2,6 +2,7 @@
 title: "Moroden's Forge"
 type: location
 location_type: crematory
+first_seen: "[[Session 14]]"
 tags:
   - place
   - crematory

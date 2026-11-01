@@ -19,7 +19,8 @@ Tiefling bartender at the [[Velvet Glove Brothel]] in [[Amberhold]] and acquaint
 %% session-history:start %%
 ## Session history
 
-> [!info]- 2 sessions · first [[Session 35]] · last [[Session 38]]
+> [!info]- 3 sessions · first [[Session 35]] · last [[Session 39]]
 > - [[Session 35]]: Riffle knows the bartender Sabrina.
 > - [[Session 38]]: After shopping, Riffle wants to go speak to Sabrina, the bartender at the Velvet Glove.
+> - [[Session 39]]: Date with Sabrina ;)
 %% session-history:end %%
