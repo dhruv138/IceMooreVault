@@ -16,11 +16,12 @@ Major southern city and home of [[Riffle]]'s [[Library of Deneir]], [[Mistra's A
 - [[Session 37]]: A [[Sect of Torm]] has been attacking alcohol shops. The city job board offers the [[Missing Sanitation Workers]] job and a suspicious scholarship flyer (see [[Blond Skeletal Hand Recruiter]]).
 - [[Session 37]]–38: New locations include the [[Temple of Mistra]], the [[Temple of the Raven Queen]], and the [[Owens Family Mausoleum]] in the graveyard to the west.
 - [[Session 39]]: The [[Owens Warehouse]] on the riverfront docks hides Peter Owens's laboratory, reached by a teleporting crest in the family crypt.
+- [[Session 41]]: New places: [[Hilda's Hammer]], [[Zook's Nook]], [[Odds & Ends]], [[Varis's Magical Emporium]], the [[Salty Dog]], and the City Office. The guarded ship the Albatross is in port ([[Albatross Mystery]]).
 
 %% session-history:start %%
 ## Session history
 
-> [!info]- 13 sessions · first [[Session 13]] · last [[Session 39]]
+> [!info]- 15 sessions · first [[Session 13]] · last [[Session 41]]
 > - [[Session 13]]: They work for the Library of Deneir in Amberhold, an organisation that collects information ranging from books and knowledge to artefacts and secrets.
 > - [[Session 15]]: Someone like that is likely from Truemetal Halls or Eisenberg, the most prosperous cities behind Amberhold.
 > - [[Session 16]]: They introduce themself as a priest of Denier and that they have travelled here from Amberhold to find Dagin Tillmore.
@@ -34,4 +35,6 @@ Major southern city and home of [[Riffle]]'s [[Library of Deneir]], [[Mistra's A
 > - [[Session 36]]: Riffle is worried that whatever is going on is possibly coming from Amberhold, perhaps even the Academy or the Library itself.
 > - [[Session 37]]: We also remember that the guy that we used Speak with Dead on in the cave where we killed Christoff said that he was recruited to the Skeletal Hand by a young man with blond hair in Amberhold.
 > - [[Session 39]]: We aren't completely sure we're in Amberhold.
+> - [[Session 40]]: There's an alarm coded specifically to Riffle for entering Talir's office. An alarm did go off, but it wasn't Riffle's — even though the Archivist (Shivon, she) saw "Riffle" enter. ### Other concerns - Riffle is worried…
+> - [[Session 41]]: ## Hilda's Hammer We begin our shop at Hilda's Hammer, the Amberhold blacksmith.
 %% session-history:end %%

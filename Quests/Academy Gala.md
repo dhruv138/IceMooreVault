@@ -23,12 +23,16 @@ Gala at [[Mistra's Academy]] to show off the stone from the belly of the ram (th
 
 ## Recent developments
 - [[Session 39]]: "Shop for the Gala" is still on the to-do list.
+- [[Session 40]]: Three days away.
+- [[Session 41]]: "Shop for the Gala" is checked off.
 
 %% session-history:start %%
 ## Session history
 
-> [!info]- 3 sessions · first [[Session 37]] · last [[Session 39]]
+> [!info]- 5 sessions · first [[Session 37]] · last [[Session 41]]
 > - [[Session 37]]: shop for the Gala - Find the missing sanitation workers - Riffle want to go to Heaven's Touch (the brothel competition) - Riffle to see Esther (Head Archivist of the Library)(Done)
 > - [[Session 38]]: The following day we go shopping for the Gala!
 > - [[Session 39]]: ## To Do List - ~~Deanira talk to the sailors about rumours about the mysterious unplottable island.~~ - Shop for magic items for the Gauntlet - Shop for the Gala - Find the missing sanitation workers - Riffle wants to…
+> - [[Session 40]]: The Gala in three days.
+> - [[Session 41]]: Talir says, "proceed." --- ## To Do List - [x] ~~Deanira talk to the sailors about rumours about the mysterious unplottable island~~ - [x] ~~Shop for magic items for the Gauntlet~~ - [x] ~~Shop for the Gala~~ - [ ] Find…
 %% session-history:end %%

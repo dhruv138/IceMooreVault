@@ -24,9 +24,16 @@ Wealthy merchant family of [[Amberhold]], with a ship and a [[Owens Warehouse|wa
 
 See [[Owens Family Mausoleum]], [[Owens Family Deaths]].
 
+## Recent developments
+- [[Session 40]]: [[Peter Owens]] died (Disintegrate triggered through his tattoo). [[Talir Rengavi]] warns that the inheritance now falls into a vacuum, and the death of a Lord is politically delicate (see [[Ambercrown Kingdom]]).
+- [[Session 41]]: No City Office record exists of the family's properties, business, or purchase of Lordship. [[Furgus]] wants to search the Owens Estate at night.
+- [inference] The Pelican, the ship stuck in port in [[Session 36]] and [[Session 41]], is probably the Owens ship that couldn't be unloaded. The notes never name it as such.
+
 %% session-history:start %%
 ## Session history
 
-> [!info]- 1 session · [[Session 39]]
+> [!info]- 3 sessions · first [[Session 39]] · last [[Session 41]]
 > - [[Session 39]]: The crest has a ship with a mermaid holding an orb in her outstretched hand as the figurehead.
+> - [[Session 40]]: With the death of the Owens heir, an inheritance will fall into the vacuum.
+> - [[Session 41]]: There is also no record of the Owens' properties, business, or purchase of Lordship. ## The Salty Dog — Riffle Riffle seeks out Slick Willy Campbell, a common frequenter of many bars.
 %% session-history:end %%

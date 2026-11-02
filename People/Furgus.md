@@ -33,11 +33,13 @@ tags:
 - [[Session 37]]: Spotted the hint of a [[Skeletal Hand]] tattoo on the blond young man at the tavern (see [[Blond Skeletal Hand Recruiter]]).
 - [[Session 39]]: Went in invisible. Felt the mausoleum's teleport tug but stayed put: the glyph couldn't find another sarcophagus to put him into.
 - [[Session 39]]: First to climb into the hidden crypt and first through the crest's teleport. Shot [[Peter Owens]] with an [[Arrow of the Harpy]], charming him into a stupor.
+- [[Session 40]]: Intimidated [[Peter Owens]] just before his tattoo killed him, and linked the tattoo to the mausoleum glyph. Found [[Talir Rengavi]] by being tripped over by him.
+- [[Session 41]]: Bought the [[Mystery Key]]. Searched City Office records: [[Trent Cole]] owns [[Heaven's Touch]]'s warehouse, and there's no record of the Owens properties.
 
 %% session-history:start %%
 ## Session history
 
-> [!info]- 33 sessions · first [[Session 03]] · last [[Session 39]]
+> [!info]- 35 sessions · first [[Session 03]] · last [[Session 41]]
 > - [[Session 03]]: Upon inspection, Deanira and Furgus get the impression that they are like a mix of amphibian eggs and reptile eggs, encased in jelly to preserve their moisture.
 > - [[Session 04]]: Furgus recognises them as Duergar.
 > - [[Session 05]]: As Deanira surfaces, Furgus feels the water around him tighten up and grapple him.
@@ -71,4 +73,6 @@ tags:
 > - [[Session 36]]: Due to the Festival, the city is inundated with people and we all will be staying at different locations: Deanira: The Two Tits (Western side of market square) Furgus and Philip: Cock and Pig (Merchant District close to…
 > - [[Session 37]]: Furgus sees the hint of the Skeletal Hand tattoo on his arm covered by a sleeve.
 > - [[Session 39]]: ## Session Notes ### The Mausoleum With Riffle and Furgus being invisible, Deanira and the rest of the party sneak to the door to see if it is locked behind Owen's.
+> - [[Session 40]]: As far as he knows, the Master of Death has told no one his true name. ## Peter's Death - Furgus intimidates him into telling us everything.
+> - [[Session 41]]: Furgus asks if they would be able to attach the Immovable Rod to one of his arrows to activate it remotely.
 %% session-history:end %%

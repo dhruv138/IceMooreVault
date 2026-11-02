@@ -40,11 +40,13 @@ tags:
 ## Recent developments
 - [[Session 37]]: Cured of lycanthropy at the [[Temple of Mistra]] ([[Werebear Curse]]).
 - [[Session 39]]: Lifted the sarcophagus lids and rescued [[Riffle]] and [[Deanira]], and found the fake wooden sarcophagus hiding the crypt ladder. His socks are Peter's gag.
+- [[Session 40]]: Asked Peter whether the captives were recruits or experiments.
+- [[Session 41]]: Secretly asked [[Varis]] to re-enchant his [[Pipe of Remembrance]] to show people's worst deeds.
 
 %% session-history:start %%
 ## Session history
 
-> [!info]- 34 sessions · first [[Session 03]] · last [[Session 39]]
+> [!info]- 36 sessions · first [[Session 03]] · last [[Session 41]]
 > - [[Session 03]]: We feel a rumble. 2 gricks pop out of the burrows and instantly down WISC.
 > - [[Session 04]]: He comes back and tells WISC and Deanira about the lake and the stone door.
 > - [[Session 05]]: We’re still in the hallway where we went to sleep, and WISC wakes up to find a scroll and a pouch of coins next to him.
@@ -79,4 +81,6 @@ tags:
 > - [[Session 36]]: Due to the Festival, the city is inundated with people and we all will be staying at different locations: Deanira: The Two Tits (Western side of market square) Furgus and Philip: Cock and Pig (Merchant District close to…
 > - [[Session 37]]: She removes the Mask of the Green Dragon, and suddenly Deanira feels a lot better about Wisc.
 > - [[Session 39]]: Furgus, WISC, and Theo see them disappear.
+> - [[Session 40]]: "Peter" is bound and gagged with WISC's super smelly socks.
+> - [[Session 41]]: We all then plan to scout the Albatross at night. ## WISC's Secret Errand WISC secretly goes back to Varis and brings his newly acquired Pipe of Remembrance.
 %% session-history:end %%

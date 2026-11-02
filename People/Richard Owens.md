@@ -23,6 +23,7 @@ aliases:
 %% session-history:start %%
 ## Session history
 
-> [!info]- 1 session · [[Session 39]]
+> [!info]- 2 sessions · first [[Session 39]] · last [[Session 40]]
 > - [[Session 39]]: The coffins are labeled: - Harold Owens & Margaret Owens - Nicholas Brightvine & Elizabeth Brightvine - Lord Richard Owens & Lady Gezibel Owens (Peter's parents) Furgus notices that there is no smell of putrefaction and…
+> - [[Session 40]]: He suggests it was his parents (Richard Owens and Gezibel Owens) who were doing something to the people in the cages and who created this area.
 %% session-history:end %%

@@ -16,10 +16,12 @@ tags:
 
 ## Recent developments
 - [[Session 39]]: Written in [[Peter Owens]]'s notes as "Deanira? Coda's Landing". See [[Peter's Experiments]].
+- [[Session 40]]: [[Hana Goldfirm]] is looking into why it appears in Peter's notes.
 
 %% session-history:start %%
 ## Session history
 
-> [!info]- 1 session · [[Session 39]]
+> [!info]- 2 sessions · first [[Session 39]] · last [[Session 40]]
 > - [[Session 39]]: Coda's Landing" is written.
+> - [[Session 40]]: Unrelated, do we know if Gavin Goslin died of natural causes?" - Hana thinks so — he was older and it wasn't unexpected. There was no investigation. (See Gavin Gosling.) - Riffle asks Hana to investigate the mention of…
 %% session-history:end %%

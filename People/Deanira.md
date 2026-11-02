@@ -38,11 +38,13 @@ Deanira now travels the Icemoor region, improving her cartography skills and sea
 - [[Session 39]]: Teleported into a poison-filled sarcophagus at the mausoleum and kicked at the lid with her hooves until WISC freed her. In Peter's lab she resisted a second tug.
 - [[Session 39]]: **Targeted.** Peter's notes list "Deanira? Coda's Landing" after a string of crossed-out names. See [[Peter's Experiments]].
 - [[Session 39]]: Pinned [[Richard Owens]] in place with the [[Immovable Rod]].
+- [[Session 40]]: Caught two salmon and a small barrel of fine cognac. Stayed up with Riffle listing Talir's possible secrets.
+- [[Session 41]]: Bought the [[Assquatch]] at [[Odds & Ends]].
 
 %% session-history:start %%
 ## Session history
 
-> [!info]- 35 sessions · first [[Session 03]] · last [[Session 39]]
+> [!info]- 37 sessions · first [[Session 03]] · last [[Session 41]]
 > - [[Session 03]]: Deanira lights the lantern and Wisk leads the way.
 > - [[Session 04]]: He comes back and tells WISC and Deanira about the lake and the stone door.
 > - [[Session 05]]: As Deanira surfaces, Furgus feels the water around him tighten up and grapple him.
@@ -78,4 +80,6 @@ Deanira now travels the Icemoor region, improving her cartography skills and sea
 > - [[Session 37]]: Deanira wakes up early and the smell of fresh pastries waft upstairs.
 > - [[Session 38]]: Deaníra walks down to the basement to see how many people are down there.
 > - [[Session 39]]: ## Session Notes ### The Mausoleum With Riffle and Furgus being invisible, Deanira and the rest of the party sneak to the door to see if it is locked behind Owen's.
+> - [[Session 40]]: Furgus recalls a glyph that glowed in the mausoleum when Deanira and Riffle first stepped into the tomb and were teleported into the sarcophagi.
+> - [[Session 41]]: It's just a condom. ## Odds & Ends We head to Odds & Ends. Neima offers us: - An Assquatch (taxidermy deer butt made to look like a humanoid face) - A Jenny Hanniver (a stingray cadaver posed to look like a cryptid) - A…
 %% session-history:end %%

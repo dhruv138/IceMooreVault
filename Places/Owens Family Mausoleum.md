@@ -26,6 +26,7 @@ Family mausoleum of the Owens family, in a graveyard to the west outside [[Amber
 %% session-history:start %%
 ## Session history
 
-> [!info]- 1 session · [[Session 38]]
+> [!info]- 2 sessions · first [[Session 38]] · last [[Session 40]]
 > - [[Session 38]]: He's been spotted at the family mausoleum more lately, which some of the students find a little strange since he wasn't very close to them.
+> - [[Session 40]]: Furgus recalls a glyph that glowed in the mausoleum when Deanira and Riffle first stepped into the tomb and were teleported into the sarcophagi.
 %% session-history:end %%

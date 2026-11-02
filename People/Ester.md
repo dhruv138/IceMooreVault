@@ -21,8 +21,9 @@ Chief Archivist at the [[Library of Deneir]] in [[Amberhold]].
 %% session-history:start %%
 ## Session history
 
-> [!info]- 3 sessions · first [[Session 36]] · last [[Session 39]]
+> [!info]- 4 sessions · first [[Session 36]] · last [[Session 41]]
 > - [[Session 36]]: We are introduced to Ester, the Chief Archivist, who is sitting at a check out desk.
 > - [[Session 37]]: Riffle asks Esther if she remembers when they changed the robes from red to purple. 50-60years ago the robes were changed because the Headmaster at the time didn't like them and preferred a different colour.
 > - [[Session 39]]: ## To Do List - ~~Deanira talk to the sailors about rumours about the mysterious unplottable island.~~ - Shop for magic items for the Gauntlet - Shop for the Gala - Find the missing sanitation workers - Riffle wants to…
+> - [[Session 41]]: Talir says, "proceed." --- ## To Do List - [x] ~~Deanira talk to the sailors about rumours about the mysterious unplottable island~~ - [x] ~~Shop for magic items for the Gauntlet~~ - [x] ~~Shop for the Gala~~ - [ ] Find…
 %% session-history:end %%

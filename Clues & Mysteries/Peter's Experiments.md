@@ -35,9 +35,14 @@ What [[Peter Owens]] was doing in his laboratory under the [[Owens Warehouse]] (
 
 **Status:** unresolved.
 
+## Recent developments
+- [[Session 40]]: Theo's Message spell got no response at all from the captives. Under Zone of Truth, [[Peter Owens]] said they are **test subjects to create bigger and better minions for the [[Master of Death]]**, and suggested his parents began the work.
+- [[Session 40]]: [[Riffle]] asked [[Hana Goldfirm]] to look into why [[Deanira]] and [[Coda's Landing]] appear in Peter's notes.
+
 %% session-history:start %%
 ## Session history
 
-> [!info]- 1 session · [[Session 39]]
+> [!info]- 2 sessions · first [[Session 39]] · last [[Session 40]]
 > - [[Session 39]]: A paper is blacked out with only the words "brass shield and the sapphire of the plains" remaining.
+> - [[Session 40]]: They don't seem to receive or register it at all. The lights are on but nobody's home. (See Peter's Experiments.) - Theo casts Zone of Truth and we interrogate him.
 %% session-history:end %%

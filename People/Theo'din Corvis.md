@@ -20,11 +20,13 @@ Shadar-kai associated with the [[Raven Queen]]. Joined the party later and inves
 - [[Session 37]]: Visited the [[Temple of the Raven Queen]] to confirm he is on the right path. Communed with the [[Raven Queen]], who appeared in a white mask, black dress and cloak of raven feathers, and recalled the tenets of the Order of the Black Feathers (see [[Raven Queen's servants]]). He feels the party, though "pretty whack", shares his goals. Left a [[Cornhusk Dolls|cornhusk doll]] in the temple.
 - [[Session 38]]: Sensed an enchantment over the people in [[Heaven's Touch]]. Tried to Dispel Magic on [[Zelda]] and was escorted out (see [[Heaven's Touch Enchantment]]).
 - [[Session 39]]: Offered his raven to carry Riffle's letter to Talir.
+- [[Session 40]]: Cast Zone of Truth on [[Peter Owens]] and kept some of his ashes in a condom. Spoke to his raven in his head for the first time and introduced it as [[Conji]].
+- [[Session 41]]: Talked [[Hilda the Blacksmith]] into sponsoring the party for the [[Gauntlet]].
 
 %% session-history:start %%
 ## Session history
 
-> [!info]- 8 sessions · first [[Session 32]] · last [[Session 39]]
+> [!info]- 10 sessions · first [[Session 32]] · last [[Session 41]]
 > - [[Session 32]]: Deanira approaches him and he introduces himself as Theo'din Corvis.
 > - [[Session 33]]: On the way, Riffle asks Theo'din Corvis about his travels and story.
 > - [[Session 34]]: Theo'din Corvis and Furgus collect vials of were-bear blood.
@@ -33,4 +35,6 @@ Shadar-kai associated with the [[Raven Queen]]. Joined the party later and inves
 > - [[Session 37]]: Theo visits the local Temple of the raven Queen to check it out.
 > - [[Session 38]]: Theo notices that there is an aura or enchantment that seems settled on people in here.
 > - [[Session 39]]: Furgus, WISC, and Theo see them disappear.
+> - [[Session 40]]: Theo casts Message to try to communicate with the people in the cages.
+> - [[Session 41]]: Theo talks her into sponsoring us for the Gauntlet.
 %% session-history:end %%

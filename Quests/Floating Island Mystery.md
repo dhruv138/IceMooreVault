@@ -38,7 +38,8 @@ Val disappeared while searching for it.
 %% session-history:start %%
 ## Session history
 
-> [!info]- 2 sessions · first [[Session 37]] · last [[Session 39]]
+> [!info]- 3 sessions · first [[Session 37]] · last [[Session 41]]
 > - [[Session 37]]: She also asks if they have charted anything in the Feywild or heard anything about a mysterious unchartable island.
 > - [[Session 39]]: ## To Do List - ~~Deanira talk to the sailors about rumours about the mysterious unplottable island.~~ - Shop for magic items for the Gauntlet - Shop for the Gala - Find the missing sanitation workers - Riffle wants to…
+> - [[Session 41]]: Talir says, "proceed." --- ## To Do List - [x] ~~Deanira talk to the sailors about rumours about the mysterious unplottable island~~ - [x] ~~Shop for magic items for the Gauntlet~~ - [x] ~~Shop for the Gala~~ - [ ] Find…
 %% session-history:end %%

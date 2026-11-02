@@ -2,6 +2,7 @@
 title: "Talir's Stolen Documents"
 type: mystery
 status: unresolved
+first_seen: "[[Session 40]]"
 tags:
   - mystery
   - lore
@@ -19,3 +20,16 @@ Riffle did visit Talir that day, before helping [[Karyn]] tidy her office. The n
 - Is this the same person or group who framed Riffle for Daggins's murder?
 
 **Status:** unresolved.
+
+## Recent developments
+- [[Session 40]]: Taken from Talir's **secret safe**: his personal documents, notes on the acquisition teams, and reports, including [[Riffle]]'s.
+- [[Session 40]]: Talir's office has an alarm keyed to Riffle. **An alarm went off, but it wasn't Riffle's**, even though [[Siobhan]] saw "Riffle" go in. So the thief wasn't Riffle.
+- [[Session 40]]: [[Peter Owens]] denied under Zone of Truth that he broke into the office or ever framed Riffle or a kenku.
+- [[Session 40]]: [[Hana Goldfirm]] thinks information about Riffle was probably among the stolen items.
+
+%% session-history:start %%
+## Session history
+
+> [!info]- 1 session · [[Session 40]]
+> - [[Session 40]]: See Talir's Stolen Documents.
+%% session-history:end %%

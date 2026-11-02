@@ -19,6 +19,7 @@ aliases:
 %% session-history:start %%
 ## Session history
 
-> [!info]- 1 session · [[Session 39]]
+> [!info]- 2 sessions · first [[Session 39]] · last [[Session 41]]
 > - [[Session 39]]: ## To Do List - ~~Deanira talk to the sailors about rumours about the mysterious unplottable island.~~ - Shop for magic items for the Gauntlet - Shop for the Gala - Find the missing sanitation workers - Riffle wants to…
+> - [[Session 41]]: Talir says, "proceed." --- ## To Do List - [x] ~~Deanira talk to the sailors about rumours about the mysterious unplottable island~~ - [x] ~~Shop for magic items for the Gauntlet~~ - [x] ~~Shop for the Gala~~ - [ ] Find…
 %% session-history:end %%

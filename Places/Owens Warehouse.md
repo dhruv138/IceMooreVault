@@ -21,9 +21,13 @@ aliases:
 - **Laboratory.** Hanging lights, four cages built into the walls, two operating tables with sheets over bodies, and a desk of notes. See [[Peter's Experiments]].
 - **Exit.** A door out onto the riverfront. From outside it looks like part of the wall. The party saw the city's lights and felt sure they were still in Amberhold.
 
+## Recent developments
+- [[Session 40]]: [[Peter Owens]] died in the laboratory. [[Talir Rengavi]] came in through the floor above. Next morning, many [[Royal Guard|royal guards]] surrounded the warehouse. [[Heaven's Touch]] is about 50 ft away.
+
 %% session-history:start %%
 ## Session history
 
-> [!info]- 1 session · [[Session 39]]
+> [!info]- 2 sessions · first [[Session 39]] · last [[Session 40]]
 > - [[Session 39]]: The crates are filled with various cloths and we find a note of delivery to the warehouse of Lord Richard Owens.
+> - [[Session 40]]: Erik Bufford of Bufford's Landing (north of Amberhold) is one of the Lords leading the movement to gather more power. ## That Night - We leave the warehouse and return to our rooms.
 %% session-history:end %%

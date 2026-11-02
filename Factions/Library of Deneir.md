@@ -20,8 +20,9 @@ Organization dedicated to collecting books, knowledge, artifacts, and secrets. [
 %% session-history:start %%
 ## Session history
 
-> [!info]- 3 sessions · first [[Session 13]] · last [[Session 39]]
+> [!info]- 4 sessions · first [[Session 13]] · last [[Session 41]]
 > - [[Session 13]]: They work for the Library of Deneir in Amberhold, an organisation that collects information ranging from books and knowledge to artefacts and secrets.
 > - [[Session 37]]: shop for the Gala - Find the missing sanitation workers - Riffle want to go to Heaven's Touch (the brothel competition) - Riffle to see Esther (Head Archivist of the Library)(Done)
 > - [[Session 39]]: ## To Do List - ~~Deanira talk to the sailors about rumours about the mysterious unplottable island.~~ - Shop for magic items for the Gauntlet - Shop for the Gala - Find the missing sanitation workers - Riffle wants to…
+> - [[Session 41]]: He says that someone from the Academy (Mistra's Academy) or the Library (Library of Deneir) recently bought them.
 %% session-history:end %%

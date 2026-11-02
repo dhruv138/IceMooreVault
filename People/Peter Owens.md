@@ -27,12 +27,16 @@ The notes spell the family name both **Owens** ([[Session 36]]) and **Owen** ([[
 - [[Session 39]]: His notes name [[Deanira]] and [[Coda's Landing]] as a target, and say he "needs a female phase". See [[Peter's Experiments]].
 - [[Session 39]]: His spellbook includes *polymorph* but not *disguise self* or *alter self* ([[Peter's Spellbook]]).
 - [[Session 39]]: [suspicion] The party called the mausoleum "Owen's" when checking whether the door was locked behind someone, so they took the hooded figure from [[Session 38]] to be Peter.
+- [[Session 40]]: Under [[Theo'din Corvis|Theo]]'s Zone of Truth he named himself **Lord Peter Owens** and admitted he **works for the [[Master of Death]]**, finding recruits and running experiments; the captives are test subjects for making bigger and better minions. He suggested his parents created the lab and started the experiments. He denied robbing [[Talir Rengavi]]'s office or ever framing [[Riffle]] or a kenku.
+- [[Session 40]]: **Dead.** As [[Furgus]] intimidated him into talking, his tattoo glowed green and a Disintegrate spell reduced him to ash. Theo kept some of the ashes. The party took a [[Ring of Waterwalking]] and a [[Pearl of Power]] from him.
+- [[Session 40]]: Talir's cover story: he died resisting a royal arrest (see [[Royal Guard]]). As the Owens heir, his death leaves the family inheritance open.
 
 %% session-history:start %%
 ## Session history
 
-> [!info]- 3 sessions · first [[Session 36]] · last [[Session 39]]
+> [!info]- 4 sessions · first [[Session 36]] · last [[Session 40]]
 > - [[Session 36]]: Riffle heard that his son Philip?Peter?
 > - [[Session 38]]: We head to the Academy to see about a graduate student named Peter.
 > - [[Session 39]]: ## Session Notes ### The Mausoleum With Riffle and Furgus being invisible, Deanira and the rest of the party sneak to the door to see if it is locked behind Owen's.
+> - [[Session 40]]: "Peter" is bound and gagged with WISC's super smelly socks.
 %% session-history:end %%

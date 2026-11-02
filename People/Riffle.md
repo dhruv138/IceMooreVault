@@ -44,11 +44,13 @@ Riffle is highly inquisitive, prone to theft and mischief, and has accumulated a
 - [[Session 38]]: Helped [[Karyn]] and glimpsed details of the [[Gauntlet]].
 - [[Session 38]]: Accused by Talir, via Sending, of stealing documents from his safe. See [[Talir's Stolen Documents]].
 - [[Session 39]]: Went in invisible, was teleported into a poison-filled sarcophagus, and was freed. Found Peter's notes in the laboratory. Judged that the captives' condition is supernatural, not medical or necromantic. Wrote to [[Talir Rengavi|Talir]], with Theo's raven as messenger.
+- [[Session 40]]: Learned the alarm that went off in Talir's office wasn't theirs, so they're cleared of the theft ([[Talir's Stolen Documents]]). Found a note on their pillow asking what secrets Talir keeps ([[Pillow Note]]). Confided in [[Hana Goldfirm]] and was talked out of leaving.
+- [[Session 41]]: Got [[Slick Willy Campbell]]'s tip about the Albatross ([[Albatross Mystery]]). Sent Talir a Sending when royal guards came for the party.
 
 %% session-history:start %%
 ## Session history
 
-> [!info]- 30 sessions · first [[Session 10]] · last [[Session 39]]
+> [!info]- 32 sessions · first [[Session 10]] · last [[Session 41]]
 > - [[Session 10]]: Anita: Riffle Taylor: WISC Dhruv: Furgus As we walk into The Warhammer, Gunther Rockhammer waves us over.
 > - [[Session 11]]: Riffle sends their familiar to scout and get a lay of the land. 3 big guys, 3 archers, 1 sleeping Druid, and 1 leader. 4 tents are also there and perhaps occupied.
 > - [[Session 12]]: Riffle ends up killing him.
@@ -79,4 +81,6 @@ Riffle is highly inquisitive, prone to theft and mischief, and has accumulated a
 > - [[Session 37]]: She gets a mixed berry turnover on her way to the temple to see the Cleric that riffle screamed about in the middle of the night.
 > - [[Session 38]]: After shopping, Riffle wants to go speak to Sabrina, the bartender at the Velvet Glove.
 > - [[Session 39]]: ## Session Notes ### The Mausoleum With Riffle and Furgus being invisible, Deanira and the rest of the party sneak to the door to see if it is locked behind Owen's.
+> - [[Session 40]]: Key admissions (under Zone of Truth): - He didn't break into Talir's office, has never framed Riffle for anything, and has never framed a kenku for anything.
+> - [[Session 41]]: Riffle personally intrigues her by asking to order 1500 caltrops.
 %% session-history:end %%

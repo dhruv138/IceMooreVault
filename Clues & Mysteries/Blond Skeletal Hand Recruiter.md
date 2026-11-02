@@ -32,3 +32,4 @@ A blond young man who appears to recruit for the [[Skeletal Hand]] in [[Amberhol
 
 ## Recent developments
 - [[Session 39]]: [[Peter Owens]] has been captured. The notes still don't describe his hair or mention a Skeletal Hand tattoo, so whether he's the recruiter "Peter" remains open. He did make greater zombies, as [[Christolf Nightfall]] did with [[Nastil]].
+- [[Session 40]]: Under Zone of Truth, [[Peter Owens]] admitted he **finds recruits** for the [[Master of Death]]. This strengthens the case that he is the recruiter "Peter", though his hair colour and tattoo design still aren't recorded. He is now dead.
